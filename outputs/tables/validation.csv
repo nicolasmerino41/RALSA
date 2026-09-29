@@ -1,0 +1,11 @@
+dataset,sites,links,consumers,checks_passed
+Quercus,22,133,56,true
+Nahuel,8,163,89,true
+Salix_Galpar,341,939,126,true
+Gottin_HP,32,108,21,true
+Gottin_PP,32,781,138,true
+Garraf_HP,25,89,38,true
+Garraf_PP,40,325,170,true
+Garraf_PP2,21,967,141,true
+Olot,14,92,20,true
+Montseny,18,707,194,true
