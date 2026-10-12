@@ -1,0 +1,333 @@
+site,species,trophic_level
+plot1,Ancistrocerus longispinosus,resource
+plot1,Anthrax.anthrax,consumer
+plot1,Heriades crenulatus,resource
+plot1,Hoplitis adunca,resource
+plot1,Leucospis.dorsigera,consumer
+plot1,Megachile apicalis,resource
+plot1,Megachile rotundata,resource
+plot1,Miltogramma.spp..sp1,consumer
+plot1,Omalus_sp1,consumer
+plot1,Osmia caerulescens,resource
+plot1,Osmia nasoproducta,resource
+plot1,Osmia tricornis,resource
+plot1,Passaloecus gracilis,resource
+plot1,Psenulus fuscipennis,resource
+plot1,Trypoxylon sp.1,resource
+plot10,Ancistrocerus longispinosus,resource
+plot10,Anthrax_anthrax,consumer
+plot10,Megachile rotundata,resource
+plot10,Melittobia_sp1,consumer
+plot10,Osmia bicornis,resource
+plot10,Osmia caerulescens,resource
+plot10,Osmia tricornis,resource
+plot11,Ancistrocerus longispinosus,resource
+plot11,Anthrax.anthrax,consumer
+plot11,Megachile apicalis,resource
+plot11,Megachile ericetorum,resource
+plot11,Megachile rotundata,resource
+plot11,Miltogramma.spp.,consumer
+plot11,Passaloecus pictus,resource
+plot12,Ancistrocerus longispinosus,resource
+plot12,Anthrax.anthrax,consumer
+plot12,Chelostoma edentulum ,resource
+plot12,Dipogon sp.1,resource
+plot12,Gasteruption.sp.1,consumer
+plot12,Heriades crenulatus,resource
+plot12,Hoplitis adunca,resource
+plot12,Hylaeus hyalinatus,resource
+plot12,Hylaeus taeniolatus,resource
+plot12,Megachile rotundata,resource
+plot12,Miltogramma.spp..sp1,consumer
+plot12,Nitela sp1,resource
+plot12,Trypoxylon sp1,resource
+plot13,Ancistrocerus longispinosus,resource
+plot13,Anthrax.anthrax,consumer
+plot13,Auplopus carbonarius,resource
+plot13,Chelostoma edentulum ,resource
+plot13,Cystomutilla_sp1,consumer
+plot13,Eumeninae sp2,resource
+plot13,Eumeninae sp3,resource
+plot13,Euodynerus sp1,resource
+plot13,Heriades crenulatus,resource
+plot13,Hoplitis adunca,resource
+plot13,Megachile apicalis,resource
+plot13,Megachile rotundata,resource
+plot13,Melittobia.sp.,consumer
+plot13,Miltogramma.spp.,consumer
+plot13,Omalus.sp.1,consumer
+plot13,Osmia caerulescens,resource
+plot13,Osmia submicans,resource
+plot13,Passaloecus gracilis,resource
+plot13,Solierella compedita,resource
+plot13,Toxophora_sp1,consumer
+plot13,Trypoxylon sp1,resource
+plot14,Ampulex ruficollis,resource
+plot14,Ancistrocerus longispinosus,resource
+plot14,Anthrax.anthrax,consumer
+plot14,Auplopus carbonaria,resource
+plot14,Caliphoridae.sp..1,consumer
+plot14,Chalcis.sp.1,consumer
+plot14,Diodontus sp.1,resource
+plot14,Dipogon sp1,resource
+plot14,Dipogon sp2,resource
+plot14,Megachile apicalis,resource
+plot14,Melittobia.sp..sp1,consumer
+plot14,Miltogramma.spp.,consumer
+plot14,Nitela sp1,resource
+plot14,Omalus.sp.1,consumer
+plot14,Omalus.sp.2,consumer
+plot14,Osmia caerulescens,resource
+plot14,Passaloecus gracilis,resource
+plot14,Passaloecus pictus,resource
+plot14,Psenulus fuscipennis,resource
+plot14,Trypoxylon sp.1,resource
+plot15,Ancistrocerus longispinosus,resource
+plot15,Anthrax.anthrax,consumer
+plot15,Coelioxys_echinata,consumer
+plot15,Cystomutilla_sp1,consumer
+plot15,Hoplitis adunca,resource
+plot15,Megachile apicalis,resource
+plot15,Megachile rotundata,resource
+plot15,Melittobia.sp.,consumer
+plot15,Miltogramma.spp.,consumer
+plot15,Osmia caerulescens,resource
+plot15,Osmia submicans,resource
+plot15,Trypoxylon sp1,resource
+plot16,Ampulex ruficollis,resource
+plot16,Ancistrocerus longispinosus,resource
+plot16,Anthrax.anthrax,consumer
+plot16,Chrysura_sp1,consumer
+plot16,Coelyoxis.echinata,consumer
+plot16,Cystomutilla_sp1,consumer
+plot16,Diodontus sp.1,resource
+plot16,Heriades crenulatus,resource
+plot16,Hoplitis adunca,resource
+plot16,Megachile apicalis,resource
+plot16,Megachile rotundata,resource
+plot16,Melittobia.sp.,consumer
+plot16,Miltogramma.spp.,consumer
+plot16,Nitela truncata,resource
+plot16,Osmia caerulescens,resource
+plot16,Osmia submicans,resource
+plot16,Passaloecus gracilis,resource
+plot16,Sapyga.quinquepunctata,consumer
+plot16,Solierella compedita,resource
+plot16,Toxophora_sp1,consumer
+plot16,Trichodes.leucopsideus.,consumer
+plot16,Trogoderma_sp1,consumer
+plot17,Ampulex ruficollis,resource
+plot17,Ancistrocerus longispinosus,resource
+plot17,Anthrax.anthrax,consumer
+plot17,Dipogon sp.2,resource
+plot17,Omalus.sp.1,consumer
+plot17,Osmia caerulescens,resource
+plot17,Osmia submicans,resource
+plot17,Passaloecus gracilis,resource
+plot17,Pison atrum,resource
+plot17,Sapyga.quinquepunctata,consumer
+plot17,Trichrysis.cyanea,consumer
+plot17,Trypoxylon sp.1,resource
+plot18,Ampulex ruficollis,resource
+plot18,Ancistrocerus longispinosus,resource
+plot18,Anthrax.anthrax,consumer
+plot18,Chrysis.ignita,consumer
+plot18,Hoplitis adunca,resource
+plot18,Megachile rotundata,resource
+plot18,Melittobia_sp1,consumer
+plot18,Miltogramma.spp..sp1,consumer
+plot18,Osmia caerulescens,resource
+plot18,Osmia submicans,resource
+plot18,Pison atrum,resource
+plot18,Trogoderma_sp1,consumer
+plot18,Trypoxylon sp1,resource
+plot19,Ampulex ruficollis,resource
+plot19,Ancistrocerus longispinosus,resource
+plot19,Anthrax.anthrax,consumer
+plot19,Auplopus carbonaria,resource
+plot19,Chelostoma edentulum,resource
+plot19,Chrisis_ignita,consumer
+plot19,Dipogon sp.3,resource
+plot19,Dipogon sp2,resource
+plot19,Hoplitis adunca,resource
+plot19,Melittobia.sp..sp1,consumer
+plot19,Miltogramma.spp..sp1,consumer
+plot19,Omalus.sp.1,consumer
+plot19,Osmia caerulescens,resource
+plot19,Osmia submicans,resource
+plot19,Passaloecus gracilis,resource
+plot19,Pompilidae sp.1,resource
+plot19,Psenulus fuscipennis,resource
+plot19,Sapyga_quinquepunctata,consumer
+plot19,Trypoxylon sp1,resource
+plot2,Ancistrocerus longispinosus,resource
+plot2,Anthrax.anthrax,consumer
+plot2,Chaetodactylus_sp1,consumer
+plot2,Megachile rotundata,resource
+plot2,Miltogramma.spp.,consumer
+plot2,Nitela_fallax,resource
+plot2,Osmia bicornis,resource
+plot2,Osmia caerulescens,resource
+plot2,Osmia sp1,resource
+plot2,Pteromalidae_sp1,consumer
+plot2,Trypoxylon sp.1,resource
+plot20,Ampulex ruficollis,resource
+plot20,Ancistrocerus longispinosus,resource
+plot20,Anthrax.anthrax,consumer
+plot20,Dipogon sp.1,resource
+plot20,Dipogon sp2,resource
+plot20,Eumeninae sp.1,resource
+plot20,Heriades crenulatus,resource
+plot20,Megachile apicalis,resource
+plot20,Omalus_sp1,consumer
+plot20,Osmia caerulescens,resource
+plot20,Passaloecus gracilis,resource
+plot20,Sapyga.quinquepunctata,consumer
+plot20,Trichodes.leucopsideus.,consumer
+plot21,Coelyoxis.echinata,consumer
+plot21,Isodontia mexicana,resource
+plot21,Megachile rotundata,resource
+plot21,Melittobia_sp1,consumer
+plot21,Osmia caerulescens,resource
+plot21,Passaloecus gracilis,resource
+plot21,Pison atrum,resource
+plot21,Trypoxylon sp1,resource
+plot22,Ampulex ruficollis,resource
+plot22,Ancistrocerus longispinosus,resource
+plot22,Anthidium nigricolle,resource
+plot22,Anthrax.anthrax,consumer
+plot22,Anthrax_sp2,consumer
+plot22,Auplopus carbonarius,resource
+plot22,Heriades crenulatus,resource
+plot22,Megachile rotundata,resource
+plot22,Meloidae_sp1,consumer
+plot22,Miltogramma.spp.,consumer
+plot22,Nitela sp1,resource
+plot22,Nitela truncata,resource
+plot22,Omalus_sp1,consumer
+plot22,Osmia caerulescens,resource
+plot22,Osmia submicans,resource
+plot22,Passaloecus gracilis,resource
+plot22,Solierella compedita,resource
+plot23,Ampulex ruficollis,resource
+plot23,Ancistrocerus longispinosus,resource
+plot23,Anthrax.anthrax,consumer
+plot23,Chelostoma edentulum,resource
+plot23,Chrisis_ignita,consumer
+plot23,Dipogon sp2,resource
+plot23,Hoplitis adunca,resource
+plot23,Melittobia_sp1,consumer
+plot23,Mutillidae_sp1,consumer
+plot23,Nitela fallax,resource
+plot23,Nitela sp1,resource
+plot23,Nitela truncata,resource
+plot23,Omalus_sp1,consumer
+plot23,Osmia caerulescens,resource
+plot23,Osmia submicans,resource
+plot23,Passaloecus gracilis,resource
+plot23,Psenulus fuscipennis,resource
+plot23,Sapyga.quinquepunctata,consumer
+plot23,Trichodes.leucopsideus.,consumer
+plot23,Xorides.sp.1,consumer
+plot24,Anthrax.anthrax,consumer
+plot24,Hoplitis adunca,resource
+plot24,Nitela fallax,resource
+plot24,Omalus.sp.1,consumer
+plot24,Osmia caerulescens,resource
+plot24,Osmia submicans,resource
+plot24,Passaloecus gracilis,resource
+plot24,Psenulus fuscipennis,resource
+plot24,Trichodes.leucopsideus.,consumer
+plot24,Trypoxylon sp.1,resource
+plot25,Ancistrocerus longispinosus,resource
+plot25,Chalcis.sp.1,consumer
+plot25,Megachile apicalis,resource
+plot25,Megachile rotundata,resource
+plot25,Melittobia.sp.,consumer
+plot25,Miltogramma_sp1,consumer
+plot25,Nitela sp.1,resource
+plot25,Osmia tricornis,resource
+plot25,Solierella compedita,resource
+plot3,Ancistrocerus longispinosus,resource
+plot3,Anthrax.anthrax,consumer
+plot3,Coelyoxis.echinata,consumer
+plot3,Megachile apicalis,resource
+plot3,Megachile rotundata,resource
+plot3,Miltogramma.spp..sp1,consumer
+plot3,Omalus_sp1,consumer
+plot3,Osmia bicornis,resource
+plot3,Osmia caerulescens,resource
+plot3,Passaloecus gracilis,resource
+plot3,Sapyga_quinquepunctata,consumer
+plot4,Ancistrocerus longispinosus,resource
+plot4,Anthrax.anthrax,consumer
+plot4,Megachile rotundata,resource
+plot4,Miltogramma.spp..sp1,consumer
+plot4,Nitela sp1,resource
+plot4,Osmia caerulescens,resource
+plot4,Osmia submicans,resource
+plot5,Ampulex ruficollis,resource
+plot5,Ancistrocerus longispinosus,resource
+plot5,Anthrax.anthrax,consumer
+plot5,Megachile rotundata,resource
+plot5,Miltogramma.spp.,consumer
+plot5,Nitela sp.1,resource
+plot5,Osmia caerulescens,resource
+plot5,Osmia latreillei,resource
+plot5,Osmia submicans,resource
+plot5,Passaloecus gracilis,resource
+plot6,Ancistrocerus longispinosus,resource
+plot6,Hedycridium_sp1,consumer
+plot6,Heriades crenulatus,resource
+plot6,Hoplitis adunca,resource
+plot6,Megachile rotundata,resource
+plot6,Miltogramma.spp.,consumer
+plot6,Omalus.sp.1,consumer
+plot6,Osmia submicans,resource
+plot6,Passaloecus gracilis,resource
+plot6,Solierella compedita,resource
+plot6,Solierella sp1,resource
+plot6,Trichodes_leucopsideus,consumer
+plot6,Trypoxylon sp.1,resource
+plot7,Ancistrocerus longispinosus,resource
+plot7,Anthidium florentinum,resource
+plot7,Anthrax.anthrax,consumer
+plot7,Chelostoma sp,resource
+plot7,Heriades crenulatus,resource
+plot7,Leucospis.dorsigera,consumer
+plot7,Megachile rotundata,resource
+plot7,Melittobia.sp..sp1,consumer
+plot7,Miltogramma.spp..sp1,consumer
+plot7,Nitela sp.1,resource
+plot7,Osmia submicans,resource
+plot7,Solierella compedita,resource
+plot8,Ancistrocerus longispinosus,resource
+plot8,Anthidium florentinum,resource
+plot8,Anthrax_anthrax,consumer
+plot8,Chrysis.ignita,consumer
+plot8,Coelioxys_echinata,consumer
+plot8,Hedycridium,consumer
+plot8,Heriades crenulatus,resource
+plot8,Hoplitis adunca,resource
+plot8,Megachile apicalis,resource
+plot8,Megachile ericetorum,resource
+plot8,Megachile rotundata,resource
+plot8,Melittobia_sp1,consumer
+plot8,Osmia tricornis,resource
+plot8,Passaloecus gracilis,resource
+plot8,Solierella compedita,resource
+plot9,Ampulex ruficollis,resource
+plot9,Ancistrocerus longispinosus,resource
+plot9,Anthrax.anthrax,consumer
+plot9,Auplopus carbonaria,resource
+plot9,Chalcis_sp1,consumer
+plot9,Hybomischos.sp.1,consumer
+plot9,Melittobia_sp1,consumer
+plot9,Omalus_sp1,consumer
+plot9,Osmia caerulescens,resource
+plot9,Osmia submicans,resource
+plot9,Osmia tricornis,resource
+plot9,Passaloecus gracilis,resource
+plot9,Psenulus fuscipennis,resource
+plot9,Sapyga_quinquepunctata,consumer
+plot9,Trypoxylon sp2,resource

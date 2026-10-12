@@ -1,0 +1,11 @@
+dataset,N,pairs,links,total_support,p_emp,r_regional,consumer_presence,resource_presence,unlinked_consumer_sites,unlinked_resource_sites,occurrence_version,holdout_block
+Quercus,22,1192,133,430,0.08331718659174578,0.1115771812080537,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,156,zero-presence sensitivity: inclusive,Quercus
+Nahuel,8,938,163,334,0.1676706827309237,0.17377398720682302,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,0,zero-presence sensitivity: inclusive,Nahuel
+Salix_Galpar,341,3168,939,3104,0.3005422153369481,0.29640151515151514,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,171,zero-presence sensitivity: inclusive,Salix_Galpar
+Gottin_HP,32,837,108,357,0.0957618025751073,0.12903225806451613,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,308,zero-presence sensitivity: inclusive,Gottin
+Gottin_PP,32,9426,781,1987,0.06660856156347424,0.08285593040526204,includes uncertain missing-plant records,baseline plus documented additions; see presence_record_provenance.csv,474,0,zero-presence sensitivity: inclusive,Gottin
+Garraf_HP,25,622,89,159,0.14735866543095458,0.14308681672025725,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,115,zero-presence sensitivity: inclusive,Bosch_collection
+Garraf_PP,40,1355,325,747,0.2553846153846154,0.23985239852398524,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,0,zero-presence sensitivity: inclusive,Bosch_collection
+Garraf_PP2,21,3908,967,4288,0.33526192337763877,0.24744114636642783,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,4,zero-presence sensitivity: inclusive,Bosch_collection
+Olot,14,558,92,253,0.16743878226340173,0.16487455197132617,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,50,zero-presence sensitivity: inclusive,Bosch_collection
+Montseny,18,3856,707,1451,0.19290082424886998,0.183350622406639,baseline occupancy,baseline plus documented additions; see presence_record_provenance.csv,0,1,zero-presence sensitivity: inclusive,Bosch_collection
