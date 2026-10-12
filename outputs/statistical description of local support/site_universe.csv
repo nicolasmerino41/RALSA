@@ -1,0 +1,554 @@
+dataset,site,has_interactions
+Quercus,1,true
+Quercus,1405,true
+Quercus,1491,true
+Quercus,1616,true
+Quercus,1628,true
+Quercus,1648,true
+Quercus,1798,true
+Quercus,200,true
+Quercus,536,true
+Quercus,649,true
+Quercus,654,true
+Quercus,690,true
+Quercus,714,true
+Quercus,726,true
+Quercus,728,true
+Quercus,729,true
+Quercus,751,true
+Quercus,865,true
+Quercus,879,true
+Quercus,885,true
+Quercus,888,true
+Quercus,992,true
+Nahuel,1,true
+Nahuel,2,true
+Nahuel,3,true
+Nahuel,4,true
+Nahuel,5,true
+Nahuel,6,true
+Nahuel,7,true
+Nahuel,8,true
+Salix_Galpar,Albulapaß nr. Paßhöhe,true
+Salix_Galpar,Aldino,true
+Salix_Galpar,Alta,true
+Salix_Galpar,"Alta, Baeskades",true
+Salix_Galpar,Altenkrempe,true
+Salix_Galpar,"Altenstadt, Höchst",true
+Salix_Galpar,"Altenstadt, Nidder",true
+Salix_Galpar,Andelshofen,true
+Salix_Galpar,Annaberg,true
+Salix_Galpar,"Annaberg, Tennengau",true
+Salix_Galpar,Arbesbach I,true
+Salix_Galpar,Arbesbach II,true
+Salix_Galpar,Arbesbach III,true
+Salix_Galpar,Arolla,true
+Salix_Galpar,Bad Aussee,true
+Salix_Galpar,Bad Ischl,true
+Salix_Galpar,Bardu,true
+Salix_Galpar,Berkak,true
+Salix_Galpar,Binntal nr. Fiesch,true
+Salix_Galpar,Blavand,true
+Salix_Galpar,Bletterbachschlucht nr.Aldino,true
+Salix_Galpar,"Bodman, Stockenloch",true
+Salix_Galpar,Borkum,true
+Salix_Galpar,"Born, Darß",true
+Salix_Galpar,Brandbu,true
+Salix_Galpar,Dabrowka nr. Mikolaiken,true
+Salix_Galpar,"Dachsteingebirge, Hoferalm b. Filzmos",true
+Salix_Galpar,"Dachsteinstraße, Ramsau",true
+Salix_Galpar,"Defereggental, Erlsbach",true
+Salix_Galpar,"Defereggental, Oberhausalpe",true
+Salix_Galpar,"Defereggental, St. Jakob, Trojer Alm",true
+Salix_Galpar,"Defereggental, Stalleralm",true
+Salix_Galpar,Dettingen,true
+Salix_Galpar,Dovrefjell,true
+Salix_Galpar,"Dovrefjell, Grönbakken",true
+Salix_Galpar,Eberswalde,true
+Salix_Galpar,Eigeltingen,true
+Salix_Galpar,Etzen,true
+Salix_Galpar,"F. Corogiu, Tortoli",true
+Salix_Galpar,Falzthurn-Alm,true
+Salix_Galpar,Fauske,true
+Salix_Galpar,Fluela-Paß,true
+Salix_Galpar,"Folldal, Dahlholen",true
+Salix_Galpar,"Frankfurt, Riedwiese",true
+Salix_Galpar,"Frankfurt, Uni-Campus",true
+Salix_Galpar,"Garguluobbal, Karasjok",true
+Salix_Galpar,"Gebhardsweiler, Mühlhofen",true
+Salix_Galpar,Gedern,true
+Salix_Galpar,Geilo,true
+Salix_Galpar,Gern-Alm,true
+Salix_Galpar,"Gießen, Staufenberger Forst",true
+Salix_Galpar,Grafenschlag,true
+Salix_Galpar,Gramai-Alm,true
+Salix_Galpar,Grane,true
+Salix_Galpar,Griesheim bei Darmstadt,true
+Salix_Galpar,Grietherbusch / Dornick,true
+Salix_Galpar,"Grimselpaß, Grimselsee",true
+Salix_Galpar,"Grimselpaß, Räterichsbodensee",true
+Salix_Galpar,Grong,true
+Salix_Galpar,Großgerungs,true
+Salix_Galpar,Halltal,true
+Salix_Galpar,Hammer,true
+Salix_Galpar,Hartheim,true
+Salix_Galpar,"Hauge, S.-Varanger",true
+Salix_Galpar,Haugsdalen,true
+Salix_Galpar,Hegne nr. Allensbach,true
+Salix_Galpar,Hegra,true
+Salix_Galpar,Heimhulhatten,true
+Salix_Galpar,Hennestrand,true
+Salix_Galpar,Herbertshausen,true
+Salix_Galpar,"Hohe Tauern, Kals",true
+Salix_Galpar,Honau,true
+Salix_Galpar,Hordalia nr. Röldal,true
+Salix_Galpar,Horn / Bodensee / Gnadensee,true
+Salix_Galpar,Hospental,true
+Salix_Galpar,Howacht 1,true
+Salix_Galpar,Howacht 3,true
+Salix_Galpar,Ifjordfjellet / Gilojokka,true
+Salix_Galpar,Ifjordfjellet II,true
+Salix_Galpar,Jechtingen,true
+Salix_Galpar,Jostedalen,true
+Salix_Galpar,"Jotunheimen, Breiseterdalen",true
+Salix_Galpar,"Jotunheimen, Krossbu",true
+Salix_Galpar,Julierpaß bei Bivio,true
+Salix_Galpar,Juppa,true
+Salix_Galpar,Jurbarkas,true
+Salix_Galpar,Kafjordbotn,true
+Salix_Galpar,Karasjok,true
+Salix_Galpar,Karben,true
+Salix_Galpar,Katinger Watt,true
+Salix_Galpar,Kattenhorn nr. Wangen / Bodensee /Untersee,true
+Salix_Galpar,Ketsch,true
+Salix_Galpar,Kiduliai nr. Jurbarkas,true
+Salix_Galpar,"Kiel, Dietrichsdorf",true
+Salix_Galpar,"Kiel, Langsee",true
+Salix_Galpar,Kilianstätten,true
+Salix_Galpar,Kilpisjärvi,true
+Salix_Galpar,Kirkenes,true
+Salix_Galpar,"Kirkenes, Flugplatz",true
+Salix_Galpar,Kjölen nr. Halden,true
+Salix_Galpar,"Klausdorf, Schwentine",true
+Salix_Galpar,Korgfjellet,true
+Salix_Galpar,Kruklanki,true
+Salix_Galpar,"Kvaenangen, Gildetun",true
+Salix_Galpar,Kvaenangsbotn,true
+Salix_Galpar,"Kvalsund, Breidalsfjell",true
+Salix_Galpar,Kvamskogen,true
+Salix_Galpar,"Kühkopf, Mordhecke I",true
+Salix_Galpar,"Kühkopf, Mordhecke II",true
+Salix_Galpar,"Kühkopf, Mordhecke III",true
+Salix_Galpar,La Massane,true
+Salix_Galpar,Lago di Lei,true
+Salix_Galpar,Lakselv / Stabursnes,true
+Salix_Galpar,Langen-Bergheim,true
+Salix_Galpar,Lapphaugen bei Bardu,true
+Salix_Galpar,Lavangsdalen,true
+Salix_Galpar,Leira nr. Trondheim,true
+Salix_Galpar,Leitenberg,true
+Salix_Galpar,Les Hauderes,true
+Salix_Galpar,Leukerbad,true
+Salix_Galpar,"Limeshain, Rommelhausen",true
+Salix_Galpar,"Lofot, Austvagoya, Delp",true
+Salix_Galpar,"Lofot, Austvagoya, Moksnes",true
+Salix_Galpar,"Lofot, Austvagoya, Morfjord",true
+Salix_Galpar,"Lofot, Austvagoya, Rörvika",true
+Salix_Galpar,"Lofot, Flakstad, Flakstad",true
+Salix_Galpar,"Lofot, Grunnfjord",true
+Salix_Galpar,"Lofot, Hadselsand",true
+Salix_Galpar,"Lofot, Laubstad",true
+Salix_Galpar,"Lofot, Laukvik",true
+Salix_Galpar,"Lofot, Sandsletta",true
+Salix_Galpar,"Lofot, Vestvagoy, Torvdalen",true
+Salix_Galpar,"Lusterfjord, Höyheimsvik",true
+Salix_Galpar,Luxembourg,true
+Salix_Galpar,Mahndorf,true
+Salix_Galpar,Malm,true
+Salix_Galpar,Maltatal I,true
+Salix_Galpar,Maltatal II,true
+Salix_Galpar,Markelfingen,true
+Salix_Galpar,Markelfingen / Schlafbach,true
+Salix_Galpar,Marköbel,true
+Salix_Galpar,"Mattertal, Täsch",true
+Salix_Galpar,"Meldal, Resvatnet",true
+Salix_Galpar,Mellum,true
+Salix_Galpar,"Misvaerfjorden, Misvaer",true
+Salix_Galpar,Modrus,true
+Salix_Galpar,Montespluga,true
+Salix_Galpar,Moorburg,true
+Salix_Galpar,Mt. Altissimo di Nago,true
+Salix_Galpar,"Murtal, Muhr",true
+Salix_Galpar,"Murtal, Muhr, Kraftwerk",true
+Salix_Galpar,Möggingen,true
+Salix_Galpar,"Mörfelden, Baggersee",true
+Salix_Galpar,"Mühlhofen, Alseweiher",true
+Salix_Galpar,"N.-Varanger, Reppen",true
+Salix_Galpar,"N.-Varanger, Sandfjord",true
+Salix_Galpar,"N.-Varanger, Sandfjord, Fjell",true
+Salix_Galpar,"N.-Varanger, Tanabru",true
+Salix_Galpar,"Namsskogan, Mellingsmoen",true
+Salix_Galpar,Narewa,true
+Salix_Galpar,"Narvik, Björnfjell",true
+Salix_Galpar,Neiden,true
+Salix_Galpar,Nemirseta nr. Palanga,true
+Salix_Galpar,"Neringa, Juodkrante",true
+Salix_Galpar,"Neuwilen, Bommer Weiher",true
+Salix_Galpar,Nidderau-Heldenbergen,true
+Salix_Galpar,Nigardsbreen nr. Gaupne,true
+Salix_Galpar,Norderney,true
+Salix_Galpar,Nordfjorden,true
+Salix_Galpar,"Nufenenpaß, Aegtnental",true
+Salix_Galpar,"Nufenenpaß, E-Werk",true
+Salix_Galpar,"Nufenenpaß, Paßhöhe I",true
+Salix_Galpar,"Nufenenpaß, Paßhöhe II",true
+Salix_Galpar,"Nufenenpaß, Val de Bedretto I",true
+Salix_Galpar,"Nufenenpaß, Val de Bedretto II",true
+Salix_Galpar,Nymindegab,true
+Salix_Galpar,"Obergoms, Gletsch",true
+Salix_Galpar,"Obergoms, Obergesteln",true
+Salix_Galpar,"Obergoms, Oberwald",true
+Salix_Galpar,"Obergoms, Reckingen",true
+Salix_Galpar,Obertauern I,true
+Salix_Galpar,Obertauern II,true
+Salix_Galpar,Obertauern III,true
+Salix_Galpar,Olderfjord / Hatter,true
+Salix_Galpar,Olperer,true
+Salix_Galpar,Oppdal,true
+Salix_Galpar,Ortenberg I,true
+Salix_Galpar,Ortenberg II,true
+Salix_Galpar,Ortenberg III,true
+Salix_Galpar,Palanga,true
+Salix_Galpar,"Paso del Maniva, Dosso Alto",true
+Salix_Galpar,Paso del Tonale,true
+Salix_Galpar,"Paso di Gavia, Pezzo",true
+Salix_Galpar,Passo di Mendola nr. Kaltern,true
+Salix_Galpar,Peer Gynt veien I,true
+Salix_Galpar,Peer Gynt veien II,true
+Salix_Galpar,Peer Gynt veien III,true
+Salix_Galpar,"Peer Gynt veien, Gala",true
+Salix_Galpar,"Peer Gynt veien, Hattal",true
+Salix_Galpar,"Pitztal, Nähe Mittelberg",true
+Salix_Galpar,Planneralm I,true
+Salix_Galpar,Planneralm II,true
+Salix_Galpar,Plauer See,true
+Salix_Galpar,Polarkreis I,true
+Salix_Galpar,Polarkreis II,true
+Salix_Galpar,Polarkreis III,true
+Salix_Galpar,Polarkreis IV,true
+Salix_Galpar,"Polarkreis, Krokstrand",true
+Salix_Galpar,Preber See bei Tamsweg,true
+Salix_Galpar,"Preetz, Postsee",true
+Salix_Galpar,Pretrobruck,true
+Salix_Galpar,Purath nr. Arbesbach,true
+Salix_Galpar,"Radolfzell, Markelfingen, Hornhalde",true
+Salix_Galpar,"Radolfzell, Mettnau",true
+Salix_Galpar,"Radolfzell, Mindelsee",true
+Salix_Galpar,Ramfjorden,true
+Salix_Galpar,"Ramsau, Silberklamm",true
+Salix_Galpar,"Rappottenstein, Edmühle",true
+Salix_Galpar,"Rappottenstein, Edmühle, (Kamputer)",true
+Salix_Galpar,Rastenfeld,true
+Salix_Galpar,Raudone,true
+Salix_Galpar,Rheinau,true
+Salix_Galpar,Rheinau (Jungwuchs),true
+Salix_Galpar,Ried / Oberinntal,true
+Salix_Galpar,Ritterhude,true
+Salix_Galpar,"Riu Malliu, bei Cagliari",true
+Salix_Galpar,"Riu di Pula, bei Cagliari",true
+Salix_Galpar,"Rofan Gebirge, Erfurter Hütte",true
+Salix_Galpar,Rogerfelde,true
+Salix_Galpar,"Rondane Nationalpark, Solvang",true
+Salix_Galpar,Röldal,true
+Salix_Galpar,Röros,true
+Salix_Galpar,"Rügen, Bergen / Kaiseritz",true
+Salix_Galpar,"Rügen, Bergen / Nonnenweiher",true
+Salix_Galpar,"Rügen, Dolgemost",true
+Salix_Galpar,"Rügen, Glowitz",true
+Salix_Galpar,"Rügen, Kiekut",true
+Salix_Galpar,"Rügen, Neuensien",true
+Salix_Galpar,"Rügen, Neukamp",true
+Salix_Galpar,"Rügen, Stedar",true
+Salix_Galpar,"Rügen, Zittvitz",true
+Salix_Galpar,"S.-Varanger, Ferdesmyra",true
+Salix_Galpar,"S.-Varanger, Nyelv",true
+Salix_Galpar,"S.-Varanger, Nyrud",true
+Salix_Galpar,"S.-Varanger, Storskog",true
+Salix_Galpar,"S.-Varanger, Svanvik",true
+Salix_Galpar,"S.-Varanger, Vaggatem",true
+Salix_Galpar,"S.-Varanger, Vaggatem, Elentj.",true
+Salix_Galpar,"S.-Varanger, Vaggatem, Gjökasen",true
+Salix_Galpar,"Saastal, Mattmark",true
+Salix_Galpar,"Schladming, Untertal",true
+Salix_Galpar,"Schladming, Untertal, Riesachfälle",true
+Salix_Galpar,Schrems-Pürbach,true
+Salix_Galpar,Schremser Moor,true
+Salix_Galpar,"Schwarzwald, Altglashütten",true
+Salix_Galpar,"Schwarzwald, Feldberg",true
+Salix_Galpar,"Schwarzwald, Schluchsee",true
+Salix_Galpar,"Schwarzwald, Todtnau",true
+Salix_Galpar,"Schönfeld, Dr. Josef Mehrlhütte",true
+Salix_Galpar,Seljestad bei Odda,true
+Salix_Galpar,Siluva,true
+Salix_Galpar,Skaerbaek,true
+Salix_Galpar,Skagen,true
+Salix_Galpar,Skjelingen,true
+Salix_Galpar,Skjölden,true
+Salix_Galpar,Skogan,true
+Salix_Galpar,Skoganvatnet,true
+Salix_Galpar,Skutevik,true
+Salix_Galpar,Spytkowo,true
+Salix_Galpar,St. Peter-Ording,true
+Salix_Galpar,St. Ulrichs,true
+Salix_Galpar,Steinamoen,true
+Salix_Galpar,Steinkjer,true
+Salix_Galpar,Stendorf,true
+Salix_Galpar,Stiklestad,true
+Salix_Galpar,Store Bjornvatn,true
+Salix_Galpar,Storuman,true
+Salix_Galpar,Sudargas,true
+Salix_Galpar,"Sulztal, Gries",true
+Salix_Galpar,"Sunnylvsfjorden nr Royr, Stranda",true
+Salix_Galpar,Sustenpaß,true
+Salix_Galpar,Süder-Friedrichs-Koog,true
+Salix_Galpar,Taernaby / Tjamerev.,true
+Salix_Galpar,"Tauernpaß, Tweng",true
+Salix_Galpar,"Tauernpaß, Untertauern II",true
+Salix_Galpar,"Taunus, Dorfweil",true
+Salix_Galpar,"Taunus, Hunoldstal",true
+Salix_Galpar,"Taunus, Oberreiffenberg",true
+Salix_Galpar,"Taunus, Usingen",true
+Salix_Galpar,"Taunus, Waldems-Esch",true
+Salix_Galpar,"Taunus, Waldems-Reichenbach",true
+Salix_Galpar,Tauplitzalm,true
+Salix_Galpar,"Tennholmfjorden, Gimstad",true
+Salix_Galpar,Tondern,true
+Salix_Galpar,"Torne Träsk, Abisko",true
+Salix_Galpar,Torun,true
+Salix_Galpar,Traismauer an der Donau,true
+Salix_Galpar,"Tretten, Nordbu nr. Ringebu",true
+Salix_Galpar,Truden,true
+Salix_Galpar,"Tyssedal, Ringedalsvatn",true
+Salix_Galpar,"Urdenbach, Urdenbacher Kämpe",true
+Salix_Galpar,"Usedom, Görmitz",true
+Salix_Galpar,"Usedom, Trassenheide",true
+Salix_Galpar,"Usedom, Zempin, Lüttendorf",true
+Salix_Galpar,"Usedom, Ziemitz",true
+Salix_Galpar,"Val Divedro, Domodossola",true
+Salix_Galpar,"Val Vermiglio, Pellizano",true
+Salix_Galpar,"Val di Egro, Mt. Tremalzo I",true
+Salix_Galpar,"Val di Egro, Mt. Tremalzo II",true
+Salix_Galpar,Vejersstrand,true
+Salix_Galpar,Vernagt-Stausee,true
+Salix_Galpar,Vikafjell bei Viksöyri,true
+Salix_Galpar,Vikafjell bei Viksöyri II,true
+Salix_Galpar,"Vogelsberg, Hoherodskopf",true
+Salix_Galpar,Walcz,true
+Salix_Galpar,Waldreichs,true
+Salix_Galpar,Waldverchs,true
+Salix_Galpar,Weinfelden / Thur,true
+Salix_Galpar,Weißenbach,true
+Salix_Galpar,"Wüstensachsen, NWR Stirnberg",true
+Salix_Galpar,"Zederhaustal, Oberweißburg",true
+Salix_Galpar,"Zillertal, Hintertux/ Weitental",true
+Salix_Galpar,"Zillertal, Lanersbach",true
+Salix_Galpar,"Zillertal, Lanersbach/ Geiselalm",true
+Salix_Galpar,"Zillertal, Stumm/ Märzengrund",true
+Salix_Galpar,Zillis,true
+Salix_Galpar,Zwettl,true
+Salix_Galpar,nr. Grabnik,true
+Salix_Galpar,nr. Rociskiai,true
+Salix_Galpar,Östersund,true
+Salix_Galpar,"Ötztal, Hochgurgl",true
+Salix_Galpar,"Ötztal, Obergurgl",true
+Salix_Galpar,"Ötztal, Obergurgl/ Bruggboden",true
+Salix_Galpar,"Ötztal, Obergurgl/ Gaisbergf.",true
+Salix_Galpar,"Ötztal, Sölden/ Rechenau",true
+Salix_Galpar,"Ötztal, Sölden/ Windache",true
+Salix_Galpar,"Ötztal, Timmelsjoch",true
+Salix_Galpar,"Ötztal, Vent/ Am Spiegel",true
+Salix_Galpar,"Ötztal, Vent/ Gample",true
+Salix_Galpar,"Ötztal, Vent/ Rofental",true
+Salix_Galpar,"Ötztal, Zwieselstein",true
+Gottin_HP,1,true
+Gottin_HP,10,true
+Gottin_HP,11,true
+Gottin_HP,12,true
+Gottin_HP,13,true
+Gottin_HP,14,true
+Gottin_HP,15,true
+Gottin_HP,16,true
+Gottin_HP,17,true
+Gottin_HP,18,true
+Gottin_HP,19,true
+Gottin_HP,2,true
+Gottin_HP,20,true
+Gottin_HP,21,true
+Gottin_HP,22,true
+Gottin_HP,23,true
+Gottin_HP,24,true
+Gottin_HP,25,true
+Gottin_HP,26,true
+Gottin_HP,27,true
+Gottin_HP,28,true
+Gottin_HP,29,true
+Gottin_HP,3,true
+Gottin_HP,30,true
+Gottin_HP,31,true
+Gottin_HP,32,true
+Gottin_HP,4,true
+Gottin_HP,5,true
+Gottin_HP,6,true
+Gottin_HP,7,true
+Gottin_HP,8,true
+Gottin_HP,9,true
+Gottin_PP,1,true
+Gottin_PP,10,true
+Gottin_PP,11,true
+Gottin_PP,12,true
+Gottin_PP,13,true
+Gottin_PP,14,true
+Gottin_PP,15,true
+Gottin_PP,16,true
+Gottin_PP,17,true
+Gottin_PP,18,true
+Gottin_PP,19,true
+Gottin_PP,2,true
+Gottin_PP,20,true
+Gottin_PP,21,true
+Gottin_PP,22,true
+Gottin_PP,23,true
+Gottin_PP,24,true
+Gottin_PP,25,true
+Gottin_PP,26,true
+Gottin_PP,27,true
+Gottin_PP,28,true
+Gottin_PP,29,true
+Gottin_PP,3,true
+Gottin_PP,30,true
+Gottin_PP,31,true
+Gottin_PP,32,true
+Gottin_PP,4,true
+Gottin_PP,5,true
+Gottin_PP,6,true
+Gottin_PP,7,true
+Gottin_PP,8,true
+Gottin_PP,9,true
+Garraf_HP,plot1,true
+Garraf_HP,plot10,true
+Garraf_HP,plot11,true
+Garraf_HP,plot12,true
+Garraf_HP,plot13,true
+Garraf_HP,plot14,true
+Garraf_HP,plot15,true
+Garraf_HP,plot16,true
+Garraf_HP,plot17,true
+Garraf_HP,plot18,true
+Garraf_HP,plot19,true
+Garraf_HP,plot2,true
+Garraf_HP,plot20,true
+Garraf_HP,plot21,true
+Garraf_HP,plot22,true
+Garraf_HP,plot23,true
+Garraf_HP,plot24,true
+Garraf_HP,plot25,true
+Garraf_HP,plot3,true
+Garraf_HP,plot4,true
+Garraf_HP,plot5,true
+Garraf_HP,plot6,true
+Garraf_HP,plot7,true
+Garraf_HP,plot8,true
+Garraf_HP,plot9,true
+Garraf_PP,plot1,true
+Garraf_PP,plot10,true
+Garraf_PP,plot11,true
+Garraf_PP,plot12,true
+Garraf_PP,plot13,true
+Garraf_PP,plot14,true
+Garraf_PP,plot15,true
+Garraf_PP,plot16,true
+Garraf_PP,plot17,true
+Garraf_PP,plot18,true
+Garraf_PP,plot19,true
+Garraf_PP,plot2,true
+Garraf_PP,plot20,true
+Garraf_PP,plot21,true
+Garraf_PP,plot22,true
+Garraf_PP,plot23,true
+Garraf_PP,plot24,true
+Garraf_PP,plot25,true
+Garraf_PP,plot26,true
+Garraf_PP,plot27,true
+Garraf_PP,plot28,true
+Garraf_PP,plot29,true
+Garraf_PP,plot3,true
+Garraf_PP,plot30,true
+Garraf_PP,plot31,true
+Garraf_PP,plot32,true
+Garraf_PP,plot33,true
+Garraf_PP,plot34,true
+Garraf_PP,plot35,true
+Garraf_PP,plot36,true
+Garraf_PP,plot37,true
+Garraf_PP,plot38,true
+Garraf_PP,plot39,true
+Garraf_PP,plot4,true
+Garraf_PP,plot40,true
+Garraf_PP,plot5,true
+Garraf_PP,plot6,true
+Garraf_PP,plot7,true
+Garraf_PP,plot8,true
+Garraf_PP,plot9,true
+Garraf_PP2,P1,true
+Garraf_PP2,P10,true
+Garraf_PP2,P11,true
+Garraf_PP2,P12,true
+Garraf_PP2,P13,true
+Garraf_PP2,P14,true
+Garraf_PP2,P15,true
+Garraf_PP2,P16,true
+Garraf_PP2,P17,true
+Garraf_PP2,P18,true
+Garraf_PP2,P19,true
+Garraf_PP2,P2,true
+Garraf_PP2,P20,true
+Garraf_PP2,P21,true
+Garraf_PP2,P3,true
+Garraf_PP2,P4,true
+Garraf_PP2,P5,true
+Garraf_PP2,P6,true
+Garraf_PP2,P7,true
+Garraf_PP2,P8,true
+Garraf_PP2,P9,true
+Olot,plot111,true
+Olot,plot121,true
+Olot,plot131,true
+Olot,plot141,true
+Olot,plot211,true
+Olot,plot221,true
+Olot,plot231,true
+Olot,plot241,true
+Olot,plot341,true
+Olot,plot411,true
+Olot,plot421,true
+Olot,plot431,true
+Olot,plot441,true
+Olot,plotF121,true
+Montseny,cc1,true
+Montseny,cc2,true
+Montseny,cc3,true
+Montseny,cc4,true
+Montseny,cc5,true
+Montseny,cc6,true
+Montseny,cc7,true
+Montseny,cc8,true
+Montseny,cc9,true
+Montseny,ct1,true
+Montseny,ct2,true
+Montseny,ct3,true
+Montseny,ct4,true
+Montseny,ct5,true
+Montseny,ct6,true
+Montseny,ct7,true
+Montseny,ct8,true
+Montseny,ct9,true

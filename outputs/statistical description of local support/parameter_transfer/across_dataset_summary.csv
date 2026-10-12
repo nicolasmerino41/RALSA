@@ -1,0 +1,3 @@
+comparison,datasets,mean_dataset_mae_pp,median_dataset_mae_pp,mean_dataset_maximum_error_pp,largest_dataset_maximum_error_pp,mean_dataset_signed_error_pp,mean_absolute_dataset_signed_error_pp,mean_mae_deterioration_pp
+Transferred,10,3.285118516642671,2.6764604861542476,5.721664174893915,11.57622359428634,0.3789058583019533,3.285118516642671,2.7270720519917275
+Own fit (in-sample),10,0.5580464646509435,0.5233622079114298,1.233516819294636,2.864563804852244,0.5553383099681015,0.5553383099681015,0.0
