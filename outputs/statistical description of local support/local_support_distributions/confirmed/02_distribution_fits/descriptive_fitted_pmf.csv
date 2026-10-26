@@ -1,0 +1,1660 @@
+dataset,model,K,expected_probability,observed_probability
+Quercus,Truncated geometric,1,0.30876975439651794,0.49624060150375937
+Quercus,Truncated geometric,2,0.2134593225904151,0.12030075187969924
+Quercus,Truncated geometric,3,0.14756912473442946,0.10526315789473684
+Quercus,Truncated geometric,4,0.10201778170481005,0.03007518796992481
+Quercus,Truncated geometric,5,0.07052713636880484,0.03007518796992481
+Quercus,Truncated geometric,6,0.04875696061277394,0.05263157894736842
+Quercus,Truncated geometric,7,0.03370675927864664,0.03007518796992481
+Quercus,Truncated geometric,8,0.023302224067899963,0.03007518796992481
+Quercus,Truncated geometric,9,0.016109340029452336,0.06015037593984962
+Quercus,Truncated geometric,10,0.011136741086530238,0.015037593984962405
+Quercus,Truncated geometric,11,0.007699074065210313,0.007518796992481203
+Quercus,Truncated geometric,12,0.00532253924204877,0.007518796992481203
+Quercus,Truncated geometric,13,0.003679588447026481,0.0
+Quercus,Truncated geometric,14,0.0025437804258027657,0.0
+Quercus,Truncated geometric,15,0.0017585713586872607,0.0
+Quercus,Truncated geometric,16,0.001215739059954125,0.0
+Quercus,Truncated geometric,17,0.0008404671522692444,0.0
+Quercus,Truncated geometric,18,0.0005810334283988771,0.007518796992481203
+Quercus,Truncated geometric,19,0.00040168118885484174,0.007518796992481203
+Quercus,Truncated geometric,20,0.00027769104081404837,0.0
+Quercus,Truncated geometric,21,0.00019197392431602271,0.0
+Quercus,Truncated geometric,22,0.000132715796337026,0.0
+Quercus,Truncated power law,1,0.482942801698179,0.49624060150375937
+Quercus,Truncated power law,2,0.16241113137382907,0.12030075187969924
+Quercus,Truncated power law,3,0.0858548422562603,0.10526315789473684
+Quercus,Truncated power law,4,0.054618011701129024,0.03007518796992481
+Quercus,Truncated power law,5,0.03845685704054267,0.03007518796992481
+Quercus,Truncated power law,6,0.028872533177283395,0.05263157894736842
+Quercus,Truncated power law,7,0.022658493157746623,0.03007518796992481
+Quercus,Truncated power law,8,0.018367750885980024,0.03007518796992481
+Quercus,Truncated power law,9,0.015262788704849496,0.06015037593984962
+Quercus,Truncated power law,10,0.012932839332264311,0.015037593984962405
+Quercus,Truncated power law,11,0.011133103012460125,0.007518796992481203
+Quercus,Truncated power law,12,0.009709681482904879,0.007518796992481203
+Quercus,Truncated power law,13,0.008561540924415228,0.0
+Quercus,Truncated power law,14,0.007619932414430414,0.0
+Quercus,Truncated power law,15,0.0068366427313493435,0.0
+Quercus,Truncated power law,16,0.006176978291621804,0.0
+Quercus,Truncated power law,17,0.005615412569844356,0.0
+Quercus,Truncated power law,18,0.005132795794363019,0.007518796992481203
+Quercus,Truncated power law,19,0.004714514381831572,0.007518796992481203
+Quercus,Truncated power law,20,0.004349246039993153,0.0
+Quercus,Truncated power law,21,0.0040280988741988825,0.0
+Quercus,Truncated power law,22,0.0037440041545231516,0.0
+Quercus,Shifted truncated negative binomial,1,0.48565389274678267,0.49624060150375937
+Quercus,Shifted truncated negative binomial,2,0.1490277262744662,0.12030075187969924
+Quercus,Shifted truncated negative binomial,3,0.08816440043788788,0.10526315789473684
+Quercus,Shifted truncated negative binomial,4,0.06052572064289774,0.03007518796992481
+Quercus,Shifted truncated negative binomial,5,0.044423819718176376,0.03007518796992481
+Quercus,Shifted truncated negative binomial,6,0.033870484361651625,0.05263157894736842
+Quercus,Shifted truncated negative binomial,7,0.026467148523684737,0.03007518796992481
+Quercus,Shifted truncated negative binomial,8,0.021040883514436615,0.03007518796992481
+Quercus,Shifted truncated negative binomial,9,0.016941074020810482,0.06015037593984962
+Quercus,Shifted truncated negative binomial,10,0.013774104348944506,0.015037593984962405
+Quercus,Shifted truncated negative binomial,11,0.011286324578398566,0.007518796992481203
+Quercus,Shifted truncated negative binomial,12,0.009306299502874439,0.007518796992481203
+Quercus,Shifted truncated negative binomial,13,0.007713790916101087,0.0
+Quercus,Shifted truncated negative binomial,14,0.006421953930915995,0.0
+Quercus,Shifted truncated negative binomial,15,0.005366556473639761,0.0
+Quercus,Shifted truncated negative binomial,16,0.004499158204852226,0.0
+Quercus,Shifted truncated negative binomial,17,0.0037826334538682144,0.0
+Quercus,Shifted truncated negative binomial,18,0.0031881401905892253,0.007518796992481203
+Quercus,Shifted truncated negative binomial,19,0.002693013001194053,0.007518796992481203
+Quercus,Shifted truncated negative binomial,20,0.002279264683520716,0.0
+Quercus,Shifted truncated negative binomial,21,0.0019324994511581172,0.0
+Quercus,Shifted truncated negative binomial,22,0.0016411110231491677,0.0
+Nahuel,Truncated geometric,1,0.4802905550841371,0.5521472392638037
+Nahuel,Truncated geometric,2,0.2508904746494926,0.1901840490797546
+Nahuel,Truncated geometric,3,0.13105823048887735,0.09202453987730061
+Nahuel,Truncated geometric,4,0.0684611873084136,0.0736196319018405
+Nahuel,Truncated geometric,5,0.03576222683759995,0.03680981595092025
+Nahuel,Truncated geometric,6,0.01868119614435577,0.03067484662576687
+Nahuel,Truncated geometric,7,0.009758539113592675,0.018404907975460124
+Nahuel,Truncated geometric,8,0.005097590373531307,0.006134969325153374
+Nahuel,Truncated power law,1,0.5652935346018125,0.5521472392638037
+Nahuel,Truncated power law,2,0.17881587580012953,0.1901840490797546
+Nahuel,Truncated power law,3,0.09120151893123644,0.09202453987730061
+Nahuel,Truncated power law,4,0.056563741633256635,0.0736196319018405
+Nahuel,Truncated power law,5,0.03904960047608482,0.03680981595092025
+Nahuel,Truncated power law,6,0.02884922342775163,0.03067484662576687
+Nahuel,Truncated power law,7,0.022334039747460042,0.018404907975460124
+Nahuel,Truncated power law,8,0.017892465382268328,0.006134969325153374
+Nahuel,Shifted truncated negative binomial,1,0.5509353899955333,0.5521472392638037
+Nahuel,Shifted truncated negative binomial,2,0.19119169370127462,0.1901840490797546
+Nahuel,Shifted truncated negative binomial,3,0.1028364808602223,0.09202453987730061
+Nahuel,Shifted truncated negative binomial,4,0.061854539587494706,0.0736196319018405
+Nahuel,Shifted truncated negative binomial,5,0.03917192779200807,0.03680981595092025
+Nahuel,Shifted truncated negative binomial,6,0.02555478931211742,0.03067484662576687
+Nahuel,Shifted truncated negative binomial,7,0.01699643266070649,0.018404907975460124
+Nahuel,Shifted truncated negative binomial,8,0.011458746090643178,0.006134969325153374
+Salix_Galpar,Truncated geometric,1,0.3025128959610784,0.4547390841320554
+Salix_Galpar,Truncated geometric,2,0.21099884373832015,0.16613418530351437
+Salix_Galpar,Truncated geometric,3,0.14716897247460187,0.10117145899893504
+Salix_Galpar,Truncated geometric,4,0.1026484604156938,0.06922257720979766
+Salix_Galpar,Truncated geometric,5,0.07159597738939616,0.04046858359957402
+Salix_Galpar,Truncated geometric,6,0.04993727093016604,0.038338658146964855
+Salix_Galpar,Truncated geometric,7,0.03483060248468854,0.024494142705005325
+Salix_Galpar,Truncated geometric,8,0.02429389605897628,0.019169329073482427
+Salix_Galpar,Truncated geometric,9,0.01694467920799794,0.019169329073482427
+Salix_Galpar,Truncated geometric,10,0.011818695229655011,0.021299254526091587
+Salix_Galpar,Truncated geometric,11,0.008243387509250692,0.008519701810436636
+Salix_Galpar,Truncated geometric,12,0.00574965648129788,0.003194888178913738
+Salix_Galpar,Truncated geometric,13,0.0040103112483590745,0.004259850905218318
+Salix_Galpar,Truncated geometric,14,0.002797140378912684,0.002129925452609159
+Salix_Galpar,Truncated geometric,15,0.0019509693424781401,0.002129925452609159
+Salix_Galpar,Truncated geometric,16,0.0013607759567537971,0.005324813631522897
+Salix_Galpar,Truncated geometric,17,0.0009491236813219989,0.0
+Salix_Galpar,Truncated geometric,18,0.0006620015278600414,0.004259850905218318
+Salix_Galpar,Truncated geometric,19,0.0004617375285364418,0.002129925452609159
+Salix_Galpar,Truncated geometric,20,0.00032205597160497146,0.002129925452609159
+Salix_Galpar,Truncated geometric,21,0.00022462988697319295,0.002129925452609159
+Salix_Galpar,Truncated geometric,22,0.0001566764493455225,0.002129925452609159
+Salix_Galpar,Truncated geometric,23,0.00010927980292510921,0.0
+Salix_Galpar,Truncated geometric,24,7.622125327217857e-5,0.002129925452609159
+Salix_Galpar,Truncated geometric,25,5.316334121102897e-5,0.0
+Salix_Galpar,Truncated geometric,26,3.708074490231369e-5,0.0010649627263045794
+Salix_Galpar,Truncated geometric,27,2.586334137752076e-5,0.0
+Salix_Galpar,Truncated geometric,28,1.8039347078176988e-5,0.0
+Salix_Galpar,Truncated geometric,29,1.2582211952310638e-5,0.0010649627263045794
+Salix_Galpar,Truncated geometric,30,8.775930577021062e-6,0.0010649627263045794
+Salix_Galpar,Truncated geometric,31,6.121098403413039e-6,0.0
+Salix_Galpar,Truncated geometric,32,4.269387198933831e-6,0.002129925452609159
+Salix_Galpar,Truncated geometric,33,2.977842513405199e-6,0.0
+Salix_Galpar,Truncated geometric,34,2.077006750958974e-6,0.0
+Salix_Galpar,Truncated geometric,35,1.448685423795666e-6,0.0
+Salix_Galpar,Truncated geometric,36,1.0104394009066362e-6,0.0
+Salix_Galpar,Truncated geometric,37,7.047684515451932e-7,0.0
+Salix_Galpar,Truncated geometric,38,4.915669062862515e-7,0.0
+Salix_Galpar,Truncated geometric,39,3.428615779069699e-7,0.0
+Salix_Galpar,Truncated geometric,40,2.3914152906054734e-7,0.0
+Salix_Galpar,Truncated geometric,41,1.6679813255988095e-7,0.0
+Salix_Galpar,Truncated geometric,42,1.1633954643829143e-7,0.0
+Salix_Galpar,Truncated geometric,43,8.114533333044532e-8,0.0
+Salix_Galpar,Truncated geometric,44,5.6597823550925345e-8,0.0
+Salix_Galpar,Truncated geometric,45,3.9476252043440836e-8,0.0
+Salix_Galpar,Truncated geometric,46,2.7534176716090038e-8,0.0
+Salix_Galpar,Truncated geometric,47,1.9204733179801566e-8,0.0
+Salix_Galpar,Truncated geometric,48,1.3395053729419998e-8,0.0
+Salix_Galpar,Truncated geometric,49,9.342877234178886e-9,0.0
+Salix_Galpar,Truncated geometric,50,6.516536385458608e-9,0.0
+Salix_Galpar,Truncated geometric,51,4.545200091857791e-9,0.0
+Salix_Galpar,Truncated geometric,52,3.1702184493473344e-9,0.0
+Salix_Galpar,Truncated geometric,53,2.211186485406027e-9,0.0
+Salix_Galpar,Truncated geometric,54,1.5422740581958527e-9,0.0
+Salix_Galpar,Truncated geometric,55,1.0757162664853816e-9,0.0
+Salix_Galpar,Truncated geometric,56,7.502982234784504e-10,0.0
+Salix_Galpar,Truncated geometric,57,5.233233350595307e-10,0.0
+Salix_Galpar,Truncated geometric,58,3.650112774466627e-10,0.0
+Salix_Galpar,Truncated geometric,59,2.545906588478203e-10,0.0
+Salix_Galpar,Truncated geometric,60,1.775737013551268e-10,0.0
+Salix_Galpar,Truncated geometric,61,1.2385536671165985e-10,0.0
+Salix_Galpar,Truncated geometric,62,8.638752104739437e-11,0.0
+Salix_Galpar,Truncated geometric,63,6.025418188044855e-11,0.0
+Salix_Galpar,Truncated geometric,64,4.2026514826028414e-11,0.0
+Salix_Galpar,Truncated geometric,65,2.9312952118855396e-11,0.0
+Salix_Galpar,Truncated geometric,66,2.044540608421204e-11,0.0
+Salix_Galpar,Truncated geometric,67,1.4260407080576767e-11,0.0
+Salix_Galpar,Truncated geometric,68,9.946450037047632e-12,0.0
+Salix_Galpar,Truncated geometric,69,6.9375206318081844e-12,0.0
+Salix_Galpar,Truncated geometric,70,4.838831174690165e-12,0.0
+Salix_Galpar,Truncated geometric,71,3.375022342967888e-12,0.0
+Salix_Galpar,Truncated geometric,72,2.3540345600633307e-12,0.0
+Salix_Galpar,Truncated geometric,73,1.641908748106111e-12,0.0
+Salix_Galpar,Truncated geometric,74,1.1452101778126997e-12,0.0
+Salix_Galpar,Truncated geometric,75,7.987693304384791e-13,0.0
+Salix_Galpar,Truncated geometric,76,5.571313070826438e-13,0.0
+Salix_Galpar,Truncated geometric,77,3.8859190194649275e-13,0.0
+Salix_Galpar,Truncated geometric,78,2.7103784034163514e-13,0.0
+Salix_Galpar,Truncated geometric,79,1.8904539834485088e-13,0.0
+Salix_Galpar,Truncated geometric,80,1.3185672742343453e-13,0.0
+Salix_Galpar,Truncated geometric,81,9.19683669586209e-14,0.0
+Salix_Galpar,Truncated geometric,82,6.414674993315717e-14,0.0
+Salix_Galpar,Truncated geometric,83,4.4741530844386725e-14,0.0
+Salix_Galpar,Truncated geometric,84,3.1206640778919414e-14,0.0
+Salix_Galpar,Truncated geometric,85,2.1766229503671364e-14,0.0
+Salix_Galpar,Truncated geometric,86,1.518166438236229e-14,0.0
+Salix_Galpar,Truncated geometric,87,1.0589015124544764e-14,0.0
+Salix_Galpar,Truncated geometric,88,7.385701493843076e-15,0.0
+Salix_Galpar,Truncated geometric,89,5.151431546236513e-15,0.0
+Salix_Galpar,Truncated geometric,90,3.593057070839253e-15,0.0
+Salix_Galpar,Truncated geometric,91,2.5061109709862436e-15,0.0
+Salix_Galpar,Truncated geometric,92,1.7479800835533668e-15,0.0
+Salix_Galpar,Truncated geometric,93,1.2191935663953513e-15,0.0
+Salix_Galpar,Truncated geometric,94,8.503717898879791e-16,0.0
+Salix_Galpar,Truncated geometric,95,5.931233570853614e-16,0.0
+Salix_Galpar,Truncated geometric,96,4.136958926713124e-16,0.0
+Salix_Galpar,Truncated geometric,97,2.8854755013210844e-16,0.0
+Salix_Galpar,Truncated geometric,98,2.0125819511917006e-16,0.0
+Salix_Galpar,Truncated geometric,99,1.403749956777703e-16,0.0
+Salix_Galpar,Truncated geometric,100,9.790974921476424e-17,0.0
+Salix_Galpar,Truncated geometric,101,6.829078743698306e-17,0.0
+Salix_Galpar,Truncated geometric,102,4.7631943561958935e-17,0.0
+Salix_Galpar,Truncated geometric,103,3.322266637477613e-17,0.0
+Salix_Galpar,Truncated geometric,104,2.317238135819388e-17,0.0
+Salix_Galpar,Truncated geometric,105,1.6162437167212043e-17,0.0
+Salix_Galpar,Truncated geometric,106,1.1273091493969772e-17,0.0
+Salix_Galpar,Truncated geometric,107,7.862835939694784e-18,0.0
+Salix_Galpar,Truncated geometric,108,5.484226669110874e-18,0.0
+Salix_Galpar,Truncated geometric,109,3.825177377331168e-18,0.0
+Salix_Galpar,Truncated geometric,110,2.6680118913499166e-18,0.0
+Salix_Galpar,Truncated geometric,111,1.8609038876390613e-18,0.0
+Salix_Galpar,Truncated geometric,112,1.2979564634841316e-18,0.0
+Salix_Galpar,Truncated geometric,113,9.053078948841483e-19,0.0
+Salix_Galpar,Truncated geometric,114,6.314405818663176e-19,0.0
+Salix_Galpar,Truncated geometric,115,4.404216628185899e-19,0.0
+Salix_Galpar,Truncated geometric,116,3.0718843015534497e-19,0.0
+Salix_Galpar,Truncated geometric,117,2.1425996854331433e-19,0.0
+Salix_Galpar,Truncated geometric,118,1.494435649707469e-19,0.0
+Salix_Galpar,Truncated geometric,119,1.0423495934869804e-19,0.0
+Salix_Galpar,Truncated geometric,120,7.270253993573819e-20,0.0
+Salix_Galpar,Truncated geometric,121,5.0709084036052126e-20,0.0
+Salix_Galpar,Truncated geometric,122,3.5368932172772347e-20,0.0
+Salix_Galpar,Truncated geometric,123,2.466937407413605e-20,0.0
+Salix_Galpar,Truncated geometric,124,1.7206570281422023e-20,0.0
+Salix_Galpar,Truncated geometric,125,1.2001360876031233e-20,0.0
+Salix_Galpar,Truncated geometric,126,8.370794441948989e-21,0.0
+Salix_Galpar,Truncated geometric,127,5.838521173820107e-21,0.0
+Salix_Galpar,Truncated geometric,128,4.0722932253977155e-21,0.0
+Salix_Galpar,Truncated geometric,129,2.840372008579975e-21,0.0
+Salix_Galpar,Truncated geometric,130,1.9811228466576637e-21,0.0
+Salix_Galpar,Truncated geometric,131,1.3818076370605998e-21,0.0
+Salix_Galpar,Truncated geometric,132,9.63793007112264e-22,0.0
+Salix_Galpar,Truncated geometric,133,6.722331934236927e-22,0.0
+Salix_Galpar,Truncated geometric,134,4.688739833199281e-22,0.0
+Salix_Galpar,Truncated geometric,135,3.2703355678501065e-22,0.0
+Salix_Galpar,Truncated geometric,136,2.281016884455255e-22,0.0
+Salix_Galpar,Truncated geometric,137,1.5909798610025812e-22,0.0
+Salix_Galpar,Truncated geometric,138,1.1096879358349373e-22,0.0
+Salix_Galpar,Truncated geometric,139,7.739930247524399e-23,0.0
+Salix_Galpar,Truncated geometric,140,5.398501533809014e-23,0.0
+Salix_Galpar,Truncated geometric,141,3.765385200966129e-23,0.0
+Salix_Galpar,Truncated geometric,142,2.626307619412881e-23,0.0
+Salix_Galpar,Truncated geometric,143,1.8318156957796466e-23,0.0
+Salix_Galpar,Truncated geometric,144,1.2776678247823893e-23,0.0
+Salix_Galpar,Truncated geometric,145,8.91156831031178e-24,0.0
+Salix_Galpar,Truncated geometric,146,6.215703973204395e-24,0.0
+Salix_Galpar,Truncated geometric,147,4.3353733638335256e-24,0.0
+Salix_Galpar,Truncated geometric,148,3.0238670124677268e-24,0.0
+Salix_Galpar,Truncated geometric,149,2.1091082455249425e-24,0.0
+Salix_Galpar,Truncated geometric,150,1.4710758022758046e-24,0.0
+Salix_Galpar,Truncated geometric,151,1.0260564011510852e-24,0.0
+Salix_Galpar,Truncated geometric,152,7.156611078194692e-25,0.0
+Salix_Galpar,Truncated geometric,153,4.9916439356628845e-25,0.0
+Salix_Galpar,Truncated geometric,154,3.481607273078929e-25,0.0
+Salix_Galpar,Truncated geometric,155,2.428376174300672e-25,0.0
+Salix_Galpar,Truncated geometric,156,1.693761065330093e-25,0.0
+Salix_Galpar,Truncated geometric,157,1.1813765003909664e-25,0.0
+Salix_Galpar,Truncated geometric,158,8.239948740373319e-26,0.0
+Salix_Galpar,Truncated geometric,159,5.747257984352152e-26,0.0
+Salix_Galpar,Truncated geometric,160,4.0086383276703563e-26,0.0
+Salix_Galpar,Truncated geometric,161,2.795973538306225e-26,0.0
+Salix_Galpar,Truncated geometric,162,1.950155486202654e-26,0.0
+Salix_Galpar,Truncated geometric,163,1.3602083024971056e-26,0.0
+Salix_Galpar,Truncated geometric,164,9.487277497984047e-27,0.0
+Salix_Galpar,Truncated geometric,165,6.617253707282525e-27,0.0
+Salix_Galpar,Truncated geometric,166,4.615449124983311e-27,0.0
+Salix_Galpar,Truncated geometric,167,3.2192162440235876e-27,0.0
+Salix_Galpar,Truncated geometric,168,2.245361815319069e-27,0.0
+Salix_Galpar,Truncated geometric,169,1.5661109100864636e-27,0.0
+Salix_Galpar,Truncated geometric,170,1.0923421632799685e-27,0.0
+Salix_Galpar,Truncated geometric,171,7.6189457208575695e-28,0.0
+Salix_Galpar,Truncated geometric,172,5.314116386670686e-28,0.0
+Salix_Galpar,Truncated geometric,173,3.706527649064718e-28,0.0
+Salix_Galpar,Truncated geometric,174,2.585255235986345e-28,0.0
+Salix_Galpar,Truncated geometric,175,1.8031821877495766e-28,0.0
+Salix_Galpar,Truncated geometric,176,1.2576963221880027e-28,0.0
+Salix_Galpar,Truncated geometric,177,8.772269655233133e-29,0.0
+Salix_Galpar,Truncated geometric,178,6.118544957677073e-29,0.0
+Salix_Galpar,Truncated geometric,179,4.2676062034621324e-29,0.0
+Salix_Galpar,Truncated geometric,180,2.9766002920313425e-29,0.0
+Salix_Galpar,Truncated geometric,181,2.0761403175703516e-29,0.0
+Salix_Galpar,Truncated geometric,182,1.448081097680593e-29,0.0
+Salix_Galpar,Truncated geometric,183,1.0100178912347407e-29,0.0
+Salix_Galpar,Truncated geometric,184,7.044744539848184e-30,0.0
+Salix_Galpar,Truncated geometric,185,4.9136184677927204e-30,0.0
+Salix_Galpar,Truncated geometric,186,3.427185515452912e-30,0.0
+Salix_Galpar,Truncated geometric,187,2.3904177001773925e-30,0.0
+Salix_Galpar,Truncated geometric,188,1.6672855191401103e-30,0.0
+Salix_Galpar,Truncated geometric,189,1.1629101483510667e-30,0.0
+Salix_Galpar,Truncated geometric,190,8.11114831630859e-31,0.0
+Salix_Galpar,Truncated geometric,191,5.6574213495722595e-31,0.0
+Salix_Galpar,Truncated geometric,192,3.945978433441127e-31,0.0
+Salix_Galpar,Truncated geometric,193,2.7522690701408556e-31,0.0
+Salix_Galpar,Truncated geometric,194,1.919672183268443e-31,0.0
+Salix_Galpar,Truncated geometric,195,1.3389465918119816e-31,0.0
+Salix_Galpar,Truncated geometric,196,9.338979807857241e-32,0.0
+Salix_Galpar,Truncated geometric,197,6.513817980860318e-32,0.0
+Salix_Galpar,Truncated geometric,198,4.5433040397069236e-32,0.0
+Salix_Galpar,Truncated geometric,199,3.168895977423519e-32,0.0
+Salix_Galpar,Truncated geometric,200,2.2102640782937203e-32,0.0
+Salix_Galpar,Truncated geometric,201,1.5416306911303448e-32,0.0
+Salix_Galpar,Truncated geometric,202,1.0752675262540265e-32,0.0
+Salix_Galpar,Truncated geometric,203,7.499852329540168e-33,0.0
+Salix_Galpar,Truncated geometric,204,5.2310502820505374e-33,0.0
+Salix_Galpar,Truncated geometric,205,3.648590112309417e-33,0.0
+Salix_Galpar,Truncated geometric,206,2.5448445512597414e-33,0.0
+Salix_Galpar,Truncated geometric,207,1.774996256287388e-33,0.0
+Salix_Galpar,Truncated geometric,208,1.2380369984778014e-33,0.0
+Salix_Galpar,Truncated geometric,209,8.635148407613213e-34,0.0
+Salix_Galpar,Truncated geometric,210,6.022904655772452e-34,0.0
+Salix_Galpar,Truncated geometric,211,4.200898326257269e-34,0.0
+Salix_Galpar,Truncated geometric,212,2.930072407943139e-34,0.0
+Salix_Galpar,Truncated geometric,213,2.0436877184406117e-34,0.0
+Salix_Galpar,Truncated geometric,214,1.4254458282950547e-34,0.0
+Salix_Galpar,Truncated geometric,215,9.942300827418805e-35,0.0
+Salix_Galpar,Truncated geometric,216,6.934626611600124e-35,0.0
+Salix_Galpar,Truncated geometric,217,4.836812632916215e-35,0.0
+Salix_Galpar,Truncated geometric,218,3.373614436111606e-35,0.0
+Salix_Galpar,Truncated geometric,219,2.3530525631873858e-35,0.0
+Salix_Galpar,Truncated geometric,220,1.641223817948933e-35,0.0
+Salix_Galpar,Truncated geometric,221,1.1447324478609047e-35,0.0
+Salix_Galpar,Truncated geometric,222,7.984361199578777e-36,0.0
+Salix_Galpar,Truncated geometric,223,5.5689889706949367e-36,0.0
+Salix_Galpar,Truncated geometric,224,3.8842979895947104e-36,0.0
+Salix_Galpar,Truncated geometric,225,2.7092477559866226e-36,0.0
+Salix_Galpar,Truncated geometric,226,1.889665371447058e-36,0.0
+Salix_Galpar,Truncated geometric,227,1.318017227533243e-36,0.0
+Salix_Galpar,Truncated geometric,228,9.19300019105571e-37,0.0
+Salix_Galpar,Truncated geometric,229,6.411999080688707e-37,0.0
+Salix_Galpar,Truncated geometric,230,4.4722866698897985e-37,0.0
+Salix_Galpar,Truncated geometric,231,3.119362277813311e-37,0.0
+Salix_Galpar,Truncated geometric,232,2.1757149616002628e-37,0.0
+Salix_Galpar,Truncated geometric,233,1.5175331277807223e-37,0.0
+Salix_Galpar,Truncated geometric,234,1.0584597865789038e-37,0.0
+Salix_Galpar,Truncated geometric,235,7.382620512825753e-38,0.0
+Salix_Galpar,Truncated geometric,236,5.149282601709106e-38,0.0
+Salix_Galpar,Truncated geometric,237,3.591558209744091e-38,0.0
+Salix_Galpar,Truncated geometric,238,2.5050655347016225e-38,0.0
+Salix_Galpar,Truncated geometric,239,1.747250905226749e-38,0.0
+Salix_Galpar,Truncated geometric,240,1.2186849739159908e-38,0.0
+Salix_Galpar,Truncated geometric,241,8.500170531924139e-39,0.0
+Salix_Galpar,Truncated geometric,242,5.928759328148754e-39,0.0
+Salix_Galpar,Truncated geometric,243,4.1352331743342213e-39,0.0
+Salix_Galpar,Truncated geometric,244,2.8842718112920558e-39,0.0
+Salix_Galpar,Truncated geometric,245,2.0117423929191932e-39,0.0
+Salix_Galpar,Truncated geometric,246,1.4031643757095398e-39,0.0
+Salix_Galpar,Truncated geometric,247,9.786890569042293e-40,0.0
+Salix_Galpar,Truncated geometric,248,6.8262299605471485e-40,0.0
+Salix_Galpar,Truncated geometric,249,4.761207366685758e-40,0.0
+Salix_Galpar,Truncated geometric,250,3.3208807379183854e-40,0.0
+Salix_Galpar,Truncated geometric,251,2.316271488749334e-40,0.0
+Salix_Galpar,Truncated geometric,252,1.615569492855696e-40,0.0
+Salix_Galpar,Truncated geometric,253,1.1268388869455498e-40,0.0
+Salix_Galpar,Truncated geometric,254,7.859555919740941e-41,0.0
+Salix_Galpar,Truncated geometric,255,5.481938897492078e-41,0.0
+Salix_Galpar,Truncated geometric,256,3.823581686130072e-41,0.0
+Salix_Galpar,Truncated geometric,257,2.6668989173151236e-41,0.0
+Salix_Galpar,Truncated geometric,258,1.8601276026026627e-41,0.0
+Salix_Galpar,Truncated geometric,259,1.2974150146821945e-41,0.0
+Salix_Galpar,Truncated geometric,260,9.049302413272998e-42,0.0
+Salix_Galpar,Truncated geometric,261,6.311771733806214e-42,0.0
+Salix_Galpar,Truncated geometric,262,4.402379387967224e-42,0.0
+Salix_Galpar,Truncated geometric,263,3.070602850193902e-42,0.0
+Salix_Galpar,Truncated geometric,264,2.1417058896354057e-42,0.0
+Salix_Galpar,Truncated geometric,265,1.4938122386648818e-42,0.0
+Salix_Galpar,Truncated geometric,266,1.0419147723242677e-42,0.0
+Salix_Galpar,Truncated geometric,267,7.267221172038266e-43,0.0
+Salix_Galpar,Truncated geometric,268,5.068793049695313e-43,0.0
+Salix_Galpar,Truncated geometric,269,3.5354177852046008e-43,0.0
+Salix_Galpar,Truncated geometric,270,2.465908312570058e-43,0.0
+Salix_Galpar,Truncated geometric,271,1.7199392477599953e-43,0.0
+Salix_Galpar,Truncated geometric,272,1.1996354450430016e-43,0.0
+Salix_Galpar,Truncated geometric,273,8.36730252465487e-44,0.0
+Salix_Galpar,Truncated geometric,274,5.836085606539088e-44,0.0
+Salix_Galpar,Truncated geometric,275,4.070594448628186e-44,0.0
+Salix_Galpar,Truncated geometric,276,2.8391871336905874e-44,0.0
+Salix_Galpar,Truncated geometric,277,1.9802964117024161e-44,0.0
+Salix_Galpar,Truncated geometric,278,1.3812312093369876e-44,0.0
+Salix_Galpar,Truncated geometric,279,9.633909562086203e-45,0.0
+Salix_Galpar,Truncated geometric,280,6.719527681032388e-45,0.0
+Salix_Galpar,Truncated geometric,281,4.6867839027526556e-45,0.0
+Salix_Galpar,Truncated geometric,282,3.268971331587188e-45,0.0
+Salix_Galpar,Truncated geometric,283,2.2800653472550073e-45,0.0
+Salix_Galpar,Truncated geometric,284,1.590316176076395e-45,0.0
+Salix_Galpar,Truncated geometric,285,1.1092250241577775e-45,0.0
+Salix_Galpar,Truncated geometric,286,7.736701498273119e-46,0.0
+Salix_Galpar,Truncated geometric,287,5.3962495228441085e-46,0.0
+Salix_Galpar,Truncated geometric,288,3.7638144523599535e-46,0.0
+Salix_Galpar,Truncated geometric,289,2.6252120425163864e-46,0.0
+Salix_Galpar,Truncated geometric,290,1.8310515450228587e-46,0.0
+Salix_Galpar,Truncated geometric,291,1.277134839483988e-46,0.0
+Salix_Galpar,Truncated geometric,292,8.907850806589006e-47,0.0
+Salix_Galpar,Truncated geometric,293,6.213111062298456e-47,0.0
+Salix_Galpar,Truncated geometric,294,4.3335648419147426e-47,0.0
+Salix_Galpar,Truncated geometric,295,3.022605591752004e-47,0.0
+Salix_Galpar,Truncated geometric,296,2.1082284208429582e-47,0.0
+Salix_Galpar,Truncated geometric,297,1.4704621359063053e-47,0.0
+Salix_Galpar,Truncated geometric,298,1.0256283767721771e-47,0.0
+Salix_Galpar,Truncated geometric,299,7.153625663349665e-48,0.0
+Salix_Galpar,Truncated geometric,300,4.989561647308272e-48,0.0
+Salix_Galpar,Truncated geometric,301,3.480154903804722e-48,0.0
+Salix_Galpar,Truncated geometric,302,2.4273631654616094e-48,0.0
+Salix_Galpar,Truncated geometric,303,1.6930545047285695e-48,0.0
+Salix_Galpar,Truncated geometric,304,1.1808836834831818e-48,0.0
+Salix_Galpar,Truncated geometric,305,8.236511405994999e-49,0.0
+Salix_Galpar,Truncated geometric,306,5.7448604879510035e-49,0.0
+Salix_Galpar,Truncated geometric,307,4.0069661048485185e-49,0.0
+Salix_Galpar,Truncated geometric,308,2.794807184452914e-49,0.0
+Salix_Galpar,Truncated geometric,309,1.949341969431237e-49,0.0
+Salix_Galpar,Truncated geometric,310,1.359640885040123e-49,0.0
+Salix_Galpar,Truncated geometric,311,9.483319834395527e-50,0.0
+Salix_Galpar,Truncated geometric,312,6.614493287967408e-50,0.0
+Salix_Galpar,Truncated geometric,313,4.613523768109277e-50,0.0
+Salix_Galpar,Truncated geometric,314,3.217873332433276e-50,0.0
+Salix_Galpar,Truncated geometric,315,2.2444251518029622e-50,0.0
+Salix_Galpar,Truncated geometric,316,1.5654575993631667e-50,0.0
+Salix_Galpar,Truncated geometric,317,1.0918864874755385e-50,0.0
+Salix_Galpar,Truncated geometric,318,7.615767440885444e-51,0.0
+Salix_Galpar,Truncated geometric,319,5.311899577377103e-51,0.0
+Salix_Galpar,Truncated geometric,320,3.704981453170331e-51,0.0
+Salix_Galpar,Truncated geometric,321,2.5841767842896922e-51,0.0
+Salix_Galpar,Truncated geometric,322,1.8024299815988066e-51,0.0
+Salix_Galpar,Truncated geometric,323,1.2571716680982796e-51,0.0
+Salix_Galpar,Truncated geometric,324,8.768610260616503e-52,0.0
+Salix_Galpar,Truncated geometric,325,6.1159925771233844e-52,0.0
+Salix_Galpar,Truncated geometric,326,4.2658259509413345e-52,0.0
+Salix_Galpar,Truncated geometric,327,2.9753585888561533e-52,0.0
+Salix_Galpar,Truncated geometric,328,2.075274245618613e-52,0.0
+Salix_Galpar,Truncated geometric,329,1.4474770236630855e-52,0.0
+Salix_Galpar,Truncated geometric,330,1.0095965573976441e-52,0.0
+Salix_Galpar,Truncated geometric,331,7.041805790669484e-53,0.0
+Salix_Galpar,Truncated geometric,332,4.911568728138572e-53,0.0
+Salix_Galpar,Truncated geometric,333,3.4257558484775055e-53,0.0
+Salix_Galpar,Truncated geometric,334,2.3894205258989764e-53,0.0
+Salix_Galpar,Truncated geometric,335,1.6665900029404357e-53,0.0
+Salix_Galpar,Truncated geometric,336,1.162425034771127e-53,0.0
+Salix_Galpar,Truncated geometric,337,8.10776471164857e-54,0.0
+Salix_Galpar,Truncated geometric,338,5.655061328956729e-54,0.0
+Salix_Galpar,Truncated geometric,339,3.944332349496528e-54,0.0
+Salix_Galpar,Truncated geometric,340,2.751120947817372e-54,0.0
+Salix_Galpar,Truncated geometric,341,1.9188713827539538e-54,0.0
+Salix_Galpar,Truncated power law,1,0.5323170655971473,0.4547390841320554
+Salix_Galpar,Truncated power law,2,0.15347214471933632,0.16613418530351437
+Salix_Galpar,Truncated power law,3,0.07414253540666074,0.10117145899893504
+Salix_Galpar,Truncated power law,4,0.044247499708337606,0.06922257720979766
+Salix_Galpar,Truncated power law,5,0.02964846596844578,0.04046858359957402
+Salix_Galpar,Truncated power law,6,0.0213760081334701,0.038338658146964855
+Salix_Galpar,Truncated power law,7,0.01621076013087382,0.024494142705005325
+Salix_Galpar,Truncated power law,8,0.012756980975406038,0.019169329073482427
+Salix_Galpar,Truncated power law,9,0.010326769348191649,0.019169329073482427
+Salix_Galpar,Truncated power law,10,0.008547938726539311,0.021299254526091587
+Salix_Galpar,Truncated power law,11,0.0072042725294436975,0.008519701810436636
+Salix_Galpar,Truncated power law,12,0.00616290933694088,0.003194888178913738
+Salix_Galpar,Truncated power law,13,0.0053384086936452265,0.004259850905218318
+Salix_Galpar,Truncated power law,14,0.004673718514030756,0.002129925452609159
+Salix_Galpar,Truncated power law,15,0.004129517124071039,0.002129925452609159
+Salix_Galpar,Truncated power law,16,0.003677960668503181,0.005324813631522897
+Salix_Galpar,Truncated power law,17,0.0032988671726434434,0.0
+Salix_Galpar,Truncated power law,18,0.002977307214659714,0.004259850905218318
+Salix_Galpar,Truncated power law,19,0.002702037104354234,0.002129925452609159
+Salix_Galpar,Truncated power law,20,0.002464453187913147,0.002129925452609159
+Salix_Galpar,Truncated power law,21,0.0022578777473983664,0.002129925452609159
+Salix_Galpar,Truncated power law,22,0.002077061262343732,0.002129925452609159
+Salix_Galpar,Truncated power law,23,0.0019178290494267934,0.0
+Salix_Galpar,Truncated power law,24,0.0017768262090002932,0.002129925452609159
+Salix_Galpar,Truncated power law,25,0.0016513307408170346,0.0
+Salix_Galpar,Truncated power law,26,0.0015391147204401653,0.0010649627263045794
+Salix_Galpar,Truncated power law,27,0.0014383398758328692,0.0
+Salix_Galpar,Truncated power law,28,0.001347478130084232,0.0
+Salix_Galpar,Truncated power law,29,0.0012652504959624702,0.0010649627263045794
+Salix_Galpar,Truncated power law,30,0.0011905796200154817,0.0010649627263045794
+Salix_Galpar,Truncated power law,31,0.0011225525900286507,0.0
+Salix_Galpar,Truncated power law,32,0.0010603915381809837,0.002129925452609159
+Salix_Galpar,Truncated power law,33,0.0010034302215998232,0.0
+Salix_Galpar,Truncated power law,34,0.0009510952266049528,0.0
+Salix_Galpar,Truncated power law,35,0.0009028907790579491,0.0
+Salix_Galpar,Truncated power law,36,0.0008583863889646231,0.0
+Salix_Galpar,Truncated power law,37,0.000817206738891309,0.0
+Salix_Galpar,Truncated power law,38,0.0007790233609198264,0.0
+Salix_Galpar,Truncated power law,39,0.0007435477484453916,0.0
+Salix_Galpar,Truncated power law,40,0.0007105256260855506,0.0
+Salix_Galpar,Truncated power law,41,0.0006797321597314724,0.0
+Salix_Galpar,Truncated power law,42,0.0006509679339672632,0.0
+Salix_Galpar,Truncated power law,43,0.0006240555590817203,0.0
+Salix_Galpar,Truncated power law,44,0.0005988367971779203,0.0
+Salix_Galpar,Truncated power law,45,0.000575170118283523,0.0
+Salix_Galpar,Truncated power law,46,0.000552928614246842,0.0
+Salix_Galpar,Truncated power law,47,0.0005319982115986313,0.0
+Salix_Galpar,Truncated power law,48,0.0005122761352445058,0.0
+Salix_Galpar,Truncated power law,49,0.0004936695834200517,0.0
+Salix_Galpar,Truncated power law,50,0.00047609458124334625,0.0
+Salix_Galpar,Truncated power law,51,0.00045947498578730197,0.0
+Salix_Galpar,Truncated power law,52,0.00044374162013775527,0.0
+Salix_Galpar,Truncated power law,53,0.00042883151761358704,0.0
+Salix_Galpar,Truncated power law,54,0.00041468726036762493,0.0
+Salix_Galpar,Truncated power law,55,0.0004012563990917914,0.0
+Salix_Galpar,Truncated power law,56,0.00038849094261977386,0.0
+Salix_Galpar,Truncated power law,57,0.000376346907937209,0.0
+Salix_Galpar,Truncated power law,58,0.0003647839225382239,0.0
+Salix_Galpar,Truncated power law,59,0.00035376487226047214,0.0
+Salix_Galpar,Truncated power law,60,0.000343255588730627,0.0
+Salix_Galpar,Truncated power law,61,0.00033322457139264215,0.0
+Salix_Galpar,Truncated power law,62,0.0003236427397995976,0.0
+Salix_Galpar,Truncated power law,63,0.00031448321244896077,0.0
+Salix_Galpar,Truncated power law,64,0.00030572110894906457,0.0
+Salix_Galpar,Truncated power law,65,0.0002973333727364985,0.0
+Salix_Galpar,Truncated power law,66,0.00028929861193228865,0.0
+Salix_Galpar,Truncated power law,67,0.00028159695623945226,0.0
+Salix_Galpar,Truncated power law,68,0.00027420992805414084,0.0
+Salix_Galpar,Truncated power law,69,0.0002671203261941987,0.0
+Salix_Galpar,Truncated power law,70,0.00026031212084829774,0.0
+Salix_Galpar,Truncated power law,71,0.0002537703585208926,0.0
+Salix_Galpar,Truncated power law,72,0.00024748107589694565,0.0
+Salix_Galpar,Truncated power law,73,0.00024143122167932058,0.0
+Salix_Galpar,Truncated power law,74,0.00023560858556366366,0.0
+Salix_Galpar,Truncated power law,75,0.00023000173361301048,0.0
+Salix_Galpar,Truncated power law,76,0.00022459994937925218,0.0
+Salix_Galpar,Truncated power law,77,0.00021939318019279595,0.0
+Salix_Galpar,Truncated power law,78,0.00021437198810662992,0.0
+Salix_Galpar,Truncated power law,79,0.00020952750503793046,0.0
+Salix_Galpar,Truncated power law,80,0.00020485139170030588,0.0
+Salix_Galpar,Truncated power law,81,0.00020033579996373127,0.0
+Salix_Galpar,Truncated power law,82,0.00019597333831796392,0.0
+Salix_Galpar,Truncated power law,83,0.0001917570401494116,0.0
+Salix_Galpar,Truncated power law,84,0.00018768033457164946,0.0
+Salix_Galpar,Truncated power law,85,0.00018373701957652628,0.0
+Salix_Galpar,Truncated power law,86,0.00017992123729652871,0.0
+Salix_Galpar,Truncated power law,87,0.0001762274511901264,0.0
+Salix_Galpar,Truncated power law,88,0.00017265042498056283,0.0
+Salix_Galpar,Truncated power law,89,0.00016918520319521524,0.0
+Salix_Galpar,Truncated power law,90,0.00016582709316753433,0.0
+Salix_Galpar,Truncated power law,91,0.0001625716483768467,0.0
+Salix_Galpar,Truncated power law,92,0.00015941465301316123,0.0
+Salix_Galpar,Truncated power law,93,0.00015635210766476687,0.0
+Salix_Galpar,Truncated power law,94,0.00015338021603591233,0.0
+Salix_Galpar,Truncated power law,95,0.000150495372610413,0.0
+Salix_Galpar,Truncated power law,96,0.00014769415118471167,0.0
+Salix_Galpar,Truncated power law,97,0.00014497329420080918,0.0
+Salix_Galpar,Truncated power law,98,0.00014232970281571712,0.0
+Salix_Galpar,Truncated power law,99,0.00013976042764967696,0.0
+Salix_Galpar,Truncated power law,100,0.0001372626601604526,0.0
+Salix_Galpar,Truncated power law,101,0.0001348337245955791,0.0
+Salix_Galpar,Truncated power law,102,0.00013247107047856745,0.0
+Salix_Galpar,Truncated power law,103,0.00013017226558882476,0.0
+Salix_Galpar,Truncated power law,104,0.00012793498939843009,0.0
+Salix_Galpar,Truncated power law,105,0.00012575702693197734,0.0
+Salix_Galpar,Truncated power law,106,0.00012363626301850026,0.0
+Salix_Galpar,Truncated power law,107,0.00012157067690702223,0.0
+Salix_Galpar,Truncated power law,108,0.000119558337219588,0.0
+Salix_Galpar,Truncated power law,109,0.00011759739721773107,0.0
+Salix_Galpar,Truncated power law,110,0.00011568609036025098,0.0
+Salix_Galpar,Truncated power law,111,0.00011382272613191878,0.0
+Salix_Galpar,Truncated power law,112,0.0001120056861243206,0.0
+Salix_Galpar,Truncated power law,113,0.00011023342035151405,0.0
+Salix_Galpar,Truncated power law,114,0.000108504443784497,0.0
+Salix_Galpar,Truncated power law,115,0.00010681733308970917,0.0
+Salix_Galpar,Truncated power law,116,0.0001051707235579064,0.0
+Salix_Galpar,Truncated power law,117,0.0001035633062107689,0.0
+Salix_Galpar,Truncated power law,118,0.00010199382507354223,0.0
+Salix_Galpar,Truncated power law,119,0.00010046107460287168,0.0
+Salix_Galpar,Truncated power law,120,9.896389725978781e-5,0.0
+Salix_Galpar,Truncated power law,121,9.750118121851793e-5,0.0
+Salix_Galpar,Truncated power law,122,9.60718582024818e-5,0.0
+Salix_Galpar,Truncated power law,123,9.467490143943045e-5,0.0
+Salix_Galpar,Truncated power law,124,9.330932372826892e-5,0.0
+Salix_Galpar,Truncated power law,125,9.197417561062047e-5,0.0
+Salix_Galpar,Truncated power law,126,9.066854364067057e-5,0.0
+Salix_Galpar,Truncated power law,127,8.939154874728157e-5,0.0
+Salix_Galpar,Truncated power law,128,8.814234468277437e-5,0.0
+Salix_Galpar,Truncated power law,129,8.69201165531596e-5,0.0
+Salix_Galpar,Truncated power law,130,8.572407942494634e-5,0.0
+Salix_Galpar,Truncated power law,131,8.455347700398959e-5,0.0
+Salix_Galpar,Truncated power law,132,8.340758038213323e-5,0.0
+Salix_Galpar,Truncated power law,133,8.22856868476886e-5,0.0
+Salix_Galpar,Truncated power law,134,8.11871187560465e-5,0.0
+Salix_Galpar,Truncated power law,135,8.011122245696021e-5,0.0
+Salix_Galpar,Truncated power law,136,7.905736727526299e-5,0.0
+Salix_Galpar,Truncated power law,137,7.802494454198667e-5,0.0
+Salix_Galpar,Truncated power law,138,7.70133666730448e-5,0.0
+Salix_Galpar,Truncated power law,139,7.60220662928204e-5,0.0
+Salix_Galpar,Truncated power law,140,7.50504954001637e-5,0.0
+Salix_Galpar,Truncated power law,141,7.409812457446631e-5,0.0
+Salix_Galpar,Truncated power law,142,7.31644422196128e-5,0.0
+Salix_Galpar,Truncated power law,143,7.224895384375576e-5,0.0
+Salix_Galpar,Truncated power law,144,7.135118137297733e-5,0.0
+Salix_Galpar,Truncated power law,145,7.047066249702348e-5,0.0
+Salix_Galpar,Truncated power law,146,6.960695004540064e-5,0.0
+Salix_Galpar,Truncated power law,147,6.875961139223116e-5,0.0
+Salix_Galpar,Truncated power law,148,6.792822788835747e-5,0.0
+Salix_Galpar,Truncated power law,149,6.71123943192708e-5,0.0
+Salix_Galpar,Truncated power law,150,6.63117183875296e-5,0.0
+Salix_Galpar,Truncated power law,151,6.552582021840325e-5,0.0
+Salix_Galpar,Truncated power law,152,6.475433188755719e-5,0.0
+Salix_Galpar,Truncated power law,153,6.399689696965559e-5,0.0
+Salix_Galpar,Truncated power law,154,6.325317010682867e-5,0.0
+Salix_Galpar,Truncated power law,155,6.252281659600709e-5,0.0
+Salix_Galpar,Truncated power law,156,6.18055119941826e-5,0.0
+Salix_Galpar,Truncated power law,157,6.110094174070829e-5,0.0
+Salix_Galpar,Truncated power law,158,6.040880079579968e-5,0.0
+Salix_Galpar,Truncated power law,159,5.972879329444492e-5,0.0
+Salix_Galpar,Truncated power law,160,5.906063221497309e-5,0.0
+Salix_Galpar,Truncated power law,161,5.840403906157639e-5,0.0
+Salix_Galpar,Truncated power law,162,5.77587435601137e-5,0.0
+Salix_Galpar,Truncated power law,163,5.712448336656233e-5,0.0
+Salix_Galpar,Truncated power law,164,5.650100378752006e-5,0.0
+Salix_Galpar,Truncated power law,165,5.5888057512187806e-5,0.0
+Salix_Galpar,Truncated power law,166,5.5285404355294375e-5,0.0
+Salix_Galpar,Truncated power law,167,5.469281101045844e-5,0.0
+Salix_Galpar,Truncated power law,168,5.4110050813497766e-5,0.0
+Salix_Galpar,Truncated power law,169,5.3536903515234015e-5,0.0
+Salix_Galpar,Truncated power law,170,5.297315506335574e-5,0.0
+Salix_Galpar,Truncated power law,171,5.241859739292818e-5,0.0
+Salix_Galpar,Truncated power law,172,5.1873028225159544e-5,0.0
+Salix_Galpar,Truncated power law,173,5.133625087405079e-5,0.0
+Salix_Galpar,Truncated power law,174,5.080807406058074e-5,0.0
+Salix_Galpar,Truncated power law,175,5.028831173408572e-5,0.0
+Salix_Galpar,Truncated power law,176,4.9776782900521524e-5,0.0
+Salix_Galpar,Truncated power law,177,4.927331145730132e-5,0.0
+Salix_Galpar,Truncated power law,178,4.8777726034424385e-5,0.0
+Salix_Galpar,Truncated power law,179,4.828985984162173e-5,0.0
+Salix_Galpar,Truncated power law,180,4.780955052125817e-5,0.0
+Salix_Galpar,Truncated power law,181,4.7336640006744035e-5,0.0
+Salix_Galpar,Truncated power law,182,4.687097438622144e-5,0.0
+Salix_Galpar,Truncated power law,183,4.6412403771299824e-5,0.0
+Salix_Galpar,Truncated power law,184,4.596078217062856e-5,0.0
+Salix_Galpar,Truncated power law,185,4.551596736810201e-5,0.0
+Salix_Galpar,Truncated power law,186,4.5077820805504845e-5,0.0
+Salix_Galpar,Truncated power law,187,4.4646207469411916e-5,0.0
+Salix_Galpar,Truncated power law,188,4.4220995782166285e-5,0.0
+Salix_Galpar,Truncated power law,189,4.3802057496768745e-5,0.0
+Salix_Galpar,Truncated power law,190,4.338926759551836e-5,0.0
+Salix_Galpar,Truncated power law,191,4.298250419225028e-5,0.0
+Salix_Galpar,Truncated power law,192,4.2581648438026436e-5,0.0
+Salix_Galpar,Truncated power law,193,4.218658443013964e-5,0.0
+Salix_Galpar,Truncated power law,194,4.179719912429716e-5,0.0
+Salix_Galpar,Truncated power law,195,4.141338224985853e-5,0.0
+Salix_Galpar,Truncated power law,196,4.103502622800554e-5,0.0
+Salix_Galpar,Truncated power law,197,4.0662026092728236e-5,0.0
+Salix_Galpar,Truncated power law,198,4.0294279414517576e-5,0.0
+Salix_Galpar,Truncated power law,199,3.9931686226657314e-5,0.0
+Salix_Galpar,Truncated power law,200,3.957414895401581e-5,0.0
+Salix_Galpar,Truncated power law,201,3.922157234423888e-5,0.0
+Salix_Galpar,Truncated power law,202,3.8873863401253994e-5,0.0
+Salix_Galpar,Truncated power law,203,3.8530931320994085e-5,0.0
+Salix_Galpar,Truncated power law,204,3.819268742925877e-5,0.0
+Salix_Galpar,Truncated power law,205,3.785904512163119e-5,0.0
+Salix_Galpar,Truncated power law,206,3.7529919805372174e-5,0.0
+Salix_Galpar,Truncated power law,207,3.720522884321802e-5,0.0
+Salix_Galpar,Truncated power law,208,3.688489149901081e-5,0.0
+Salix_Galpar,Truncated power law,209,3.656882888509288e-5,0.0
+Salix_Galpar,Truncated power law,210,3.625696391139956e-5,0.0
+Salix_Galpar,Truncated power law,211,3.5949221236188756e-5,0.0
+Salix_Galpar,Truncated power law,212,3.564552721834599e-5,0.0
+Salix_Galpar,Truncated power law,213,3.53458098712083e-5,0.0
+Salix_Galpar,Truncated power law,214,3.504999881785153e-5,0.0
+Salix_Galpar,Truncated power law,215,3.4758025247787505e-5,0.0
+Salix_Galpar,Truncated power law,216,3.44698218750215e-5,0.0
+Salix_Galpar,Truncated power law,217,3.418532289742e-5,0.0
+Salix_Galpar,Truncated power law,218,3.3904463957342643e-5,0.0
+Salix_Galpar,Truncated power law,219,3.362718210349318e-5,0.0
+Salix_Galpar,Truncated power law,220,3.3353415753946824e-5,0.0
+Salix_Galpar,Truncated power law,221,3.30831046603121e-5,0.0
+Salix_Galpar,Truncated power law,222,3.281618987298689e-5,0.0
+Salix_Galpar,Truncated power law,223,3.255261370747245e-5,0.0
+Salix_Galpar,Truncated power law,224,3.229231971170604e-5,0.0
+Salix_Galpar,Truncated power law,225,3.20352526343791e-5,0.0
+Salix_Galpar,Truncated power law,226,3.178135839420596e-5,0.0
+Salix_Galpar,Truncated power law,227,3.153058405011072e-5,0.0
+Salix_Galpar,Truncated power law,228,3.128287777230088e-5,0.0
+Salix_Galpar,Truncated power law,229,3.103818881419796e-5,0.0
+Salix_Galpar,Truncated power law,230,3.079646748519579e-5,0.0
+Salix_Galpar,Truncated power law,231,3.055766512421857e-5,0.0
+Salix_Galpar,Truncated power law,232,3.0321734074051836e-5,0.0
+Salix_Galpar,Truncated power law,233,3.0088627656421307e-5,0.0
+Salix_Galpar,Truncated power law,234,2.9858300147793072e-5,0.0
+Salix_Galpar,Truncated power law,235,2.9630706755873287e-5,0.0
+Salix_Galpar,Truncated power law,236,2.9405803596782556e-5,0.0
+Salix_Galpar,Truncated power law,237,2.9183547672883933e-5,0.0
+Salix_Galpar,Truncated power law,238,2.8963896851242713e-5,0.0
+Salix_Galpar,Truncated power law,239,2.8746809842697452e-5,0.0
+Salix_Galpar,Truncated power law,240,2.853224618152288e-5,0.0
+Salix_Galpar,Truncated power law,241,2.8320166205664594e-5,0.0
+Salix_Galpar,Truncated power law,242,2.8110531037528363e-5,0.0
+Salix_Galpar,Truncated power law,243,2.7903302565305333e-5,0.0
+Salix_Galpar,Truncated power law,244,2.7698443424816385e-5,0.0
+Salix_Galpar,Truncated power law,245,2.7495916981859453e-5,0.0
+Salix_Galpar,Truncated power law,246,2.729568731504336e-5,0.0
+Salix_Galpar,Truncated power law,247,2.709771919909294e-5,0.0
+Salix_Galpar,Truncated power law,248,2.6901978088611218e-5,0.0
+Salix_Galpar,Truncated power law,249,2.6708430102283794e-5,0.0
+Salix_Galpar,Truncated power law,250,2.6517042007511497e-5,0.0
+Salix_Galpar,Truncated power law,251,2.6327781205458846e-5,0.0
+Salix_Galpar,Truncated power law,252,2.6140615716504722e-5,0.0
+Salix_Galpar,Truncated power law,253,2.59555141660832e-5,0.0
+Salix_Galpar,Truncated power law,254,2.577244577090243e-5,0.0
+Salix_Galpar,Truncated power law,255,2.559138032553048e-5,0.0
+Salix_Galpar,Truncated power law,256,2.5412288189336e-5,0.0
+Salix_Galpar,Truncated power law,257,2.5235140273774392e-5,0.0
+Salix_Galpar,Truncated power law,258,2.5059908030007723e-5,0.0
+Salix_Galpar,Truncated power law,259,2.4886563436848896e-5,0.0
+Salix_Galpar,Truncated power law,260,2.4715078989020785e-5,0.0
+Salix_Galpar,Truncated power law,261,2.4545427685720162e-5,0.0
+Salix_Galpar,Truncated power law,262,2.4377583019478002e-5,0.0
+Salix_Galpar,Truncated power law,263,2.4211518965306678e-5,0.0
+Salix_Galpar,Truncated power law,264,2.40472099701269e-5,0.0
+Salix_Galpar,Truncated power law,265,2.3884630942464284e-5,0.0
+Salix_Galpar,Truncated power law,266,2.3723757242409395e-5,0.0
+Salix_Galpar,Truncated power law,267,2.356456467183296e-5,0.0
+Salix_Galpar,Truncated power law,268,2.3407029464848128e-5,0.0
+Salix_Galpar,Truncated power law,269,2.3251128278513844e-5,0.0
+Salix_Galpar,Truncated power law,270,2.3096838183771804e-5,0.0
+Salix_Galpar,Truncated power law,271,2.2944136656609893e-5,0.0
+Salix_Galpar,Truncated power law,272,2.2793001569446382e-5,0.0
+Salix_Galpar,Truncated power law,273,2.2643411182728315e-5,0.0
+Salix_Galpar,Truncated power law,274,2.249534413673723e-5,0.0
+Salix_Galpar,Truncated power law,275,2.2348779443598288e-5,0.0
+Salix_Galpar,Truncated power law,276,2.220369647948441e-5,0.0
+Salix_Galpar,Truncated power law,277,2.2060074977012485e-5,0.0
+Salix_Galpar,Truncated power law,278,2.1917895017824553e-5,0.0
+Salix_Galpar,Truncated power law,279,2.177713702534951e-5,0.0
+Salix_Galpar,Truncated power law,280,2.1637781757740333e-5,0.0
+Salix_Galpar,Truncated power law,281,2.1499810300981683e-5,0.0
+Salix_Galpar,Truncated power law,282,2.136320406216343e-5,0.0
+Salix_Galpar,Truncated power law,283,2.1227944762915428e-5,0.0
+Salix_Galpar,Truncated power law,284,2.1094014432999045e-5,0.0
+Salix_Galpar,Truncated power law,285,2.0961395404051337e-5,0.0
+Salix_Galpar,Truncated power law,286,2.083007030347769e-5,0.0
+Salix_Galpar,Truncated power law,287,2.07000220484886e-5,0.0
+Salix_Galpar,Truncated power law,288,2.057123384027736e-5,0.0
+Salix_Galpar,Truncated power law,289,2.0443689158333984e-5,0.0
+Salix_Galpar,Truncated power law,290,2.031737175489243e-5,0.0
+Salix_Galpar,Truncated power law,291,2.0192265649507196e-5,0.0
+Salix_Galpar,Truncated power law,292,2.006835512375611e-5,0.0
+Salix_Galpar,Truncated power law,293,1.994562471606545e-5,0.0
+Salix_Galpar,Truncated power law,294,1.9824059216654897e-5,0.0
+Salix_Galpar,Truncated power law,295,1.9703643662598357e-5,0.0
+Salix_Galpar,Truncated power law,296,1.9584363332998373e-5,0.0
+Salix_Galpar,Truncated power law,297,1.9466203744270383e-5,0.0
+Salix_Galpar,Truncated power law,298,1.9349150645534926e-5,0.0
+Salix_Galpar,Truncated power law,299,1.923319001411368e-5,0.0
+Salix_Galpar,Truncated power law,300,1.9118308051128096e-5,0.0
+Salix_Galpar,Truncated power law,301,1.9004491177196517e-5,0.0
+Salix_Galpar,Truncated power law,302,1.88917260282288e-5,0.0
+Salix_Galpar,Truncated power law,303,1.877999945131435e-5,0.0
+Salix_Galpar,Truncated power law,304,1.8669298500702357e-5,0.0
+Salix_Galpar,Truncated power law,305,1.8559610433871497e-5,0.0
+Salix_Galpar,Truncated power law,306,1.8450922707686463e-5,0.0
+Salix_Galpar,Truncated power law,307,1.8343222974639715e-5,0.0
+Salix_Galpar,Truncated power law,308,1.823649907917594e-5,0.0
+Salix_Galpar,Truncated power law,309,1.8130739054097307e-5,0.0
+Salix_Galpar,Truncated power law,310,1.8025931117047307e-5,0.0
+Salix_Galpar,Truncated power law,311,1.7922063667071254e-5,0.0
+Salix_Galpar,Truncated power law,312,1.7819125281251725e-5,0.0
+Salix_Galpar,Truncated power law,313,1.7717104711417038e-5,0.0
+Salix_Galpar,Truncated power law,314,1.7615990880920507e-5,0.0
+Salix_Galpar,Truncated power law,315,1.751577288148937e-5,0.0
+Salix_Galpar,Truncated power law,316,1.7416439970141395e-5,0.0
+Salix_Galpar,Truncated power law,317,1.731798156616724e-5,0.0
+Salix_Galpar,Truncated power law,318,1.7220387248177472e-5,0.0
+Salix_Galpar,Truncated power law,319,1.7123646751212303e-5,0.0
+Salix_Galpar,Truncated power law,320,1.7027749963912507e-5,0.0
+Salix_Galpar,Truncated power law,321,1.6932686925750368e-5,0.0
+Salix_Galpar,Truncated power law,322,1.6838447824318725e-5,0.0
+Salix_Galpar,Truncated power law,323,1.674502299267731e-5,0.0
+Salix_Galpar,Truncated power law,324,1.6652402906754186e-5,0.0
+Salix_Galpar,Truncated power law,325,1.656057818280195e-5,0.0
+Salix_Galpar,Truncated power law,326,1.646953957490659e-5,0.0
+Salix_Galpar,Truncated power law,327,1.637927797254804e-5,0.0
+Salix_Galpar,Truncated power law,328,1.6289784398211345e-5,0.0
+Salix_Galpar,Truncated power law,329,1.620105000504702e-5,0.0
+Salix_Galpar,Truncated power law,330,1.6113066074579435e-5,0.0
+Salix_Galpar,Truncated power law,331,1.602582401446242e-5,0.0
+Salix_Galpar,Truncated power law,332,1.5939315356280475e-5,0.0
+Salix_Galpar,Truncated power law,333,1.585353175339501e-5,0.0
+Salix_Galpar,Truncated power law,334,1.5768464978834155e-5,0.0
+Salix_Galpar,Truncated power law,335,1.5684106923225513e-5,0.0
+Salix_Galpar,Truncated power law,336,1.5600449592770422e-5,0.0
+Salix_Galpar,Truncated power law,337,1.5517485107259302e-5,0.0
+Salix_Galpar,Truncated power law,338,1.5435205698126623e-5,0.0
+Salix_Galpar,Truncated power law,339,1.535360370654488e-5,0.0
+Salix_Galpar,Truncated power law,340,1.5272671581556627e-5,0.0
+Salix_Galpar,Truncated power law,341,1.519240187824373e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,1,0.4580268590434164,0.4547390841320554
+Salix_Galpar,Shifted truncated negative binomial,2,0.16124086514474925,0.16613418530351437
+Salix_Galpar,Shifted truncated negative binomial,3,0.09669213441047006,0.10117145899893504
+Salix_Galpar,Shifted truncated negative binomial,4,0.06596552760794627,0.06922257720979766
+Salix_Galpar,Shifted truncated negative binomial,5,0.047725785473268126,0.04046858359957402
+Salix_Galpar,Shifted truncated negative binomial,6,0.03571129609646073,0.038338658146964855
+Salix_Galpar,Shifted truncated negative binomial,7,0.0273109075003774,0.024494142705005325
+Salix_Galpar,Shifted truncated negative binomial,8,0.021208609652449004,0.019169329073482427
+Salix_Galpar,Shifted truncated negative binomial,9,0.016657373884305732,0.019169329073482427
+Salix_Galpar,Shifted truncated negative binomial,10,0.013197389919000317,0.021299254526091587
+Salix_Galpar,Shifted truncated negative binomial,11,0.010528723147965928,0.008519701810436636
+Salix_Galpar,Shifted truncated negative binomial,12,0.00844709838153393,0.003194888178913738
+Salix_Galpar,Shifted truncated negative binomial,13,0.006808724576142485,0.004259850905218318
+Salix_Galpar,Shifted truncated negative binomial,14,0.005509741784061275,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,15,0.0044735755127794504,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,16,0.0036428223501677967,0.005324813631522897
+Salix_Galpar,Shifted truncated negative binomial,17,0.002973859557801864,0.0
+Salix_Galpar,Shifted truncated negative binomial,18,0.002433159235850996,0.004259850905218318
+Salix_Galpar,Shifted truncated negative binomial,19,0.001994706048592299,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,20,0.0016381504707677808,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,21,0.0013474646632980968,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,22,0.0011099493348063953,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,23,0.0009154903447300393,0.0
+Salix_Galpar,Shifted truncated negative binomial,24,0.0007559959458552596,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,25,0.0006249665740509442,0.0
+Salix_Galpar,Shifted truncated negative binomial,26,0.0005171631318760499,0.0010649627263045794
+Salix_Galpar,Shifted truncated negative binomial,27,0.00042834928038173,0.0
+Salix_Galpar,Shifted truncated negative binomial,28,0.0003550898904466977,0.0
+Salix_Galpar,Shifted truncated negative binomial,29,0.0002945924831075041,0.0010649627263045794
+Salix_Galpar,Shifted truncated negative binomial,30,0.0002445818335616412,0.0010649627263045794
+Salix_Galpar,Shifted truncated negative binomial,31,0.00020320033693884112,0.0
+Salix_Galpar,Shifted truncated negative binomial,32,0.00016892851036089509,0.002129925452609159
+Salix_Galpar,Shifted truncated negative binomial,33,0.00014052132193992232,0.0
+Salix_Galpar,Shifted truncated negative binomial,34,0.00011695702195131475,0.0
+Salix_Galpar,Shifted truncated negative binomial,35,9.739589447943496e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,36,8.1146913116094e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,37,6.764071746565516e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,38,5.6407661355646785e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,39,4.7059942968422406e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,40,3.927702946797584e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,41,3.279374740503014e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,42,2.739053523452306e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,43,2.2885453228014996e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,44,1.9127624662896453e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,45,1.5991844828295222e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,46,1.3374144502140515e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,47,1.1188134757267547e-5,0.0
+Salix_Galpar,Shifted truncated negative binomial,48,9.361992297355183e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,49,7.835970609870362e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,50,6.56034331380993e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,51,5.493703169401954e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,52,4.601554092641556e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,53,3.855144805551202e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,54,3.2305019522401606e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,55,2.7076280202127197e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,56,2.269835545828375e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,57,1.9031941095221136e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,58,1.5960707476090793e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,59,1.3387477906334904e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,60,1.1231049187382177e-6,0.0
+Salix_Galpar,Shifted truncated negative binomial,61,9.423545123631027e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,62,7.908212609762674e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,63,6.637585461895851e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,64,5.571953977632401e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,65,4.678088800245769e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,66,3.9281764168261407e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,67,3.2989308629389197e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,68,2.7708522028079727e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,69,2.32760732218301e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,70,1.9555126899422805e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,71,1.6431021615035802e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,72,1.3807657335373386e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,73,1.1604475153183755e-7,0.0
+Salix_Galpar,Shifted truncated negative binomial,74,9.753931398156134e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,75,8.199384653993543e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,76,6.893327731383838e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,77,5.795907916250654e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,78,4.8736881960988035e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,79,4.098609983653727e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,80,3.4471243707365486e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,81,2.8994643755577365e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,82,2.4390351754261996e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,83,2.051903095158311e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,84,1.7263672747805416e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,85,1.4526005726821795e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,86,1.2223484588942849e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,87,1.028676489791517e-8,0.0
+Salix_Galpar,Shifted truncated negative binomial,88,8.65758490244478e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,89,7.2869885210284985e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,90,6.1338343047027325e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,91,5.1635441627369554e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,92,4.3470531402569774e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,93,3.6599278157741597e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,94,3.081626141702133e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,95,2.5948759502095525e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,96,2.185153030339213e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,97,1.8402427673470398e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,98,1.5498719194367798e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,99,1.3053992722650847e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,100,1.0995557260158086e-9,0.0
+Salix_Galpar,Shifted truncated negative binomial,101,9.262258906431036e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,102,7.802645397810373e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,103,6.573423427848173e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,104,5.5381619079839e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,105,4.666201846349064e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,106,3.931739829891202e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,107,3.313057387054296e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,108,2.7918729489332523e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,109,2.3527968537560874e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,110,1.9828729678610033e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,111,1.6711931225617396e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,112,1.408572771290289e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,113,1.1872781230219776e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,114,1.000796562999983e-10,0.0
+Salix_Galpar,Shifted truncated negative binomial,115,8.436434779132902e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,116,7.111996998701447e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,117,5.995747053042668e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,118,5.054914794718508e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,119,4.261896080490351e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,120,3.5934370432948034e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,121,3.029947402697552e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,122,2.5549223609410235e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,123,2.154455880632018e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,124,1.816830871708104e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,125,1.5321741121558293e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,126,1.2921656584432502e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,127,1.0897941259937848e-11,0.0
+Salix_Galpar,Shifted truncated negative binomial,128,9.191505862756281e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,129,7.752549762701933e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,130,6.5390988284460716e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,131,5.515773778594136e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,132,4.652752641429964e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,133,3.924896682552232e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,134,3.3110140048779248e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,135,2.7932391030908203e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,136,2.3565100864378158e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,137,1.988128172286269e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,138,1.677386484283821e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,139,1.4152572357368918e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,140,1.1941281019554249e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,141,1.0075800360417344e-12,0.0
+Salix_Galpar,Shifted truncated negative binomial,142,8.502000041124438e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,143,7.174231444623761e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,144,6.053997213207393e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,145,5.108829732405307e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,146,4.311345704569177e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,147,3.63844912941503e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,148,3.0706593666201066e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,149,2.5915446265378114e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,150,2.1872443272702858e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,151,1.846066361500484e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,152,1.5581475111324453e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,153,1.3151670969566007e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,154,1.1101055085488782e-13,0.0
+Salix_Galpar,Shifted truncated negative binomial,155,9.37040572427531e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,156,7.909758227479164e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,157,6.67695671053308e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,158,5.636432572432811e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,159,4.7581742604153535e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,160,4.016858313043958e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,161,3.3911164087154094e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,162,2.8629171113294983e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,163,2.4170443468433685e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,164,2.0406574617051695e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,165,1.7229200890814287e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,166,1.4546870510531934e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,167,1.2282402129701278e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,168,1.037065629371746e-14,0.0
+Salix_Galpar,Shifted truncated negative binomial,169,8.756655208998412e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,170,7.39399633426263e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,171,6.243513838184723e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,172,5.272149162345726e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,173,4.451997995249225e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,174,3.759506079896832e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,175,3.1747905922413853e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,176,2.681067467109338e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,177,2.2641681174753996e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,178,1.91213158178448e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,179,1.6148603175674278e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,180,1.3638297014668882e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,181,1.1518428494269928e-15,0.0
+Salix_Galpar,Shifted truncated negative binomial,182,9.72823681374735e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,183,8.2164226034141e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,184,6.939673686348491e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,185,5.861420705437625e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,186,4.950786748905573e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,187,4.181700708234812e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,188,3.5321488278813527e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,189,2.9835428932463466e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,190,2.5201868675209517e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,191,2.1288266266893198e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,192,1.7982698372667985e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,193,1.5190650426226308e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,194,1.2832307293885619e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,195,1.08402658486448e-16,0.0
+Salix_Galpar,Shifted truncated negative binomial,196,9.157603710309877e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,197,7.736248659489521e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,198,6.535601884778915e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,199,5.521375524592644e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,200,4.664611127748163e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,201,3.940850858610162e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,202,3.3294376628598645e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,203,2.8129243157638764e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,204,2.3765744027305764e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,205,2.0079409223362725e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,206,1.6965104307252408e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,207,1.433402527761768e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,208,1.2111160735070956e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,209,1.0233148643830237e-17,0.0
+Salix_Galpar,Shifted truncated negative binomial,210,8.646466302508589e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,211,7.305901692055805e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,212,6.173262436133156e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,213,5.21628542006511e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,214,4.407715864933428e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,215,3.7245295082375305e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,216,3.147275641853543e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,217,2.659522218953487e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,218,2.247387164018148e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,219,1.8991424875350296e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,220,1.6048798906253797e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,221,1.3562283041600779e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,222,1.1461152926166984e-18,0.0
+Salix_Galpar,Shifted truncated negative binomial,223,9.68565507453957e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,224,8.18530434197453e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,225,6.917445720576795e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,226,5.846039404131045e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,227,4.9406344452311315e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,228,4.1755017165258757e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,229,3.528901438622901e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,230,2.9824643802157066e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,231,2.5206690819399485e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,232,2.1304001967302689e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,233,1.8005753548384386e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,234,1.52182991717684e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,235,1.2862506323568625e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,236,1.0871506079184857e-19,0.0
+Salix_Galpar,Shifted truncated negative binomial,237,9.188791845444956e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,238,7.766612974518462e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,239,6.564617498206463e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,240,5.548705333246969e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,241,4.6900593068040716e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,242,3.9643264187274115e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,243,3.350926037659274e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,244,2.8324653440005324e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,245,2.394245387395763e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,246,2.0238437068786022e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,247,1.7107616416911987e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,248,1.4461263025089902e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,249,1.2224387285100776e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,250,1.0333610702221126e-20,0.0
+Salix_Galpar,Shifted truncated negative binomial,251,8.735367484472749e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,252,7.384384777796666e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,253,6.2423983582010515e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,254,5.2770672885993506e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,255,4.4610567059441016e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,256,3.771262684506826e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,257,3.1881571601240612e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,258,2.695234312776782e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,259,2.2785426882686094e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,260,1.9262897760360532e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,261,1.6285078187315582e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,262,1.376771368569171e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,263,1.163958575241414e-21,0.0
+Salix_Galpar,Shifted truncated negative binomial,264,9.840494320993617e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,265,8.319552567452818e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,266,7.033745689416892e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,267,5.946712780984072e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,268,5.027717258024005e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,269,4.2507766395830925e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,270,3.5939270128241273e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,271,3.038601330156366e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,272,2.569103916387235e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,273,2.172166292667615e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,274,1.836571730180789e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,275,1.5528378954725246e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,276,1.3129485964500595e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,277,1.1101270300301555e-22,0.0
+Salix_Galpar,Shifted truncated negative binomial,278,9.3864410883309e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,279,7.936564385715876e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,280,6.710693580351835e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,281,5.674211637386543e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,282,4.7978524152501766e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,283,4.056873346784675e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,284,3.430356068589508e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,285,2.9006152054393876e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,286,2.452698579413039e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,287,2.0739647021543924e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,288,1.753725596657411e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,289,1.4829448444480325e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,290,1.2539823171549216e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,291,1.0603783728199103e-23,0.0
+Salix_Galpar,Shifted truncated negative binomial,292,8.966714140344162e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,293,7.582436490797704e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,294,6.41190695141973e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,295,5.422113371789892e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,296,4.5851432616768686e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,297,3.877395823763723e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,298,3.278915767083493e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,299,2.7728300752343618e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,300,2.3448718144790156e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,301,1.9829775276092832e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,302,1.6769468396446663e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,303,1.4181546599108081e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,304,1.1993078515669734e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,305,1.0142394963348109e-24,0.0
+Salix_Galpar,Shifted truncated negative binomial,306,8.577349444961972e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,307,7.253847383243341e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,308,6.134602563201168e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,309,5.188085674774701e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,310,4.3876352740097105e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,311,3.710706068291948e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,312,3.138233309330974e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,313,2.6540953561754677e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,314,2.244659242468018e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,315,1.8983964255600564e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,316,1.6055578763305389e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,317,1.3578993435997576e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,318,1.14844904321448e-25,0.0
+Salix_Galpar,Shifted truncated negative binomial,319,9.713112191640472e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,320,8.21500036419076e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,321,6.947991210394827e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,322,5.876427867342977e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,323,4.9701559886544473e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,324,4.203674441954918e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,325,3.55541712040666e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,326,3.007145622928133e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,327,2.5434356845877388e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,328,2.1512428822450688e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,329,1.819535376016077e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,330,1.538983337103523e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,331,1.301696310732004e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,332,1.1010011142163511e-26,0.0
+Salix_Galpar,Shifted truncated negative binomial,333,9.312540127831471e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,334,7.876818819253158e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,335,6.662478819842276e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,336,5.6353786145399166e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,337,4.766642895966024e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,338,4.0318501287874374e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,339,3.410345473885346e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,340,2.8846597255324223e-27,0.0
+Salix_Galpar,Shifted truncated negative binomial,341,2.440017901202931e-27,0.0
+Gottin_HP,Truncated geometric,1,0.3024951373150412,0.49074074074074076
+Gottin_HP,Truncated geometric,2,0.21099273080322786,0.17592592592592593
+Gottin_HP,Truncated geometric,3,0.14716908459073533,0.08333333333333333
+Gottin_HP,Truncated geometric,4,0.10265159077671723,0.08333333333333333
+Gottin_HP,Truncated geometric,5,0.07160028968240231,0.037037037037037035
+Gottin_HP,Truncated geometric,6,0.0499417636279506,0.018518518518518517
+Gottin_HP,Truncated geometric,7,0.034834771833096356,0.037037037037037035
+Gottin_HP,Truncated geometric,8,0.024297526569220993,0.0
+Gottin_HP,Truncated geometric,9,0.016947715352080832,0.0
+Gottin_HP,Truncated geometric,10,0.011821164382180368,0.0
+Gottin_HP,Truncated geometric,11,0.008245354872175885,0.009259259259259259
+Gottin_HP,Truncated geometric,12,0.005751199693204409,0.0
+Gottin_HP,Truncated geometric,13,0.004011506893745845,0.0
+Gottin_HP,Truncated geometric,14,0.0027980575213872173,0.0
+Gottin_HP,Truncated geometric,15,0.0019516670668564989,0.009259259259259259
+Gottin_HP,Truncated geometric,16,0.0013613030864225502,0.0
+Gottin_HP,Truncated geometric,17,0.0009495195797346609,0.027777777777777776
+Gottin_HP,Truncated geometric,18,0.0006622973541247325,0.0
+Gottin_HP,Truncated geometric,19,0.00046195759902412624,0.0
+Gottin_HP,Truncated geometric,20,0.00032221904853925204,0.018518518518518517
+Gottin_HP,Truncated geometric,21,0.0002247503135804431,0.0
+Gottin_HP,Truncated geometric,22,0.00015676510648113983,0.0
+Gottin_HP,Truncated geometric,23,0.00010934489130867028,0.0
+Gottin_HP,Truncated geometric,24,7.626891930024863e-5,0.0
+Gottin_HP,Truncated geometric,25,5.3198169403334386e-5,0.0
+Gottin_HP,Truncated geometric,26,3.710614040202668e-5,0.009259259259259259
+Gottin_HP,Truncated geometric,27,2.5881823960818742e-5,0.0
+Gottin_HP,Truncated geometric,28,1.8052775208661287e-5,0.0
+Gottin_HP,Truncated geometric,29,1.2591952299336537e-5,0.0
+Gottin_HP,Truncated geometric,30,8.782985489826242e-6,0.0
+Gottin_HP,Truncated geometric,31,6.126201265753101e-6,0.0
+Gottin_HP,Truncated geometric,32,4.273073431806096e-6,0.0
+Gottin_HP,Truncated power law,1,0.5184665928706279,0.49074074074074076
+Gottin_HP,Truncated power law,2,0.1595261233272798,0.17592592592592593
+Gottin_HP,Truncated power law,3,0.08005638243638107,0.08333333333333333
+Gottin_HP,Truncated power law,4,0.04908432746443248,0.08333333333333333
+Gottin_HP,Truncated power law,5,0.03358546804717692,0.037037037037037035
+Gottin_HP,Truncated power law,6,0.024632415112749127,0.018518518518518517
+Gottin_HP,Truncated power law,7,0.018952511466798286,0.037037037037037035
+Gottin_HP,Truncated power law,8,0.015102675050235125,0.0
+Gottin_HP,Truncated power law,9,0.012361499191905186,0.0
+Gottin_HP,Truncated power law,10,0.010333856783392154,0.0
+Gottin_HP,Truncated power law,11,0.008787713747529378,0.009259259259259259
+Gottin_HP,Truncated power law,12,0.007579106822232023,0.0
+Gottin_HP,Truncated power law,13,0.006614644597965369,0.0
+Gottin_HP,Truncated power law,14,0.005831466719724751,0.0
+Gottin_HP,Truncated power law,15,0.005185929259979468,0.009259259259259259
+Gottin_HP,Truncated power law,16,0.004646916958132386,0.0
+Gottin_HP,Truncated power law,17,0.0041917333518812555,0.027777777777777776
+Gottin_HP,Truncated power law,18,0.003803489119095478,0.0
+Gottin_HP,Truncated power law,19,0.0034693934394788,0.0
+Gottin_HP,Truncated power law,20,0.0031796072000442616,0.018518518518518517
+Gottin_HP,Truncated power law,21,0.0029264556810018084,0.0
+Gottin_HP,Truncated power law,22,0.0027038770218373743,0.0
+Gottin_HP,Truncated power law,23,0.0025070287993337907,0.0
+Gottin_HP,Truncated power law,24,0.0023320027678923366,0.0
+Gottin_HP,Truncated power law,25,0.002175614937314593,0.0
+Gottin_HP,Truncated power law,26,0.0020352489907955423,0.009259259259259259
+Gottin_HP,Truncated power law,27,0.001908738037131575,0.0
+Gottin_HP,Truncated power law,28,0.0017942742925036782,0.0
+Gottin_HP,Truncated power law,29,0.0016903393691060182,0.0
+Gottin_HP,Truncated power law,30,0.0015956499455702948,0.0
+Gottin_HP,Truncated power law,31,0.0015091150432396613,0.0
+Gottin_HP,Truncated power law,32,0.001429802147232332,0.0
+Gottin_HP,Shifted truncated negative binomial,1,0.5050761590321423,0.49074074074074076
+Gottin_HP,Shifted truncated negative binomial,2,0.14314925425521577,0.17592592592592593
+Gottin_HP,Shifted truncated negative binomial,3,0.0833616995356621,0.08333333333333333
+Gottin_HP,Shifted truncated negative binomial,4,0.05685110694753126,0.08333333333333333
+Gottin_HP,Shifted truncated negative binomial,5,0.04160370501679634,0.037037037037037035
+Gottin_HP,Shifted truncated negative binomial,6,0.03168925685680792,0.018518518518518517
+Gottin_HP,Shifted truncated negative binomial,7,0.02476899320380677,0.037037037037037035
+Gottin_HP,Shifted truncated negative binomial,8,0.019712537747308412,0.0
+Gottin_HP,Shifted truncated negative binomial,9,0.015898775641647527,0.0
+Gottin_HP,Shifted truncated negative binomial,10,0.012954870561814411,0.0
+Gottin_HP,Shifted truncated negative binomial,11,0.010642130090579547,0.009259259259259259
+Gottin_HP,Shifted truncated negative binomial,12,0.008800105661349188,0.0
+Gottin_HP,Shifted truncated negative binomial,13,0.007316769935382206,0.0
+Gottin_HP,Shifted truncated negative binomial,14,0.006111503694255001,0.0
+Gottin_HP,Shifted truncated negative binomial,15,0.005124852081270198,0.009259259259259259
+Gottin_HP,Shifted truncated negative binomial,16,0.0043120769150699735,0.0
+Gottin_HP,Shifted truncated negative binomial,17,0.0036389450914308267,0.027777777777777776
+Gottin_HP,Shifted truncated negative binomial,18,0.0030788899270006655,0.0
+Gottin_HP,Shifted truncated negative binomial,19,0.002611045869579117,0.0
+Gottin_HP,Shifted truncated negative binomial,20,0.0022188560313472347,0.018518518518518517
+Gottin_HP,Shifted truncated negative binomial,21,0.0018890655658717246,0.0
+Gottin_HP,Shifted truncated negative binomial,22,0.0016109810887100602,0.0
+Gottin_HP,Shifted truncated negative binomial,23,0.0013759173627422437,0.0
+Gottin_HP,Shifted truncated negative binomial,24,0.0011767782330912896,0.0
+Gottin_HP,Shifted truncated negative binomial,25,0.0010077353894220587,0.0
+Gottin_HP,Shifted truncated negative binomial,26,0.000863979463966292,0.009259259259259259
+Gottin_HP,Shifted truncated negative binomial,27,0.0007415253223980183,0.0
+Gottin_HP,Shifted truncated negative binomial,28,0.0006370584375869568,0.0
+Gottin_HP,Shifted truncated negative binomial,29,0.0005478127416304151,0.0
+Gottin_HP,Shifted truncated negative binomial,30,0.0004714728308756496,0.0
+Gottin_HP,Shifted truncated negative binomial,31,0.0004060951771236297,0.0
+Gottin_HP,Shifted truncated negative binomial,32,0.00035004429058526916,0.0
+Gottin_PP,Truncated geometric,1,0.3930543294906938,0.5838668373879642
+Gottin_PP,Truncated geometric,2,0.23856264132984475,0.16261203585147246
+Gottin_PP,Truncated geometric,3,0.1447945730861607,0.07298335467349552
+Gottin_PP,Truncated geometric,4,0.08788244579425147,0.04737516005121639
+Gottin_PP,Truncated geometric,5,0.05333987396187664,0.03841229193341869
+Gottin_PP,Truncated geometric,6,0.03237440797824257,0.014084507042253521
+Gottin_PP,Truncated geometric,7,0.01964950822138803,0.015364916773367477
+Gottin_PP,Truncated geometric,8,0.011926184830989926,0.0038412291933418692
+Gottin_PP,Truncated geometric,9,0.007238546788062407,0.011523687580025609
+Gottin_PP,Truncated geometric,10,0.004393404961058234,0.015364916773367477
+Gottin_PP,Truncated geometric,11,0.002666558318540317,0.0012804097311139564
+Gottin_PP,Truncated geometric,12,0.00161845614715741,0.0076824583866837385
+Gottin_PP,Truncated geometric,13,0.0009823150245990035,0.006402048655569782
+Gottin_PP,Truncated geometric,14,0.0005962118956684286,0.0038412291933418692
+Gottin_PP,Truncated geometric,15,0.0003618682557376633,0.002560819462227913
+Gottin_PP,Truncated geometric,16,0.00021963438747529327,0.002560819462227913
+Gottin_PP,Truncated geometric,17,0.00013330615050306704,0.0
+Gottin_PP,Truncated geometric,18,8.090959692705395e-5,0.0012804097311139564
+Gottin_PP,Truncated geometric,19,4.910773321556324e-5,0.002560819462227913
+Gottin_PP,Truncated geometric,20,2.9805728283940692e-5,0.0
+Gottin_PP,Truncated geometric,21,1.8090459085872773e-5,0.0
+Gottin_PP,Truncated geometric,22,1.0979926637590897e-5,0.0012804097311139564
+Gottin_PP,Truncated geometric,23,6.6642194316132675e-6,0.0
+Gottin_PP,Truncated geometric,24,4.044819432640239e-6,0.002560819462227913
+Gottin_PP,Truncated geometric,25,2.4549858255047824e-6,0.0012804097311139564
+Gottin_PP,Truncated geometric,26,1.4900431289451472e-6,0.0
+Gottin_PP,Truncated geometric,27,9.043752933523076e-7,0.0
+Gottin_PP,Truncated geometric,28,5.489067097038246e-7,0.0
+Gottin_PP,Truncated geometric,29,3.331565757850764e-7,0.0
+Gottin_PP,Truncated geometric,30,2.0220795633692727e-7,0.0012804097311139564
+Gottin_PP,Truncated geometric,31,1.227292527833342e-7,0.0
+Gottin_PP,Truncated geometric,32,7.448999417044617e-8,0.0
+Gottin_PP,Truncated power law,1,0.5972021848642791,0.5838668373879642
+Gottin_PP,Truncated power law,2,0.15682956227666867,0.16261203585147246
+Gottin_PP,Truncated power law,3,0.07173713584745978,0.07298335467349552
+Gottin_PP,Truncated power law,4,0.04118456400068446,0.04737516005121639
+Gottin_PP,Truncated power law,5,0.026778912375101202,0.03841229193341869
+Gottin_PP,Truncated power law,6,0.018838684618168025,0.014084507042253521
+Gottin_PP,Truncated power law,7,0.01399293289715819,0.015364916773367477
+Gottin_PP,Truncated power law,8,0.010815360875229654,0.0038412291933418692
+Gottin_PP,Truncated power law,9,0.008617210033761742,0.011523687580025609
+Gottin_PP,Truncated power law,10,0.007032333793264371,0.015364916773367477
+Gottin_PP,Truncated power law,11,0.005851296155792634,0.0012804097311139564
+Gottin_PP,Truncated power law,12,0.00494717323113434,0.0076824583866837385
+Gottin_PP,Truncated power law,13,0.004239359566069492,0.006402048655569782
+Gottin_PP,Truncated power law,14,0.0036746441939539175,0.0038412291933418692
+Gottin_PP,Truncated power law,15,0.0032167371848052365,0.002560819462227913
+Gottin_PP,Truncated power law,16,0.0028401910691467896,0.002560819462227913
+Gottin_PP,Truncated power law,17,0.0025267277949026657,0.0
+Gottin_PP,Truncated power law,18,0.0022629409467885657,0.0012804097311139564
+Gottin_PP,Truncated power law,19,0.0020388143067386327,0.002560819462227913
+Gottin_PP,Truncated power law,20,0.0018467411180548815,0.0
+Gottin_PP,Truncated power law,21,0.0016808594368688623,0.0
+Gottin_PP,Truncated power law,22,0.001536592192931545,0.0012804097311139564
+Gottin_PP,Truncated power law,23,0.0014103228907403605,0.0
+Gottin_PP,Truncated power law,24,0.0012991630506542342,0.002560819462227913
+Gottin_PP,Truncated power law,25,0.001200782860759828,0.0012804097311139564
+Gottin_PP,Truncated power law,26,0.0011132861230760272,0.0
+Gottin_PP,Truncated power law,27,0.0010351167200745369,0.0
+Gottin_PP,Truncated power law,28,0.0009649878300282234,0.0
+Gottin_PP,Truncated power law,29,0.000901827775045497,0.0
+Gottin_PP,Truncated power law,30,0.0008447381765134317,0.0012804097311139564
+Gottin_PP,Truncated power law,31,0.0007929613189852075,0.0
+Gottin_PP,Truncated power law,32,0.0007458544751600707,0.0
+Gottin_PP,Shifted truncated negative binomial,1,0.5899208034516095,0.5838668373879642
+Gottin_PP,Shifted truncated negative binomial,2,0.14046959049635588,0.16261203585147246
+Gottin_PP,Shifted truncated negative binomial,3,0.07623876587809968,0.07298335467349552
+Gottin_PP,Shifted truncated negative binomial,4,0.04911943070430035,0.04737516005121639
+Gottin_PP,Shifted truncated negative binomial,5,0.034140715727882145,0.03841229193341869
+Gottin_PP,Shifted truncated negative binomial,6,0.02476969738478064,0.014084507042253521
+Gottin_PP,Shifted truncated negative binomial,7,0.018473889784259078,0.015364916773367477
+Gottin_PP,Shifted truncated negative binomial,8,0.0140462937503963,0.0038412291933418692
+Gottin_PP,Shifted truncated negative binomial,9,0.010832666515177818,0.011523687580025609
+Gottin_PP,Shifted truncated negative binomial,10,0.008445943748653002,0.015364916773367477
+Gottin_PP,Shifted truncated negative binomial,11,0.0066422536522675905,0.0012804097311139564
+Gottin_PP,Shifted truncated negative binomial,12,0.005260543298330835,0.0076824583866837385
+Gottin_PP,Shifted truncated negative binomial,13,0.004190534278415714,0.006402048655569782
+Gottin_PP,Shifted truncated negative binomial,14,0.0033545340222390662,0.0038412291933418692
+Gottin_PP,Shifted truncated negative binomial,15,0.0026965429926135115,0.002560819462227913
+Gottin_PP,Shifted truncated negative binomial,16,0.00217543995654171,0.002560819462227913
+Gottin_PP,Shifted truncated negative binomial,17,0.0017605617943971434,0.0
+Gottin_PP,Shifted truncated negative binomial,18,0.001428748526873716,0.0012804097311139564
+Gottin_PP,Shifted truncated negative binomial,19,0.0011623168084479807,0.002560819462227913
+Gottin_PP,Shifted truncated negative binomial,20,0.0009476396300359789,0.0
+Gottin_PP,Shifted truncated negative binomial,21,0.0007741321673721798,0.0
+Gottin_PP,Shifted truncated negative binomial,22,0.0006335158974870433,0.0012804097311139564
+Gottin_PP,Shifted truncated negative binomial,23,0.000519277129207307,0.0
+Gottin_PP,Shifted truncated negative binomial,24,0.00042626370800615275,0.002560819462227913
+Gottin_PP,Shifted truncated negative binomial,25,0.00035038141555546187,0.0012804097311139564
+Gottin_PP,Shifted truncated negative binomial,26,0.00028836326446104413,0.0
+Gottin_PP,Shifted truncated negative binomial,27,0.0002375927255902808,0.0
+Gottin_PP,Shifted truncated negative binomial,28,0.0001959672792620334,0.0
+Gottin_PP,Shifted truncated negative binomial,29,0.0001617923990312695,0.0
+Gottin_PP,Shifted truncated negative binomial,30,0.00013369869625480839,0.0012804097311139564
+Gottin_PP,Shifted truncated negative binomial,31,0.00011057682414088983,0.0
+Gottin_PP,Shifted truncated negative binomial,32,9.152609195416052e-5,0.0
+Garraf_HP,Truncated geometric,1,0.5597484195686826,0.7078651685393258
+Garraf_HP,Truncated geometric,2,0.24643012674675643,0.14606741573033707
+Garraf_HP,Truncated geometric,3,0.10849125293684009,0.056179775280898875
+Garraf_HP,Truncated geometric,4,0.04776344564356451,0.011235955056179775
+Garraf_HP,Truncated geometric,5,0.021027932464508115,0.0
+Garraf_HP,Truncated geometric,6,0.009257580515267774,0.056179775280898875
+Garraf_HP,Truncated geometric,7,0.004075664459229103,0.011235955056179775
+Garraf_HP,Truncated geometric,8,0.0017943177223063867,0.0
+Garraf_HP,Truncated geometric,9,0.000789951214284149,0.0
+Garraf_HP,Truncated geometric,10,0.0003477772710993974,0.0
+Garraf_HP,Truncated geometric,11,0.00015310949348048972,0.0
+Garraf_HP,Truncated geometric,12,6.740669658987592e-5,0.0
+Garraf_HP,Truncated geometric,13,2.9675904752036656e-5,0.0
+Garraf_HP,Truncated geometric,14,1.3064863988368502e-5,0.011235955056179775
+Garraf_HP,Truncated geometric,15,5.751827028048862e-6,0.0
+Garraf_HP,Truncated geometric,16,2.532250943450102e-6,0.0
+Garraf_HP,Truncated geometric,17,1.1148274816565748e-6,0.0
+Garraf_HP,Truncated geometric,18,4.908045614797617e-7,0.0
+Garraf_HP,Truncated geometric,19,2.160774842143223e-7,0.0
+Garraf_HP,Truncated geometric,20,9.512845407064511e-8,0.0
+Garraf_HP,Truncated geometric,21,4.1880452314480556e-8,0.0
+Garraf_HP,Truncated geometric,22,1.8437935349637134e-8,0.0
+Garraf_HP,Truncated geometric,23,8.117330190339305e-9,0.0
+Garraf_HP,Truncated geometric,24,3.573667450802223e-9,0.0
+Garraf_HP,Truncated geometric,25,1.5733127456269493e-9,0.0
+Garraf_HP,Truncated power law,1,0.7112292500532307,0.7078651685393258
+Garraf_HP,Truncated power law,2,0.14130519928354904,0.14606741573033707
+Garraf_HP,Truncated power law,3,0.05490366707997132,0.056179775280898875
+Garraf_HP,Truncated power law,4,0.02807415378806356,0.011235955056179775
+Garraf_HP,Truncated power law,5,0.016686335403350964,0.0
+Garraf_HP,Truncated power law,6,0.01090811945311913,0.056179775280898875
+Garraf_HP,Truncated power law,7,0.007614886559764516,0.011235955056179775
+Garraf_HP,Truncated power law,8,0.005577700713859027,0.0
+Garraf_HP,Truncated power law,9,0.004238313678188456,0.0
+Garraf_HP,Truncated power law,10,0.0033151982280061948,0.0
+Garraf_HP,Truncated power law,11,0.0026546205479110697,0.0
+Garraf_HP,Truncated power law,12,0.0021671971351240053,0.0
+Garraf_HP,Truncated power law,13,0.0017982520473948836,0.0
+Garraf_HP,Truncated power law,14,0.0015129060886748004,0.011235955056179775
+Garraf_HP,Truncated power law,15,0.001288109289236562,0.0
+Garraf_HP,Truncated power law,16,0.0011081632411164967,0.0
+Garraf_HP,Truncated power law,17,0.0009620946876162327,0.0
+Garraf_HP,Truncated power law,18,0.0008420572675797411,0.0
+Garraf_HP,Truncated power law,19,0.0007423273315081271,0.0
+Garraf_HP,Truncated power law,20,0.0006586550626789092,0.0
+Garraf_HP,Truncated power law,21,0.0005878346489514712,0.0
+Garraf_HP,Truncated power law,22,0.0005274131871217378,0.0
+Garraf_HP,Truncated power law,23,0.00047548958972113136,0.0
+Garraf_HP,Truncated power law,24,0.00043057315632408867,0.0
+Garraf_HP,Truncated power law,25,0.0003914824779384212,0.0
+Garraf_HP,Shifted truncated negative binomial,1,0.7107242675059565,0.7078651685393258
+Garraf_HP,Shifted truncated negative binomial,2,0.12606981105653528,0.14606741573033707
+Garraf_HP,Shifted truncated negative binomial,3,0.060051316151002156,0.056179775280898875
+Garraf_HP,Shifted truncated negative binomial,4,0.03458862048084266,0.011235955056179775
+Garraf_HP,Shifted truncated negative binomial,5,0.021645892949998538,0.0
+Garraf_HP,Shifted truncated negative binomial,6,0.014193316558803532,0.056179775280898875
+Garraf_HP,Shifted truncated negative binomial,7,0.009589500596169209,0.011235955056179775
+Garraf_HP,Shifted truncated negative binomial,8,0.006615515820300169,0.0
+Garraf_HP,Shifted truncated negative binomial,9,0.004634483596396878,0.0
+Garraf_HP,Shifted truncated negative binomial,10,0.0032851620050584804,0.0
+Garraf_HP,Shifted truncated negative binomial,11,0.0023505175239915592,0.0
+Garraf_HP,Shifted truncated negative binomial,12,0.0016945601210276787,0.0
+Garraf_HP,Shifted truncated negative binomial,13,0.0012293359554582531,0.0
+Garraf_HP,Shifted truncated negative binomial,14,0.0008965460233965752,0.011235955056179775
+Garraf_HP,Shifted truncated negative binomial,15,0.0006567899959601751,0.0
+Garraf_HP,Shifted truncated negative binomial,16,0.00048301996264124905,0.0
+Garraf_HP,Shifted truncated negative binomial,17,0.0003564284184809751,0.0
+Garraf_HP,Shifted truncated negative binomial,18,0.0002637979161925187,0.0
+Garraf_HP,Shifted truncated negative binomial,19,0.00019575616200234787,0.0
+Garraf_HP,Shifted truncated negative binomial,20,0.00014560674148057022,0.0
+Garraf_HP,Shifted truncated negative binomial,21,0.00010853385698359096,0.0
+Garraf_HP,Shifted truncated negative binomial,22,8.105459395739828e-5,0.0
+Garraf_HP,Shifted truncated negative binomial,23,6.063759598970518e-5,0.0
+Garraf_HP,Shifted truncated negative binomial,24,4.543512603831062e-5,0.0
+Garraf_HP,Shifted truncated negative binomial,25,3.409328533609402e-5,0.0
+Garraf_PP,Truncated geometric,1,0.4350736184478631,0.6369230769230769
+Garraf_PP,Truncated geometric,2,0.24578456500128695,0.18461538461538463
+Garraf_PP,Truncated geometric,3,0.1388501849603898,0.04923076923076923
+Garraf_PP,Truncated geometric,4,0.07844013257477546,0.046153846153846156
+Garraf_PP,Truncated geometric,5,0.044312900268037726,0.021538461538461538
+Garraf_PP,Truncated geometric,6,0.02503352640681945,0.009230769230769232
+Garraf_PP,Truncated geometric,7,0.014142099491802838,0.012307692307692308
+Garraf_PP,Truncated geometric,8,0.007989245094193681,0.003076923076923077
+Garraf_PP,Truncated geometric,9,0.004513335322813581,0.0
+Garraf_PP,Truncated geometric,10,0.002549702192884426,0.006153846153846154
+Garraf_PP,Truncated geometric,11,0.001440394033995017,0.003076923076923077
+Garraf_PP,Truncated geometric,12,0.0008137165897093783,0.003076923076923077
+Garraf_PP,Truncated geometric,13,0.00045968996867599537,0.006153846153846154
+Garraf_PP,Truncated geometric,14,0.0002596909906639726,0.0
+Garraf_PP,Truncated geometric,15,0.00014670629169106142,0.0
+Garraf_PP,Truncated geometric,16,8.287825452363187e-5,0.0
+Garraf_PP,Truncated geometric,17,4.6820112441724276e-5,0.006153846153846154
+Garraf_PP,Truncated geometric,18,2.6449916708014684e-5,0.0
+Garraf_PP,Truncated geometric,19,1.4942255739596634e-5,0.003076923076923077
+Garraf_PP,Truncated geometric,20,8.441274467977996e-6,0.0
+Garraf_PP,Truncated geometric,21,4.768698641324459e-6,0.0
+Garraf_PP,Truncated geometric,22,2.6939636684052696e-6,0.0
+Garraf_PP,Truncated geometric,23,1.5218911473659212e-6,0.0
+Garraf_PP,Truncated geometric,24,8.597564590772063e-7,0.0
+Garraf_PP,Truncated geometric,25,4.85699105487502e-7,0.0
+Garraf_PP,Truncated geometric,26,2.7438423821155073e-7,0.0
+Garraf_PP,Truncated geometric,27,1.5500689486213252e-7,0.0
+Garraf_PP,Truncated geometric,28,8.756748423819898e-8,0.003076923076923077
+Garraf_PP,Truncated geometric,29,4.946918201688653e-8,0.0
+Garraf_PP,Truncated geometric,30,2.7946445997729512e-8,0.0
+Garraf_PP,Truncated geometric,31,1.5787684616200244e-8,0.0
+Garraf_PP,Truncated geometric,32,8.918879544141535e-9,0.0
+Garraf_PP,Truncated geometric,33,5.038510348837423e-9,0.0
+Garraf_PP,Truncated geometric,34,2.8463874200450745e-9,0.0
+Garraf_PP,Truncated geometric,35,1.607999345850362e-9,0.003076923076923077
+Garraf_PP,Truncated geometric,36,9.084012520734955e-10,0.0
+Garraf_PP,Truncated geometric,37,5.131798323787909e-10,0.0
+Garraf_PP,Truncated geometric,38,2.899088258181065e-10,0.003076923076923077
+Garraf_PP,Truncated geometric,39,1.6377714396460467e-10,0.0
+Garraf_PP,Truncated geometric,40,9.252202932942784e-11,0.0
+Garraf_PP,Truncated power law,1,0.6568679872390986,0.6369230769230769
+Garraf_PP,Truncated power law,2,0.14974510515053857,0.18461538461538463
+Garraf_PP,Truncated power law,3,0.06305700208495045,0.04923076923076923
+Garraf_PP,Truncated power law,4,0.03413714315839191,0.046153846153846156
+Garraf_PP,Truncated power law,5,0.021208450839019843,0.021538461538461538
+Garraf_PP,Truncated power law,6,0.014375000138728927,0.009230769230769232
+Garraf_PP,Truncated power law,7,0.010346751563027164,0.012307692307692308
+Garraf_PP,Truncated power law,8,0.007782187884171738,0.003076923076923077
+Garraf_PP,Truncated power law,9,0.006053249038142151,0.0
+Garraf_PP,Truncated power law,10,0.004834855347902724,0.006153846153846154
+Garraf_PP,Truncated power law,11,0.003945381205912572,0.003076923076923077
+Garraf_PP,Truncated power law,12,0.003277044930078825,0.003076923076923077
+Garraf_PP,Truncated power law,13,0.0027626860470164995,0.006153846153846154
+Garraf_PP,Truncated power law,14,0.0023587317860994084,0.0
+Garraf_PP,Truncated power law,15,0.0020359362227342854,0.0
+Garraf_PP,Truncated power law,16,0.0017740924594523745,0.0
+Garraf_PP,Truncated power law,17,0.0015588851955932938,0.006153846153846154
+Garraf_PP,Truncated power law,18,0.0013799491394441332,0.0
+Garraf_PP,Truncated power law,19,0.0012296334841982693,0.003076923076923077
+Garraf_PP,Truncated power law,20,0.0011021939514854213,0.0
+Garraf_PP,Truncated power law,21,0.0009932515323581804,0.0
+Garraf_PP,Truncated power law,22,0.0008994220071852678,0.0
+Garraf_PP,Truncated power law,23,0.0008180574182155425,0.0
+Garraf_PP,Truncated power law,24,0.000747062495312428,0.0
+Garraf_PP,Truncated power law,25,0.0006847622288333497,0.0
+Garraf_PP,Truncated power law,26,0.0006298049541845396,0.0
+Garraf_PP,Truncated power law,27,0.0005810904848981724,0.0
+Garraf_PP,Truncated power law,28,0.0005377161715795508,0.003076923076923077
+Garraf_PP,Truncated power law,29,0.000498935961388291,0.0
+Garraf_PP,Truncated power law,30,0.0004641290025938856,0.0
+Garraf_PP,Truncated power law,31,0.00043277533737905155,0.0
+Garraf_PP,Truncated power law,32,0.0004044369143396437,0.0
+Garraf_PP,Truncated power law,33,0.0003787426328581253,0.0
+Garraf_PP,Truncated power law,34,0.00035537647147777004,0.0
+Garraf_PP,Truncated power law,35,0.00033406799559580004,0.003076923076923077
+Garraf_PP,Truncated power law,36,0.00031458471565495833,0.0
+Garraf_PP,Truncated power law,37,0.00029672589547904765,0.0
+Garraf_PP,Truncated power law,38,0.0002803175051380138,0.003076923076923077
+Garraf_PP,Truncated power law,39,0.0002652080832238395,0.0
+Garraf_PP,Truncated power law,40,0.00025126532631798774,0.0
+Garraf_PP,Shifted truncated negative binomial,1,0.6519423791705382,0.6369230769230769
+Garraf_PP,Shifted truncated negative binomial,2,0.12370253487553512,0.18461538461538463
+Garraf_PP,Shifted truncated negative binomial,3,0.0645804348510673,0.04923076923076923
+Garraf_PP,Shifted truncated negative binomial,4,0.040868754709395154,0.046153846153846156
+Garraf_PP,Shifted truncated negative binomial,5,0.028126744179558016,0.021538461538461538
+Garraf_PP,Shifted truncated negative binomial,6,0.020292123816363812,0.009230769230769232
+Garraf_PP,Shifted truncated negative binomial,7,0.01508937569896425,0.012307692307692308
+Garraf_PP,Shifted truncated negative binomial,8,0.011459357283398693,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,9,0.008838609814946056,0.0
+Garraf_PP,Shifted truncated negative binomial,10,0.006898815206253176,0.006153846153846154
+Garraf_PP,Shifted truncated negative binomial,11,0.005435690649058445,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,12,0.004315713811087361,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,13,0.0034482285975361623,0.006153846153846154
+Garraf_PP,Shifted truncated negative binomial,14,0.0027698044093163645,0.0
+Garraf_PP,Shifted truncated negative binomial,15,0.0022349721627754637,0.0
+Garraf_PP,Shifted truncated negative binomial,16,0.0018104862760917957,0.0
+Garraf_PP,Shifted truncated negative binomial,17,0.001471636348714845,0.006153846153846154
+Garraf_PP,Shifted truncated negative binomial,18,0.00119980140815099,0.0
+Garraf_PP,Shifted truncated negative binomial,19,0.000980784742604537,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,20,0.0008036543128408848,0.0
+Garraf_PP,Shifted truncated negative binomial,21,0.0006599193902654998,0.0
+Garraf_PP,Shifted truncated negative binomial,22,0.0005429359994891698,0.0
+Garraf_PP,Shifted truncated negative binomial,23,0.00044747123274683674,0.0
+Garraf_PP,Shifted truncated negative binomial,24,0.0003693798514130006,0.0
+Garraf_PP,Shifted truncated negative binomial,25,0.0003053615031434267,0.0
+Garraf_PP,Shifted truncated negative binomial,26,0.00025277662683418365,0.0
+Garraf_PP,Shifted truncated negative binomial,27,0.00020950561432950824,0.0
+Garraf_PP,Shifted truncated negative binomial,28,0.00017384020972175066,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,29,0.00014439917328516996,0.0
+Garraf_PP,Shifted truncated negative binomial,30,0.00012006237220243352,0.0
+Garraf_PP,Shifted truncated negative binomial,31,9.991897738269235e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,32,8.32265372194749e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,33,6.93784934709709e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,34,5.787828853930346e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,35,4.831864703742189e-5,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,36,4.036493925669122e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,37,3.374177928796333e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,38,2.8222196979096993e-5,0.003076923076923077
+Garraf_PP,Shifted truncated negative binomial,39,2.3618865658648906e-5,0.0
+Garraf_PP,Shifted truncated negative binomial,40,1.9776977540637672e-5,0.0
+Garraf_PP2,Truncated geometric,1,0.22101531608617936,0.3940020682523268
+Garraf_PP2,Truncated geometric,2,0.17243364127990082,0.15408479834539815
+Garraf_PP2,Truncated geometric,3,0.13453076995556157,0.07238883143743537
+Garraf_PP2,Truncated geometric,4,0.1049593799127515,0.06618407445708377
+Garraf_PP2,Truncated geometric,5,0.08188811701076479,0.06308169596690796
+Garraf_PP2,Truncated geometric,6,0.06388817953329043,0.016546018614270942
+Garraf_PP2,Truncated geometric,7,0.049844832596912456,0.01861427094105481
+Garraf_PP2,Truncated geometric,8,0.038888372696855696,0.03412616339193381
+Garraf_PP2,Truncated geometric,9,0.030340267029068696,0.04136504653567735
+Garraf_PP2,Truncated geometric,10,0.023671132000584388,0.022750775594622543
+Garraf_PP2,Truncated geometric,11,0.018467948540210638,0.012409513960703205
+Garraf_PP2,Truncated geometric,12,0.014408483856008581,0.02171664943123061
+Garraf_PP2,Truncated geometric,13,0.011241335580767871,0.009307135470527405
+Garraf_PP2,Truncated geometric,14,0.008770362440787988,0.01344364012409514
+Garraf_PP2,Truncated geometric,15,0.006842537240359693,0.0031023784901758012
+Garraf_PP2,Truncated geometric,16,0.005338469898115476,0.007238883143743537
+Garraf_PP2,Truncated geometric,17,0.0041650136275454075,0.005170630816959669
+Garraf_PP2,Truncated geometric,18,0.0032494963629489987,0.005170630816959669
+Garraf_PP2,Truncated geometric,19,0.0025352201834311174,0.020682523267838676
+Garraf_PP2,Truncated geometric,20,0.001977950014581194,0.001034126163391934
+Garraf_PP2,Truncated geometric,21,0.0015431741533735081,0.017580144777662874
+Garraf_PP2,Truncated power law,1,0.3829991517931515,0.3940020682523268
+Garraf_PP2,Truncated power law,2,0.1558348673438058,0.15408479834539815
+Garraf_PP2,Truncated power law,3,0.09209103883508132,0.07238883143743537
+Garraf_PP2,Truncated power law,4,0.06340616099634869,0.06618407445708377
+Garraf_PP2,Truncated power law,5,0.04746875678066168,0.06308169596690796
+Garraf_PP2,Truncated power law,6,0.03747004334925732,0.016546018614270942
+Garraf_PP2,Truncated power law,7,0.030678390894429065,0.01861427094105481
+Garraf_PP2,Truncated power law,8,0.02579872733760627,0.03412616339193381
+Garraf_PP2,Truncated power law,9,0.02214302406159037,0.04136504653567735
+Garraf_PP2,Truncated power law,10,0.019314109133810525,0.022750775594622543
+Garraf_PP2,Truncated power law,11,0.017067699705086477,0.012409513960703205
+Garraf_PP2,Truncated power law,12,0.015245828110480359,0.02171664943123061
+Garraf_PP2,Truncated power law,13,0.013742107275285376,0.009307135470527405
+Garraf_PP2,Truncated power law,14,0.012482437501419717,0.01344364012409514
+Garraf_PP2,Truncated power law,15,0.011413725340315789,0.0031023784901758012
+Garraf_PP2,Truncated power law,16,0.010496997796136574,0.007238883143743537
+Garraf_PP2,Truncated power law,17,0.009703043196503704,0.005170630816959669
+Garraf_PP2,Truncated power law,18,0.00900956360105009,0.005170630816959669
+Garraf_PP2,Truncated power law,19,0.008399263124289357,0.020682523267838676
+Garraf_PP2,Truncated power law,20,0.007858533421391695,0.001034126163391934
+Garraf_PP2,Truncated power law,21,0.007376530402298378,0.017580144777662874
+Garraf_PP2,Shifted truncated negative binomial,1,0.40059867101571783,0.3940020682523268
+Garraf_PP2,Shifted truncated negative binomial,2,0.13158481567439187,0.15408479834539815
+Garraf_PP2,Shifted truncated negative binomial,3,0.08352893679794368,0.07238883143743537
+Garraf_PP2,Shifted truncated negative binomial,4,0.06155236240999291,0.06618407445708377
+Garraf_PP2,Shifted truncated negative binomial,5,0.04850031939654859,0.06308169596690796
+Garraf_PP2,Shifted truncated negative binomial,6,0.03970160090970822,0.016546018614270942
+Garraf_PP2,Shifted truncated negative binomial,7,0.03330987069062801,0.01861427094105481
+Garraf_PP2,Shifted truncated negative binomial,8,0.028433054264152453,0.03412616339193381
+Garraf_PP2,Shifted truncated negative binomial,9,0.024581299378719612,0.04136504653567735
+Garraf_PP2,Shifted truncated negative binomial,10,0.021460492466071412,0.022750775594622543
+Garraf_PP2,Shifted truncated negative binomial,11,0.018881983294915815,0.012409513960703205
+Garraf_PP2,Shifted truncated negative binomial,12,0.0167184484795737,0.02171664943123061
+Garraf_PP2,Shifted truncated negative binomial,13,0.014880409907875368,0.009307135470527405
+Garraf_PP2,Shifted truncated negative binomial,14,0.01330288492042025,0.01344364012409514
+Garraf_PP2,Shifted truncated negative binomial,15,0.011937378677580504,0.0031023784901758012
+Garraf_PP2,Shifted truncated negative binomial,16,0.010746863516061387,0.007238883143743537
+Garraf_PP2,Shifted truncated negative binomial,17,0.009702511736368236,0.005170630816959669
+Garraf_PP2,Shifted truncated negative binomial,18,0.00878150086644559,0.005170630816959669
+Garraf_PP2,Shifted truncated negative binomial,19,0.007965498384178815,0.020682523267838676
+Garraf_PP2,Shifted truncated negative binomial,20,0.007239590225899031,0.001034126163391934
+Garraf_PP2,Shifted truncated negative binomial,21,0.006591506986806867,0.017580144777662874
+Olot,Truncated geometric,1,0.36078712547252156,0.5
+Olot,Truncated geometric,2,0.23087105705717983,0.14130434782608695
+Olot,Truncated geometric,3,0.1477365494040035,0.11956521739130435
+Olot,Truncated geometric,4,0.09453800016342408,0.03260869565217391
+Olot,Truncated geometric,5,0.0604957507871602,0.043478260869565216
+Olot,Truncated geometric,6,0.0387117969173851,0.05434782608695652
+Olot,Truncated geometric,7,0.02477204102888719,0.010869565217391304
+Olot,Truncated geometric,8,0.015851860817684853,0.043478260869565216
+Olot,Truncated geometric,9,0.010143754044740508,0.03260869565217391
+Olot,Truncated geometric,10,0.0064910831165887846,0.021739130434782608
+Olot,Truncated geometric,11,0.004153704815852701,0.0
+Olot,Truncated geometric,12,0.0026579945730697938,0.0
+Olot,Truncated geometric,13,0.0017008755950844148,0.0
+Olot,Truncated geometric,14,0.0010884062064177127,0.0
+Olot,Truncated power law,1,0.49620080422146345,0.5
+Olot,Truncated power law,2,0.16937391526900597,0.14130434782608695
+Olot,Truncated power law,3,0.09031910675014887,0.11956521739130435
+Olot,Truncated power law,4,0.05781434235795524,0.03260869565217391
+Olot,Truncated power law,5,0.040903082135425706,0.043478260869565216
+Olot,Truncated power law,6,0.030829657275292084,0.05434782608695652
+Olot,Truncated power law,7,0.024274678250214645,0.010869565217391304
+Olot,Truncated power law,8,0.019734432996805787,0.043478260869565216
+Olot,Truncated power law,9,0.016439999642773515,0.03260869565217391
+Olot,Truncated power law,10,0.013961918459033225,0.021739130434782608
+Olot,Truncated power law,11,0.012043617346834897,0.0
+Olot,Truncated power law,12,0.010523440741517332,0.0
+Olot,Truncated power law,13,0.009295050032385009,0.0
+Olot,Truncated power law,14,0.008285954521144223,0.0
+Olot,Shifted truncated negative binomial,1,0.49291790148749715,0.5
+Olot,Shifted truncated negative binomial,2,0.16411965344672313,0.14130434782608695
+Olot,Shifted truncated negative binomial,3,0.09634899246912128,0.11956521739130435
+Olot,Shifted truncated negative binomial,4,0.06472425975618164,0.03260869565217391
+Olot,Shifted truncated negative binomial,5,0.04622092910955003,0.043478260869565216
+Olot,Shifted truncated negative binomial,6,0.03418183986743845,0.05434782608695652
+Olot,Shifted truncated negative binomial,7,0.025857615938556153,0.010869565217391304
+Olot,Shifted truncated negative binomial,8,0.01987346058790792,0.043478260869565216
+Olot,Shifted truncated negative binomial,9,0.015454560367587349,0.03260869565217391
+Olot,Shifted truncated negative binomial,10,0.012127298484288328,0.021739130434782608
+Olot,Shifted truncated negative binomial,11,0.00958485504333112,0.0
+Olot,Shifted truncated negative binomial,12,0.007619709306666678,0.0
+Olot,Shifted truncated negative binomial,13,0.006086806852051958,0.0
+Olot,Shifted truncated negative binomial,14,0.004882117283099102,0.0
+Montseny,Truncated geometric,1,0.4872274251863337,0.6704384724186704
+Montseny,Truncated geometric,2,0.24983828744675451,0.13578500707213578
+Montseny,Truncated geometric,3,0.12811095321749538,0.06223479490806223
+Montseny,Truncated geometric,4,0.06569215832378414,0.033946251768033946
+Montseny,Truncated geometric,5,0.033685329449627294,0.021216407355021217
+Montseny,Truncated geometric,6,0.01727301171225339,0.019801980198019802
+Montseny,Truncated geometric,7,0.008857177248564628,0.021216407355021217
+Montseny,Truncated geometric,8,0.004541743508275347,0.005657708628005658
+Montseny,Truncated geometric,9,0.002328894806559741,0.004243281471004243
+Montseny,Truncated geometric,10,0.0011942002031022916,0.008486562942008486
+Montseny,Truncated geometric,11,0.0006123566084104158,0.0
+Montseny,Truncated geometric,12,0.0003140014671658768,0.004243281471004243
+Montseny,Truncated geometric,13,0.00016101225989585655,0.004243281471004243
+Montseny,Truncated geometric,14,8.256314236606909e-5,0.0
+Montseny,Truncated geometric,15,4.2336356757981334e-5,0.002828854314002829
+Montseny,Truncated geometric,16,2.1709046581488634e-5,0.0014144271570014145
+Montseny,Truncated geometric,17,1.113186725469466e-5,0.0014144271570014145
+Montseny,Truncated geometric,18,5.708148817636646e-6,0.002828854314002829
+Montseny,Truncated power law,1,0.6586511502563814,0.6704384724186704
+Montseny,Truncated power law,2,0.1527346813383275,0.13578500707213578
+Montseny,Truncated power law,3,0.06496082871081252,0.06223479490806223
+Montseny,Truncated power law,4,0.03541766058472685,0.033946251768033946
+Montseny,Truncated power law,5,0.022125158077829096,0.021216407355021217
+Montseny,Truncated power law,6,0.015063773089529348,0.019801980198019802
+Montseny,Truncated power law,7,0.010883719455095904,0.021216407355021217
+Montseny,Truncated power law,8,0.008213004867677893,0.005657708628005658
+Montseny,Truncated power law,9,0.0064068957674376145,0.004243281471004243
+Montseny,Truncated power law,10,0.005130605127254325,0.008486562942008486
+Montseny,Truncated power law,11,0.0041965524738380704,0.0
+Montseny,Truncated power law,12,0.003493139853603173,0.004243281471004243
+Montseny,Truncated power law,13,0.002950669239887025,0.004243281471004243
+Montseny,Truncated power law,14,0.0025238267967842573,0.0
+Montseny,Truncated power law,15,0.0021821393669988237,0.002828854314002829
+Montseny,Truncated power law,16,0.0019045145230622191,0.0014144271570014145
+Montseny,Truncated power law,17,0.0016759847682165496,0.0014144271570014145
+Montseny,Truncated power law,18,0.0014856957025377686,0.002828854314002829
+Montseny,Shifted truncated negative binomial,1,0.6726815233214833,0.6704384724186704
+Montseny,Shifted truncated negative binomial,2,0.12449965772410385,0.13578500707213578
+Montseny,Shifted truncated negative binomial,3,0.0635431263297887,0.06223479490806223
+Montseny,Shifted truncated negative binomial,4,0.03932201573447074,0.033946251768033946
+Montseny,Shifted truncated negative binomial,5,0.02646537273030825,0.021216407355021217
+Montseny,Shifted truncated negative binomial,6,0.018673251080346915,0.019801980198019802
+Montseny,Shifted truncated negative binomial,7,0.013580311752456303,0.021216407355021217
+Montseny,Shifted truncated negative binomial,8,0.010086790704640537,0.005657708628005658
+Montseny,Shifted truncated negative binomial,9,0.0076091641949339985,0.004243281471004243
+Montseny,Shifted truncated negative binomial,10,0.005808878087188225,0.008486562942008486
+Montseny,Shifted truncated negative binomial,11,0.004476522509840966,0.0
+Montseny,Shifted truncated negative binomial,12,0.0034762404592939746,0.004243281471004243
+Montseny,Shifted truncated negative binomial,13,0.002716606214462855,0.004243281471004243
+Montseny,Shifted truncated negative binomial,14,0.0021342985258378765,0.0
+Montseny,Shifted truncated negative binomial,15,0.0016844388906340358,0.002828854314002829
+Montseny,Shifted truncated negative binomial,16,0.0013346177090749348,0.0014144271570014145
+Montseny,Shifted truncated negative binomial,17,0.0010610647679961,0.0014144271570014145
+Montseny,Shifted truncated negative binomial,18,0.0008461192631387912,0.002828854314002829

@@ -1,0 +1,11 @@
+dataset,N,L,total_support,opportunity_classes,movable_links,validated
+Quercus,22,133,430.0,20,105,true
+Nahuel,8,163,334.0,8,107,true
+Salix_Galpar,341,939,3104.0,32,750,true
+Gottin_HP,32,108,357.0,27,89,true
+Gottin_PP,32,781,1987.0,31,647,true
+Garraf_HP,25,89,159.0,12,49,true
+Garraf_PP,40,325,747.0,25,182,true
+Garraf_PP2,21,967,4288.0,21,528,true
+Olot,14,92,253.0,13,72,true
+Montseny,18,707,1451.0,18,468,true

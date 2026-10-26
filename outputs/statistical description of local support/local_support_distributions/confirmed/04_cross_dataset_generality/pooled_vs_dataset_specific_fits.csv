@@ -1,0 +1,3 @@
+model,shared_loglik,separate_loglik,n_datasets,shared_parameters,separate_parameters,shared_AIC,separate_AIC,AIC_separate_minus_shared,note
+Binomial,-26117.14744782984,-23990.233740644257,10,1,10,52236.29489565968,48000.46748128851,-4235.827414371168,In-sample descriptive AIC; pair/site dependence can inflate evidence
+Beta-binomial,-15231.945243696606,-13773.135172382528,10,2,20,30467.89048739321,27586.270344765057,-2881.620142628155,In-sample descriptive AIC; pair/site dependence can inflate evidence

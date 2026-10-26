@@ -1,0 +1,51 @@
+dataset,check,maximum_error
+Quercus,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Nahuel,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Salix_Galpar,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Gottin_HP,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Gottin_PP,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Garraf_HP,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Garraf_PP,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Garraf_PP2,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Olot,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Montseny,All-pair opportunities match occupancy; positive pairs and M match original,0.0
+Quercus,"Proportional Pair: exact M, normalized frequencies, original empirical curve",1.1546319456101628e-14
+Quercus,"Proportional Common: exact M, normalized frequencies, original empirical curve",1.509903313490213e-14
+Quercus,"Intercept Pair: exact M, normalized frequencies, original empirical curve",9.769962616701378e-15
+Quercus,"Intercept Common: exact M, normalized frequencies, original empirical curve",1.4210854715202004e-14
+Nahuel,"Proportional Pair: exact M, normalized frequencies, original empirical curve",8.881784197001252e-16
+Nahuel,"Proportional Common: exact M, normalized frequencies, original empirical curve",1.1102230246251565e-15
+Nahuel,"Intercept Pair: exact M, normalized frequencies, original empirical curve",4.440892098500626e-16
+Nahuel,"Intercept Common: exact M, normalized frequencies, original empirical curve",3.3306690738754696e-15
+Salix_Galpar,"Proportional Pair: exact M, normalized frequencies, original empirical curve",3.19300141882195e-13
+Salix_Galpar,"Proportional Common: exact M, normalized frequencies, original empirical curve",1.652011860642233e-13
+Salix_Galpar,"Intercept Pair: exact M, normalized frequencies, original empirical curve",3.4416913763379853e-13
+Salix_Galpar,"Intercept Common: exact M, normalized frequencies, original empirical curve",1.7053025658242404e-13
+Gottin_HP,"Proportional Pair: exact M, normalized frequencies, original empirical curve",1.4210854715202004e-14
+Gottin_HP,"Proportional Common: exact M, normalized frequencies, original empirical curve",1.9539925233402755e-14
+Gottin_HP,"Intercept Pair: exact M, normalized frequencies, original empirical curve",1.509903313490213e-14
+Gottin_HP,"Intercept Common: exact M, normalized frequencies, original empirical curve",1.2434497875801753e-14
+Gottin_PP,"Proportional Pair: exact M, normalized frequencies, original empirical curve",3.774758283725532e-13
+Gottin_PP,"Proportional Common: exact M, normalized frequencies, original empirical curve",1.9184653865522705e-13
+Gottin_PP,"Intercept Pair: exact M, normalized frequencies, original empirical curve",3.6415315207705135e-13
+Gottin_PP,"Intercept Common: exact M, normalized frequencies, original empirical curve",1.8207657603852567e-13
+Garraf_HP,"Proportional Pair: exact M, normalized frequencies, original empirical curve",1.9984014443252818e-15
+Garraf_HP,"Proportional Common: exact M, normalized frequencies, original empirical curve",6.661338147750939e-16
+Garraf_HP,"Intercept Pair: exact M, normalized frequencies, original empirical curve",8.881784197001252e-16
+Garraf_HP,"Intercept Common: exact M, normalized frequencies, original empirical curve",1.1102230246251565e-15
+Garraf_PP,"Proportional Pair: exact M, normalized frequencies, original empirical curve",2.6645352591003757e-14
+Garraf_PP,"Proportional Common: exact M, normalized frequencies, original empirical curve",1.7319479184152442e-14
+Garraf_PP,"Intercept Pair: exact M, normalized frequencies, original empirical curve",1.2878587085651816e-14
+Garraf_PP,"Intercept Common: exact M, normalized frequencies, original empirical curve",8.43769498715119e-15
+Garraf_PP2,"Proportional Pair: exact M, normalized frequencies, original empirical curve",1.8340884366807586e-13
+Garraf_PP2,"Proportional Common: exact M, normalized frequencies, original empirical curve",9.547918011776346e-14
+Garraf_PP2,"Intercept Pair: exact M, normalized frequencies, original empirical curve",1.7008616737257398e-13
+Garraf_PP2,"Intercept Common: exact M, normalized frequencies, original empirical curve",9.85878045867139e-14
+Olot,"Proportional Pair: exact M, normalized frequencies, original empirical curve",3.1086244689504383e-15
+Olot,"Proportional Common: exact M, normalized frequencies, original empirical curve",3.552713678800501e-15
+Olot,"Intercept Pair: exact M, normalized frequencies, original empirical curve",3.552713678800501e-15
+Olot,"Intercept Common: exact M, normalized frequencies, original empirical curve",4.440892098500626e-16
+Montseny,"Proportional Pair: exact M, normalized frequencies, original empirical curve",1.0791367799356522e-13
+Montseny,"Proportional Common: exact M, normalized frequencies, original empirical curve",6.794564910705958e-14
+Montseny,"Intercept Pair: exact M, normalized frequencies, original empirical curve",9.85878045867139e-14
+Montseny,"Intercept Common: exact M, normalized frequencies, original empirical curve",6.306066779870889e-14

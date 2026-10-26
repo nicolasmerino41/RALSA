@@ -1,0 +1,3 @@
+check,max_error,passed
+Site posterior against exhaustive 16-state integration,0.023266539092544003,true
+Positive-row sampler mean against exact expectation,NaN,true

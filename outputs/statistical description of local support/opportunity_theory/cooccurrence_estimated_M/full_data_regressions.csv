@@ -1,0 +1,3 @@
+model,intercept,slope,slope_percent,pearson_r,scope
+Proportional,0.0,0.18845178761830345,18.845178761830343,0.7362462059357908,All ten datasets; descriptive only
+Intercept,150.6625432575529,0.17524579483212216,17.524579483212214,0.7362462059357908,All ten datasets; descriptive only

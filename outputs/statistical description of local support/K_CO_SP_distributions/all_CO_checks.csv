@@ -1,0 +1,11 @@
+dataset,N,all_cooccurring_pairs,known_pairs,never_interacting_pairs,known_K_CO_match,occurrence_C_match
+Quercus,22,1192,133,1059,true,true
+Nahuel,8,938,163,775,true,true
+Salix_Galpar,341,3168,939,2229,true,true
+Gottin_HP,32,837,108,729,true,true
+Gottin_PP,32,6437,781,5656,true,true
+Garraf_HP,25,622,89,533,true,true
+Garraf_PP,40,1355,325,1030,true,true
+Garraf_PP2,21,3671,967,2704,true,true
+Olot,14,558,92,466,true,true
+Montseny,18,3831,707,3124,true,true

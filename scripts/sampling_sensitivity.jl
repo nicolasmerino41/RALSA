@@ -189,7 +189,6 @@ function plots(s,gs,full)
     Legend(fig[4,1:2],[LineElement(color=c) for c in colors],[DISPLAY[x] for x in DATA],nbanks=2,orientation=:horizontal,framevisible=false)
     colgap!(fig.layout,50)
     save(joinpath(DEST,"sampling_effects.png"),fig;px_per_unit=2)
-    save(joinpath(DEST,"sampling_effects.pdf"),fig)
     f=Figure(size=(1550,650))
     for (j,metric,label) in [(1,:support_difference,"Generalist − specialist support"),
                            (2,:active_difference80,"Difference in fraction retaining interactions"),

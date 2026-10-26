@@ -1,0 +1,4 @@
+model,mean_mae_pp,median_mae_pp,mean_absolute_singleton_error_pp,datasets_improved_vs_common,datasets_improved_vs_two_class
+Common,2.502227244249559,2.4949544543395765,8.843687866207251,0,1
+Two-class pair,0.9757469970386514,0.9818888026149495,3.4212617371136735,9,0
+Beta pair,0.8840647580624148,0.5135563891436096,4.272259887373992,9,5

@@ -1,0 +1,3 @@
+check,error,passed
+Exact enumeration h=0.0,1.1102230246251565e-16,true
+Exact enumeration h=2.0,4.163336342344337e-17,true
