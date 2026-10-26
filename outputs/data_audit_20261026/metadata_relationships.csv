@@ -1,0 +1,11 @@
+held_out_dataset,related_training_datasets,relationship,independent_landscape_validation_established,source
+Quercus,,No related dataset established by this targeted audit; independence not exhaustively assessed,False,RALSA data documentation and targeted source audit
+Nahuel,,No related dataset established by this targeted audit; independence not exhaustively assessed,False,RALSA data documentation and targeted source audit
+Salix_Galpar,,No related dataset established by this targeted audit; independence not exhaustively assessed,False,RALSA data documentation and targeted source audit
+Gottin_HP,Gottin_PP,"Same 32 metadata sites, confirmed",False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\metadata.csv;C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\data_processing_occurrence.R
+Gottin_PP,Gottin_HP,"Same 32 metadata sites, confirmed",False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\metadata.csv;C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\data_processing_occurrence.R
+Garraf_HP,Garraf_PP;Garraf_PP2;Olot;Montseny,Shared documented provider collection; exact site/campaign overlap unresolved,False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\data-processing_occurrence.R
+Garraf_PP,Garraf_HP;Garraf_PP2;Olot;Montseny,Shared documented provider collection; exact site/campaign overlap unresolved,False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\data-processing_occurrence.R
+Garraf_PP2,Garraf_HP;Garraf_PP;Olot;Montseny,Shared documented provider collection; exact site/campaign overlap unresolved,False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\data-processing_occurrence.R
+Olot,Garraf_HP;Garraf_PP;Garraf_PP2;Montseny,Shared documented provider collection; exact site/campaign overlap unresolved,False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\data-processing_occurrence.R
+Montseny,Garraf_HP;Garraf_PP;Garraf_PP2;Olot,Shared documented provider collection; exact site/campaign overlap unresolved,False,C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\data-processing_occurrence.R

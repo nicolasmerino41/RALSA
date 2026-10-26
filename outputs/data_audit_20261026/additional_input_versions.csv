@@ -1,0 +1,81 @@
+path,bytes,sha256
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Quercus_occupancy.csv,12851,45b020bdd79254cdd277de2331834783955ece04d5b79a2e6bece08daadce183
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Quercus_interactions.csv,6428,23e31dd5e1390681464dac9777383c996b5f2306bc8da41c1331058382b14c0d
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Nahuel_occupancy.csv,5434,e054bf75fbc46e2a6e93087ed7ab9a0db6f4ccc54ec04c84e770e9157677e5a7
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Nahuel_interactions.csv,4950,113a1ff0f8bef6fcde420acc757286addb9af6f5593c7f4cbfbfa177125affd3
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Salix_Galpar_occupancy.csv,111544,13240875418d65a92bb2182c0c7651de0dca7d6e6e788beb1e6717449f5bb985
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Salix_Galpar_interactions.csv,102685,98e6428b98b47eb3e52e5849772a794522729522eb498cdaa619336f56ac6cad
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Gottin_HP_occupancy.csv,23870,23da3c872c63769a6d4264096fef368c2deb36c359c97a054dbe15e59a60afdb
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Gottin_HP_interactions.csv,13562,31d429aba8dfa88aff7fd2e3bd09d1c1b944f8589ef4ae845d24519fe2796d02
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Gottin_PP_occupancy.csv,48611,454c47c4d9e3f17195fe78751b08433c7cbd194df80e7e79d0130c81b12472e8
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Gottin_PP_interactions.csv,79360,048e27c8b0c3d0a6b4d5971613906764150e46d57e294d7686440a8fd94c6247
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Garraf_HP_occupancy.csv,11571,50d6936b08c045ac414489842aa4443e6c01b11760aa1017e2d3c61e4c382881
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Garraf_HP_interactions.csv,7011,17588b4ba9681a3ece038796dcb6263e7039d9bb552f862c04a66fe4412546ae
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Garraf_PP_occupancy.csv,23083,2fe0e91ad6ac161f7f1e6bf57d504dc5e0fbcfba95e0ffbe0d67b1acffcd5fcf
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Garraf_PP_interactions.csv,20751,425d1cd7b71c1815597cdcef6bb5bbfba10af282c9bb764638f381cb4512e45d
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Garraf_PP2_occupancy.csv,44936,dd7ae51099ac5b1cee692ab7ef279ba5e3b87b225b846580cc4b3956140e4707
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Garraf_PP2_interactions.csv,186849,37eae9977573402781cffdbe2bf8e9ec83ab8668a53cffffc8f9877f61fc2d6a
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Olot_occupancy.csv,8973,eefed1bad1a4f9533e08f22eaa51ebdcd7aabddf5c1c75f8a29af838b6b8ca1b
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Olot_interactions.csv,7886,57ed7419773d33892f15e472aa634666d07fd08c09e9c9f8104971addc23ed37
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\outputs\support_prediction_zero\confirmed\inputs\Montseny_occupancy.csv,21737,b0adc42c080740ddd9e51b5308574c08cd71adceb0628349f48ef3ea29195a2a
+C:\Users\MM-1\OneDrive\PhD\GitHub\RALSA\data\processed\Montseny_interactions.csv,32801,848f4d6917d658954f3a8194e66bc11b84d7b4c58024c46e324a8224e44e4a27
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Salix\raw-data\Salix_webs.csv,749301,26b5a67c5aec04b8e0c66fc8858d4a9ade80005f7f91e2607ef455c482c472e8
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\raw-data\host_para_all_interactions.csv,162745,ab836a0d07c191c23c8de7e6e379e8d785f43dcb21b1e6ed60bc38b55bfd640f
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\raw-data\plant_poll_all_interactions.csv,737046,58ea4f3717be055ad6505c3a48d803eb799027ab3e2109599431f1c65eb0d9e8
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Gottin\metadata.csv,3064,d112a2f55899f08c67d85f5d415ec2a3128e755f0d7317fd05df08eb753a0bd4
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1 2006 Kaartinen.xlsx,10022,9b790e269028ba27cd2a7f058c1d4ad1451e9a07e3baba82e50f9acd94ef6847
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1 2007 Kaartinen.xlsx,10238,9e3b49ca32eb0af732925e9e871ff0c589cbea34efba01b4f759cc2bb848fe8e
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1405 2006 Kaartinen.xlsx,10700,b07702b942907a7af0256266cc2361cccefc9c49eb83ad94e848d4e6b5ed8bdb
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1405 2007 Kaartinen.xlsx,9571,4070867294cf0b8520f76871ee04b1706d6412105531e785a73f2c6271aa9b02
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1491 2006 Kaartinen.xlsx,9680,d384cf884d326e0ee219c3b541f373a3050035966af6f29cedaf83044e4b5cea
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1491 2007 Kaartinen.xlsx,9533,a145c987d00f338c0b76e538a696ffb1d57d86dceb7f3c082c45624f9fc0c7bc
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1616 2006 Kaartinen.xlsx,10703,39e77c0994a1cc4fcf1ef55a711c6e1515c5e39e73b07ea36eadcec6baaedaf1
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1616 2007 Kaartinen.xlsx,9945,f0e8c7e400a4c89704d4429bc25451d33afeef9ff48289268e39580d3d6ae747
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1628 2006 Kaartinen.xlsx,9769,fa94bf13839fafd41990cb354bd391fb98707f029bbdc432f04304f7552e0269
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1628 2007 Kaartinen.xlsx,9547,7bc3074e68a4631e510720097955e7f35c5e6ef98f806201181ae0acb17c0e72
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1648 2006 Kaartinen.xlsx,11000,4937e4df0105fc185b572bfd03781edd57b6af91daed687f18caf351a7a3544f
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1648 2007 Kaartinen.xlsx,9771,3b58041835f5fb39c22670d7f361d22d845dfd4912f39ee5967de707e16ca7de
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1798 2006 Kaartinen.xlsx,9660,7df48aedcc29dfa8b484e65cfcb84ef095b939edbd3963316716409d1649a2a9
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web1798 2007 Kaartinen.xlsx,10023,de4372ea218bbdd9175f5d6a54cbce6639ddec1fb3d7fa79bf8cb9972f1845a3
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web200 2006 Kaartinen.xlsx,9940,830a00390fb233c7cee4734e4ae1c80384096f859000aff6cf2e6250c2809f04
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web200 2007 Kaartinen.xlsx,9694,502877b613ddd0ae07d23a739929a6990d35cfc137ed1331cd5b56792d12e2f6
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web536 2006 Kaartinen.xlsx,10260,5c3e0ba241a9942262bb2578f45a5376c6f070e9f243fa34a26aa3a1121c7076
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web536 2007 Kaartinen.xlsx,10072,2cd1b85644cf0e891ef03479f0de776ed4c819ff1169793240b6575f036b6530
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web649 2006 Kaartinen.xlsx,10650,84918f99cae77bcef7f1e993c44fcdcfbd82f401bc881b9058c6f6aaa9f34368
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web649 2007 Kaartinen.xlsx,9454,a6c885504bedc91553d0763afdcf70e05707823c9db98cbb6735a7c75954a52a
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web654 2006 Kaartinen.xlsx,10480,611e512e91ffb081cfe18e6ce138995b838c8c2920d0400820dc6c69d3e8c31a
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web654 2007 Kaartinen.xlsx,10055,21e3b7e13c4fe560322530f33faf10ae14f93591d052b380033427eb2022a05c
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web690 2006 Kaartinen.xlsx,9464,9b4ba5ff8300be1b4accdb3aa8b102868b8934ad97c6ea6e2179a069866643e4
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web690 2007 Kaartinen.xlsx,9252,98a4b9ad48435ef0e52368a9f25f3c19385b5cf3b053085016cdadda2cff413f
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web714 2006 Kaartinen.xlsx,9615,119abd977249a97543720d76278e7e2edb76d9a0441c2397f677b2cbb4fe406e
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web714 2007 Kaartinen.xlsx,9323,f86c93234f1f0cabf64ca0410b2bc7920c93a8e57ef2b9ce9fa884fab3e733de
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web726 2006 Kaartinen.xlsx,9728,618e7b0738520a7ebd815d99edb7fcfd3c69fbc1ecc4e9061d03c775c5a211fb
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web726 2007 Kaartinen.xlsx,9479,97869cee009b9dd8e00fb8d352ddc3dda5424cd43076dd6d4fb7606b9bda7176
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web728 2006 Kaartinen.xlsx,9801,1f61eda29daca4529c0934fddede992feaffd8e6c499353e01f8a249c2029002
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web728 2007 Kaartinen.xlsx,9697,d8fdd3991fb904de582c10353539d513f6f53d3e44f37a994a37bb86a9b3d760
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web729 2006 Kaartinen.xlsx,9685,f962b67413e3e20ceb77351ae7411d913205aed1f52eacbf0ae70f5785691408
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web729 2007 Kaartinen.xlsx,9545,a77a6cfbe48a400c4576366950ffd397466cc2db22cf40b4af50d48439952a7e
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web751 2006 Kaartinen.xlsx,10209,6d9ae11d0198abb6493dc091a22efd1716b38150820c96f8a070979c771a9819
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web751 2007 Kaartinen.xlsx,9672,1d206c28829c4221edfa3702b637a2850f494af8efcd698d717f15374e35b0b8
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web865 2006 Kaartinen.xlsx,9711,36062e3fb9f53cc3e31adc9be3062196eb06344cbd6a70175de0548507e72e9b
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web865 2007 Kaartinen.xlsx,9701,6c6c8dbac91105ba6b6e9a656163d7fc69f8f0d90a3c33aa760a61e1c158f488
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web879 2006 Kaartinen.xlsx,9440,3331fcc5e458d118e27b390cdba37da815260df0938e707c73c9de2fd40c9480
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web879 2007 Kaartinen.xlsx,9258,93e2fae085864c3393185e728fe1aaaba60deaef72a3e4944e0ce45c287f74dc
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web885 2006 Kaartinen.xlsx,9479,f5d367403e01597e2e3c1ed2fadba44f8316e9d95566373f1c6e5e93d920e7ba
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web885 2007 Kaartinen.xlsx,9345,34225dce188804fde979646ccc32556917457cb50b461f95d58e81be9f091dc0
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web888 2006 Kaartinen.xlsx,10946,863e6d65290ae1aea2edf04bfe9098f424c884db8c9cc2e3abe679cd62ed0533
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web888 2007 Kaartinen.xlsx,9628,47c2590a3bb2d72f4c252787c7e8b15885ae04d16cade8d2af25156cb48651dc
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web992 2006 Kaartinen.xlsx,10640,1906c96abf1c884deabe0eec8d9766386ca356845884f7102fff04c44a47ae07
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\raw-data\Web992 2007 Kaartinen.xlsx,9565,56c2c0cfda88fc17670c3b0a142b02aa7d56e258ec6213ee744e8993d9355836
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Quercus\metadata.csv,1088633,2eec5ac073ff2d856bd6a3bdbf058f0ed4e86638ac26de24441ed505046e1682
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\raw-data\garraf-hp.xlsx,41890,7aa27759250b09b53842c0a4deaa37e1313cedde01a1b97911b23c53793bf9cb
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\raw-data\garraf-pp.xlsx,65540,c66603ac211c30ca0d5b9849b6eb31ea6a231b3efd7961406152a12d514a6d28
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\raw-data\garraf-pp-2.xlsx,76350,7a19e9da03a35059212e98b6d1954a9d8b32aee452cc419472d0b58c67fbd39f
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\raw-data\olot.xlsx,55718,b3394cd5515eac2c550738d198f3975427861f8b7ed443e3c67ab2d03b5ade0f
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\Garraf-Montseny-Olot\raw-data\montseny.xlsx,93536,f101406b47acce202b5fd6c34eef57e579485d2ea0c5046a3bae36eb084c07d4
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\csv\df_galler.csv,10369,4e84570e54251e4d0f7f04a3b5574ac86e25e962a03347121b3672f703f7b34d
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\csv\df_interact.csv,275524,c3d424746b0775fb0adc75f2a7573e4cd916a8e41f21733d1fa2706acd398b59
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\csv\df_parasit.csv,18099,280eeb8c1cd5da0fd46e93b6d0c4c41eb79fa5cef30e1878e7d4a58b85e76791
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\csv\df_salix.csv,2196,097ca99b614d5e3616ed16c6ea0f555bdb67482d7726c671bda17cb2d7b1530f
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\csv\df_salix_galler.csv,156986,732a9fdd8d5f6064250ed0fa2c6bf8f01dbc72fa95b92070136b0cb5c513431d
+C:\Users\MM-1\OneDrive\PhD\GitHub\InteractionExtinctionDebt\csv\df_site.csv,225620,c116cc80e24a482bdf4910c644e84daedd6f0fcc2984fb8833796290c9d94f2c

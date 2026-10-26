@@ -1,0 +1,1668 @@
+{
+  "Salix_Galpar": {
+    "raw_lots": 2029,
+    "raw_sites": 374,
+    "current_sites": 341,
+    "raw_interacting_sites": 341,
+    "current_sites_missing_raw": [],
+    "raw_only_sites": [
+      "Ahrenshoop, Darß",
+      "Bad Waldsee",
+      "Bodman, Bodenwald",
+      "Dovrefjell, Driva",
+      "Esbjerg",
+      "Fenner See",
+      "Fernpaß",
+      "Fister, Fisterfjorden",
+      "Frankenreith",
+      "Gammelby",
+      "Gmünd",
+      "Hanau, Steinheim",
+      "Hola nr. Vik",
+      "Lindenbühl nr. Reichenau",
+      "Lofot, Austvagoya, Moksnes, A",
+      "Logumkloster",
+      "Mimmenhausen, Martinsweiher",
+      "NWR Kinzigaue",
+      "Neustift",
+      "Niddatal, Ilbenstadt",
+      "Nondorf",
+      "Piancancelli, Forli-Cesena",
+      "Prerow, Darß",
+      "Rügen, Zittvitz II",
+      "Stuguvollmoen",
+      "Tauernpaß, Untertauern I",
+      "Tofterno",
+      "Ultental nr. Sankt Pankraz",
+      "Usedom, Benz",
+      "Usedom, Lütow",
+      "Usedom, Neuendorf",
+      "Vallestadfossen nr Forde",
+      "Yttervik / Ajaure"
+    ],
+    "raw_triples": 3104,
+    "current_triples": 3104,
+    "current_not_raw": 0,
+    "raw_not_current": 0,
+    "year_min": "1982",
+    "year_max": "2010",
+    "distinct_years": 29,
+    "multiple_date_sites": 133,
+    "current_multiple_date_sites": 128,
+    "current_multiple_year_sites": 114,
+    "current_multiple_coordinate_sites": 0,
+    "site_host_multiple_dates": 309,
+    "site_host_combinations": 1217,
+    "count_max": 353.0,
+    "nonpositive_ngalls": 0,
+    "coordinate_invalid_rows": 0
+  },
+  "Gottin_HP": {
+    "metadata_matching_sites": 32,
+    "metadata_fields": [
+      "Unnamed: 0",
+      "site",
+      "site.name",
+      "size.class",
+      "area.m2",
+      "flowercover.pooled",
+      "flowerover.mean",
+      "flowerdiv",
+      "hanski.connectivity",
+      "nn.distance",
+      "Sh250",
+      "Sh500",
+      "nat250",
+      "nat500",
+      "forest250",
+      "forest500",
+      "arable250",
+      "arable500"
+    ],
+    "coordinates_present": false,
+    "records": 3535,
+    "records_missing_site": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "positive_identified_records": 904,
+        "triples": 357,
+        "new_current_triples": 0
+      },
+      {
+        "slot": 2,
+        "positive_identified_records": 64,
+        "triples": 48,
+        "new_current_triples": 22
+      },
+      {
+        "slot": 3,
+        "positive_identified_records": 1,
+        "triples": 1,
+        "new_current_triples": 0
+      }
+    ],
+    "total_new_triples": 22,
+    "new_regional_pairs": 2,
+    "nest_ids": [
+      "",
+      "1",
+      "10",
+      "11",
+      "12",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "spec_id_unique": 3459,
+    "positive_cells": 3535,
+    "unidentified_positive_P1": 23
+  },
+  "Gottin_PP": {
+    "metadata_matching_sites": 32,
+    "metadata_fields": [
+      "Unnamed: 0",
+      "site",
+      "site.name",
+      "size.class",
+      "area.m2",
+      "flowercover.pooled",
+      "flowerover.mean",
+      "flowerdiv",
+      "hanski.connectivity",
+      "nn.distance",
+      "Sh250",
+      "Sh500",
+      "nat250",
+      "nat500",
+      "forest250",
+      "forest500",
+      "arable250",
+      "arable500"
+    ],
+    "coordinates_present": false,
+    "records": 7498,
+    "known_plant_records": 5553,
+    "missing_plant_records": 1945,
+    "raw_insect_species": 183,
+    "raw_known_plant_triples": 1987,
+    "current_triples": 1987,
+    "raw_extra_triples": 0,
+    "transect_values": [
+      "1",
+      "10",
+      "11",
+      "12",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "section_values": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "site_transect_section_groups": 1393,
+    "dates_available": false
+  },
+  "Quercus": {
+    "years": [
+      "2006",
+      "2007"
+    ],
+    "files": 44,
+    "sites_by_year": {
+      "2006": 22,
+      "2007": 22
+    },
+    "coordinate_matches": 22,
+    "coordinate_system": "not specified in held metadata",
+    "within_year_dates": false
+  },
+  "Garraf_HP": {
+    "site_sheets": 25,
+    "other_sheets": [
+      "INFO",
+      "metaweb"
+    ],
+    "hidden_sheets": [],
+    "hidden_columns": {},
+    "notes": [
+      {
+        "sheet": "INFO",
+        "row": 4,
+        "text": "En todas las matrices:"
+      },
+      {
+        "sheet": "INFO",
+        "row": 5,
+        "text": "se presentan todas las spp de host tanto si interaccionan con parasitoides como si no (si no interaccionan estan de color verde)"
+      },
+      {
+        "sheet": "INFO",
+        "row": 6,
+        "text": "las dos primeras columnas son el numero de nidos de cada sp de Hosts y el numero de celdas totales para ese plot (en gris)"
+      }
+    ]
+  },
+  "Garraf_PP": {
+    "site_sheets": 40,
+    "other_sheets": [
+      "coordinates",
+      "metaweb"
+    ],
+    "hidden_sheets": [],
+    "hidden_columns": {},
+    "notes": [
+      {
+        "sheet": "coordinates",
+        "row": 1,
+        "text": "Plot | X | Y"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 2,
+        "text": "1 | 1.91879 | 41.2739"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 3,
+        "text": "2 | 1.9132 | 41.29748"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 4,
+        "text": "3 | 1.8991 | 41.281164"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 5,
+        "text": "4 | 1.884117 | 41.279489"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 6,
+        "text": "5 | 1.873418 | 41.281519"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 7,
+        "text": "6 | 1.862565 | 41.286098"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 8,
+        "text": "7 | 1.860773 | 41.29574"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 9,
+        "text": "8 | 1.874534 | 41.298283"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 10,
+        "text": "9 | 1.8917942 | 41.2904157"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 11,
+        "text": "10 | 1.90979 | 41.283"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 12,
+        "text": "11 | 1.87286 | 41.287449"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 13,
+        "text": "12 | 1.924495 | 41.291915"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 14,
+        "text": "13 | 1.9146895 | 41.2794432"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 15,
+        "text": "14 | 1.931036 | 41.30839"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 16,
+        "text": "15 | 1.879389 | 41.295472"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 17,
+        "text": "16 | 1.890676 | 41.302355"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 18,
+        "text": "17 | 1.919027 | 41.306184"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 19,
+        "text": "18 | 1.897001 | 41.306383"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 20,
+        "text": "19 | 1.923469 | 41.31424"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 21,
+        "text": "20 | 1.909116 | 41.308443"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 22,
+        "text": "21 | 1.884722 | 41.298167"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 23,
+        "text": "22 | 1.940203 | 41.312919"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 24,
+        "text": "23 | 1.884139 | 41.286639"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 25,
+        "text": "24 | 1.918568 | 41.310892"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 26,
+        "text": "25 | 1.869758 | 41.295658"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 27,
+        "text": "26 | 1.90973 | 41.28929"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 28,
+        "text": "27 | 1.91361 | 41.29292"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 29,
+        "text": "28 | 1.93001 | 41.28703"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 30,
+        "text": "29 | 1.90776 | 41.30025"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 31,
+        "text": "30 | 1.90137 | 41.30083"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 32,
+        "text": "31 | 1.85038 | 41.30149"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 33,
+        "text": "32 | 1.865857 | 41.275981"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 34,
+        "text": "33 | 1.853878 | 41.280115"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 35,
+        "text": "34 | 1.843785 | 41.282112"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 36,
+        "text": "35 | 1.83457 | 41.282537"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 37,
+        "text": "36 | 1.840066 | 41.267752"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 38,
+        "text": "37 | 1.8569 | 41.270087"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 39,
+        "text": "38 | 1.878444 | 41.269453"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 40,
+        "text": "39 | 1.884186 | 41.263982"
+      },
+      {
+        "sheet": "coordinates",
+        "row": 41,
+        "text": "40 | 1.901667 | 41.290167"
+      }
+    ],
+    "coordinate_matches": 40,
+    "coordinate_system": "X/Y numeric values consistent with longitude/latitude; datum undocumented"
+  },
+  "Garraf_PP2": {
+    "site_sheets": 21,
+    "other_sheets": [],
+    "hidden_sheets": [],
+    "hidden_columns": {},
+    "notes": []
+  },
+  "Olot": {
+    "site_sheets": 14,
+    "other_sheets": [
+      "INFO",
+      "metaweb"
+    ],
+    "hidden_sheets": [],
+    "hidden_columns": {},
+    "notes": [
+      {
+        "sheet": "INFO",
+        "row": 1,
+        "text": "codigo Parasitoide | nombre completo sp | codigo Host | nombre completo sp"
+      },
+      {
+        "sheet": "INFO",
+        "row": 2,
+        "text": "mono | Monodontomerus obsoletus | A. florentinum | Anthidium florentinum"
+      },
+      {
+        "sheet": "INFO",
+        "row": 3,
+        "text": "melitto | Melittobia acasta | Alastor | Alastor atropos"
+      },
+      {
+        "sheet": "INFO",
+        "row": 4,
+        "text": "trichod | Trichodes alvearius | Ch. campanularum | Chelostoma campanularum"
+      },
+      {
+        "sheet": "INFO",
+        "row": 5,
+        "text": "anthrax | Anthrax anthrax | Ch. emarginata | Chelostoma emarginata"
+      },
+      {
+        "sheet": "INFO",
+        "row": 6,
+        "text": "chaetod | Chaetodactylus osmiae | Ch. florisomnis | Chelostoma florisomne"
+      },
+      {
+        "sheet": "INFO",
+        "row": 7,
+        "text": "cacox | Cacoxenus indagator | Dipogon sp | Dipogon sp"
+      },
+      {
+        "sheet": "INFO",
+        "row": 8,
+        "text": "sapyga | Sapyga quinquepunctata | Discoelius zonalis | Discoelius zonalis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 9,
+        "text": "ptinus pyrenaeus | Ptinus pyrenaeus | E. posticus | Euodynerus posticus"
+      },
+      {
+        "sheet": "INFO",
+        "row": 10,
+        "text": "ptinus sexp | Ptinus sexpunctatus | Heriades truncorum | Heriades truncorum"
+      },
+      {
+        "sheet": "INFO",
+        "row": 11,
+        "text": "pyem | Pyemotes ventricosus | Hoplitis adunca | Hoplitis adunca"
+      },
+      {
+        "sheet": "INFO",
+        "row": 12,
+        "text": "stelis minuta | Stelis minuta | Hy. communis | Hylaeus communis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 13,
+        "text": "stelis brev | Stelis breviuscula | Hy. signatus | Hylaeus signatus"
+      },
+      {
+        "sheet": "INFO",
+        "row": 14,
+        "text": "Trichr. Cyanea | Trichrysis cyanea | Hy. taeniolatus | Hylaeus taeniolatus"
+      },
+      {
+        "sheet": "INFO",
+        "row": 15,
+        "text": "Omalus auratus | Omalus auratus | I. mexicana | Isodontia mexicana"
+      },
+      {
+        "sheet": "INFO",
+        "row": 16,
+        "text": "Chrysis ignita | Chrysis ignita | L. clypeata | Lestica clypeata"
+      },
+      {
+        "sheet": "INFO",
+        "row": 17,
+        "text": "plodia | Plodia interpunctella | M. apicalis | Megachile apicalis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 18,
+        "text": "gasterup | Gasteruption sp. | M. centicularis | Megachile centuncularis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 19,
+        "text": "hybomisc | Perithous septemcinctorius | M. rotundata | Megachile rotundata"
+      },
+      {
+        "sheet": "INFO",
+        "row": 20,
+        "text": "diptergr | Sarcophagidae sp.2  | Microdynerus nugdunensis | Microdynerus nugdunensis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 21,
+        "text": "dipterpt | Sarcophagidae sp.1  | Microdynerus timidus | Microdynerus timidus"
+      },
+      {
+        "sheet": "INFO",
+        "row": 22,
+        "text": "O. caerulescens | Osmia caerulescens"
+      },
+      {
+        "sheet": "INFO",
+        "row": 23,
+        "text": "O. cornuta | Osmia cornuta"
+      },
+      {
+        "sheet": "INFO",
+        "row": 24,
+        "text": "O. fulviventris | Osmia fulviventris"
+      },
+      {
+        "sheet": "INFO",
+        "row": 25,
+        "text": "O. rufa | Osmia bicornis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 26,
+        "text": "O. submicans | Osmia submicans"
+      },
+      {
+        "sheet": "INFO",
+        "row": 27,
+        "text": "Passaloecus spp | Passaloecus spp.1"
+      },
+      {
+        "sheet": "INFO",
+        "row": 28,
+        "text": "Pison atrum | Pison atrum"
+      },
+      {
+        "sheet": "INFO",
+        "row": 29,
+        "text": "Psenulus fuscipennis | Psenulus fuscipennis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 30,
+        "text": "Soleriella | Solierella compedita"
+      },
+      {
+        "sheet": "INFO",
+        "row": 31,
+        "text": "Symmorphus crassicornis | Symmorphus crassicornis"
+      },
+      {
+        "sheet": "INFO",
+        "row": 32,
+        "text": "Trypoxylon figulus (suma 2) | Trypoxylon figulus"
+      },
+      {
+        "sheet": "INFO",
+        "row": 33,
+        "text": "Trypoxylon spp (clavicerum+minus) | Trypoxylon spp.2"
+      },
+      {
+        "sheet": "INFO",
+        "row": 39,
+        "text": "En cada hoja se presenta la matriz de interacciones para cada plot"
+      },
+      {
+        "sheet": "INFO",
+        "row": 41,
+        "text": "se incluyen todas las spp de host tanto si interaccionan con parasitoides como si no (si no interaccionan estan en color verde)"
+      },
+      {
+        "sheet": "INFO",
+        "row": 43,
+        "text": "en cada matriz las dos primeras columnas son el numero de nidos de cada sp de Hosts y el numero de celdas totales para ese plot (en gris)"
+      }
+    ]
+  },
+  "Montseny": {
+    "site_sheets": 18,
+    "other_sheets": [
+      "metaweb",
+      "tesaurus"
+    ],
+    "hidden_sheets": [],
+    "hidden_columns": {},
+    "notes": [
+      {
+        "sheet": "tesaurus",
+        "row": 1,
+        "text": "Notes"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 2,
+        "text": "plots | cc1-9 | ct1-9"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 3,
+        "text": "columns | pollinators"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 4,
+        "text": "rows | plants"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 5,
+        "text": "interaction strength | visits recorded in plot / number of surveys in plot"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 7,
+        "text": "names: first letter genus, second and third letter species (see tesaurus)"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 10,
+        "text": "Tesaurus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 11,
+        "text": "plants | pollinators"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 12,
+        "text": "code | species | code | species"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 13,
+        "text": "Aar | Anagalys arvensis | yellow non-used resource | Aan | Andrena angustior"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 14,
+        "text": "Ain | Andryala integrifolia | Aca | Anthocaris cardamines"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 15,
+        "text": "Ama | Anthirrinum majus | Ade | Adela sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 16,
+        "text": "Ata | Arabidobsis taliana | Adeg | Acmaeodera degener"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 17,
+        "text": "Aza | Argyrolobium zanonii | Adi | Anthophora dispar"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 18,
+        "text": "Bra | Brassicaceae | Afu | Anthaxia funerula"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 19,
+        "text": "Cal | Cistus albidus | focal plant | Aful | Andrena fulviventris"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 20,
+        "text": "Cem | Coronilla emerus | Ahu | Anthaxia hungarica"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 21,
+        "text": "Cen | Centaurea sp. | Ame | Apis mellifera"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 22,
+        "text": "Cer | Cerastrium sp. | And | Andrena sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 23,
+        "text": "Clo | Cephalantera longifolia | And1 | Andrena msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 24,
+        "text": "Cmo | Cistus monspeliensis | And10 | Andrena msp10"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 25,
+        "text": "Cmon | Crataegus monogina | And11 | Andrena msp11"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 26,
+        "text": "Csa | Cistus salviifolius | focal plant | And12 | Andrena msp12"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 27,
+        "text": "Csc | Cytisus scoparius | And2 | Andrena msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 28,
+        "text": "Csp | Calicotome spinosa | And3 | Andrena msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 29,
+        "text": "Dca | Daucus carota | And5 | Andrena msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 30,
+        "text": "Dhi | Dorycnium hirsutum | And6 | Andrena msp6"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 31,
+        "text": "Dpe | Dorycnium pentaphyllum | And7 | Andrena msp7"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 32,
+        "text": "Eam | Euphorbia amygdaloides | And8 | Andrena msp8"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 33,
+        "text": "Ech | Euphorbia characias | And9 | Andrena msp9"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 34,
+        "text": "Ecy | Euphorbia cyparissias | Ani | Andrena nigroaenea"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 35,
+        "text": "Ese | Euphobia serrata | Ant | Anthophora sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 36,
+        "text": "Evu | Echium vulgare | Ant1 | Anthophora msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 37,
+        "text": "Fve | Fragaria vesca | Ant2 | Anthophora msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 38,
+        "text": "Gal | Galium sp. | Ant3 | Anthophora msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 39,
+        "text": "Ger | Geranium sp. | additional note | Ant4 | Anthophora msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 40,
+        "text": "Gtr | Genista triflora | Ant5 | Anthophora msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 41,
+        "text": "Hgu | Helianthemum guttatum | Anthi1 | Anthidium msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 42,
+        "text": "Hie | Hieracium sp. | Anthr | Anthrenus sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 43,
+        "text": "Lam | Lamium sp. | Apl | Anthophora plumipes"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 44,
+        "text": "Lat | Lathyrus sp. | Ase | Anogcodes seladonius"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 45,
+        "text": "Lin | Linum sp. | Att | Attagenus sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 46,
+        "text": "Lina | Linaria sp. | Bib1 | Bibionidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 47,
+        "text": "Lob | Lobularia sp. | Bla | Bombus lapidarius"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 48,
+        "text": "Lco | Lotus corniculatus | Bme | Bombylius medius"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 49,
+        "text": "Lst | Lavandula stoechas | Bom1 | Bombylidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 50,
+        "text": "Lta | Leontodon taraxacoides | Bom2 | Bombylidae msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 51,
+        "text": "Lvu | Leucantemum vulgare | Bom3 | Bombylidae msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 52,
+        "text": "Mdo | Malus domestica | Bom4 | Bombylidae msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 53,
+        "text": "Msy | Malva sylvestris | Bpa | Bombus pascuorum"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 54,
+        "text": "Oxa | Oxalis sp. | Bru1 | Bruchidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 55,
+        "text": "Pbi | Psoralea bituminosa | Bru2 | Bruchidae msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 56,
+        "text": "Pgr | Prunella grandiflora | Bru3 | Bruchidae msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 57,
+        "text": "Rbu | Ranunculus bulbosus | Bte | Bombus terrestris"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 58,
+        "text": "Sca | Scabiosa sp. | Cae | Camponotus aethiops"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 59,
+        "text": "Sen | Senecio sp. | Cal | Carchadorus alceae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 60,
+        "text": "Sho | Stellaria holostea | Call | Calliphora sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 61,
+        "text": "Sin | Senecio inaequidens | Ccr | Camponotus cruentatus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 62,
+        "text": "Soc | Saponaria ocymoides | Ccro | Colias crocea"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 63,
+        "text": "Son | Sonchus sp. | Ccu | Ceratina cucurbitina"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 64,
+        "text": "Svu | Silene vulgaris | Ccy | Ceratina cyanea"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 65,
+        "text": "Tof | Taraxacum officinale | Cer1 | Cerambicidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 66,
+        "text": "Tpr | Trifolium pratense | Chal | Chalcididae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 67,
+        "text": "TvuF | Thymus vulgaris F | Che1 | Chelostoma msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 68,
+        "text": "TvuHF | Thymus vulgaris HF | Che2 | Chelostoma msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 69,
+        "text": "Upa | Ulex parviflorus | Che3 | Chelostoma msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 70,
+        "text": "Vcr | Vicia cracca | Chr | Chrysotoxum sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 71,
+        "text": "Vpu | Verbascum pulvurulentum | Chry1 | Chrysomelidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 72,
+        "text": "Vero | Veronica sp. | Cla | Camponotus lateralis"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 73,
+        "text": "Vic | Vicia sp. | Clan | Clanoptilus sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 74,
+        "text": "Col3 | Coleoptera msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 75,
+        "text": "Col4 | Coleoptera msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 76,
+        "text": "Col5 | Coleoptera msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 77,
+        "text": "Coll | Colletes sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 78,
+        "text": "Con | Conopidae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 79,
+        "text": "Cpi | Camponotus piceus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 80,
+        "text": "Cru | Callophris rubi"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 81,
+        "text": "Csc | Crematogaster scutellaris"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 82,
+        "text": "Cur1 | Curculionidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 83,
+        "text": "Cur2 | Curculionidae msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 84,
+        "text": "Cur3 | Curculionidae msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 85,
+        "text": "Dan | Danacea sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 86,
+        "text": "Das | Dasytes sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 87,
+        "text": "Dba | Dolychoris baccarum"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 88,
+        "text": "Dip1 | Diptera msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 89,
+        "text": "Dip11 | Diptera msp1.1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 90,
+        "text": "Dip12 | Diptera msp1.2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 91,
+        "text": "Dip2 | Diptera msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 92,
+        "text": "Dip22 | Diptera msp2.2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 93,
+        "text": "Dip23 | Diptera msp2.3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 94,
+        "text": "Dip24 | Diptera msp2.4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 95,
+        "text": "Dip3 | Diptera msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 96,
+        "text": "Dip4 | Diptera msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 97,
+        "text": "Dip5 | Diptera msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 98,
+        "text": "Dip6 | Diptera msp6"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 99,
+        "text": "Eba | Episyrphus balteatus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 100,
+        "text": "Eer | Eriozona erratica"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 101,
+        "text": "Eri1 | Eristalis msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 102,
+        "text": "Ete | Eristalis tenax"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 103,
+        "text": "Euc1 | Eucera msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 104,
+        "text": "Eup | Eupeodes sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 105,
+        "text": "Fge | Formica gerardi"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 106,
+        "text": "Gcl | Gonopteryx cleopatra"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 107,
+        "text": "Gme | Glaucopsyche melanops"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 108,
+        "text": "Grh | Gonopteryx rhamni"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 109,
+        "text": "Gym1 | Gymnosoma msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 110,
+        "text": "Gym2 | Gymnosoma msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 111,
+        "text": "Gym3 | Gymnosoma msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 112,
+        "text": "Had | Hadrodemus sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 113,
+        "text": "Hal1 | Halictus msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 114,
+        "text": "Het1 | Heteroptera msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 115,
+        "text": "Het2 | Heteroptera msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 116,
+        "text": "Het3 | Heteroptera msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 117,
+        "text": "Het4 | Heteroptera msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 118,
+        "text": "Het5 | Heteroptera msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 119,
+        "text": "Hop1 | Hoplitis msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 120,
+        "text": "Hop2 | Hoplitis msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 121,
+        "text": "Hsc | Halictus scabiosae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 122,
+        "text": "Hsu | Halictus subauratus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 123,
+        "text": "Hyl1 | Hylaeus msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 124,
+        "text": "Ich1 | Ichneumonidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 125,
+        "text": "Ich2 | Ichneumonidae msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 126,
+        "text": "Ich3 | Ichneumonidae msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 127,
+        "text": "Ifa | Isturgia famula"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 128,
+        "text": "Ipo | Iphiclides podalirius"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 129,
+        "text": "Lae | Lobonyx aeneus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 130,
+        "text": "Lci | Lasius cinereus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 131,
+        "text": "Lep1 | Lepidoptera msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 132,
+        "text": "Lep2 | Lepidoptera msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 133,
+        "text": "Lgr | Lasius grandis"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 134,
+        "text": "Lgran | Lasioglossum gran"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 135,
+        "text": "Lme | Lasiomnata megera"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 136,
+        "text": "Lmi | Lasioglossum mitjà"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 137,
+        "text": "Lpe | Lasioglossum petit"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 138,
+        "text": "Lph | Lycaena phlaeas"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 139,
+        "text": "Lsi | Leptidea sinapis"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 140,
+        "text": "Luc | Lucilia sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 141,
+        "text": "Mal1 | Malachidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 142,
+        "text": "Mci | Melitaea cinxia"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 143,
+        "text": "Mec | Mecoptera"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 144,
+        "text": "Meg | Megachile sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 145,
+        "text": "Meg1 | Megachile msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 146,
+        "text": "Meg2 | Megachile msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 147,
+        "text": "Meg3 | Megachile msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 148,
+        "text": "Mel | Meliscaeva sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 149,
+        "text": "Melec1 | Melecta msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 150,
+        "text": "Melig | Meligethes sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 151,
+        "text": "Mer1 | Merodon msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 152,
+        "text": "Mer2 | Merodon msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 153,
+        "text": "Mir | Miridae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 154,
+        "text": "Mor1 | Mordellidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 155,
+        "text": "Mst | Macroglossum stellatarum"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 156,
+        "text": "Nit1 | Nitidulidae msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 157,
+        "text": "Nom | Nomada sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 158,
+        "text": "Nom1 | Nomada msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 159,
+        "text": "Nom2 | Nomada msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 160,
+        "text": "Nom3 | Nomada msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 161,
+        "text": "Nom4 | Nomada msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 162,
+        "text": "Nom5 | Nomada msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 163,
+        "text": "Nom6 | Nomada msp6"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 164,
+        "text": "Oca | Osmia caerulescens"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 165,
+        "text": "Oed1 | Oedemera msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 166,
+        "text": "Ofl | Oedemera flavipes"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 167,
+        "text": "Ofu | Oxythirea funesta"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 168,
+        "text": "Ole | Osmia leiana"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 169,
+        "text": "Oph | Ophion sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 170,
+        "text": "Ort1 | Ortoptera msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 171,
+        "text": "Ort2 | Ortoptera msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 172,
+        "text": "Ort3 | Ortoptera msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 173,
+        "text": "Ort4 | Ortoptera msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 174,
+        "text": "Oru | Osmia rufa"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 175,
+        "text": "Osm | Osmia sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 176,
+        "text": "Osm1 | Osmia msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 177,
+        "text": "Osm2 | Osmia msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 178,
+        "text": "Osm3 | Osmia msp3"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 179,
+        "text": "Osm5 | Osmia msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 180,
+        "text": "Osm6 | Osmia msp6"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 181,
+        "text": "Osm7 | Osmia msp7"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 182,
+        "text": "Otr | Osmia tricornis"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 183,
+        "text": "Pae | Pararge aegeria"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 184,
+        "text": "Pan1 | Panurgus msp1"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 185,
+        "text": "Par | Paragus sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 186,
+        "text": "Pdo | Polistes dominula"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 187,
+        "text": "Pen2 | Pentatomidae msp2"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 188,
+        "text": "Ppa | Pseudophilotes panoptes"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 189,
+        "text": "Ppy | Plagiolepis pygmaea"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 190,
+        "text": "Pra | Pieris rapae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 191,
+        "text": "Pse | Platynochaetus setosus"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 192,
+        "text": "Red | Reduviidae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 193,
+        "text": "Sca | Scaeva sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 194,
+        "text": "Spe | Spermophagus sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 195,
+        "text": "Ssc | Sphaerophoria scripta"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 196,
+        "text": "Sse | Spialia sertorius"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 197,
+        "text": "Syr4 | Syrphidae msp4"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 198,
+        "text": "Syr5 | Syrphidae msp5"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 199,
+        "text": "Syr6 | Syrphidae msp6"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 200,
+        "text": "Tep | Tephritidae"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 201,
+        "text": "Tro | Trogoderma sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 202,
+        "text": "Tsq | Tropinota squalida"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 203,
+        "text": "Vge | Vespula germanica"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 204,
+        "text": "Xan | Xanthogramma sp."
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 205,
+        "text": "Xvi | Xylocopa violacea"
+      },
+      {
+        "sheet": "tesaurus",
+        "row": 206,
+        "text": "Zyg | Zygaenidae"
+      }
+    ]
+  },
+  "Nahuel": {
+    "files": 8,
+    "format": "90 x 14 numeric matrices; no taxa/site metadata columns",
+    "site_mapping": "vaz_ag=1,vaz_cl=2,vaz_ll=3,vaz_mh=4,vaz_mnh=5,vaz_qh=6,vaz_qnh=7,vaz_s=8"
+  }
+}

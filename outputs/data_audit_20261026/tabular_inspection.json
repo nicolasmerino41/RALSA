@@ -1,0 +1,4800 @@
+[
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Gottin\\metadata.csv",
+    "rows": 32,
+    "columns": [
+      {
+        "column": "Unnamed: 0",
+        "nonmissing": 32,
+        "unique": 32,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 32.0
+      },
+      {
+        "column": "site",
+        "nonmissing": 32,
+        "unique": 32,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 32.0
+      },
+      {
+        "column": "site.name",
+        "nonmissing": 32,
+        "unique": 32,
+        "examples": [
+          "MUEH",
+          "HUHN",
+          "ELLE",
+          "ASCH",
+          "MACK",
+          "LENG",
+          "TIEF",
+          "DEHN"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "size.class",
+        "nonmissing": 32,
+        "unique": 3,
+        "examples": [
+          "l",
+          "m",
+          "s"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "area.m2",
+        "nonmissing": 32,
+        "unique": 32,
+        "examples": [
+          "51395",
+          "38776",
+          "35856",
+          "29400",
+          "19440",
+          "16000",
+          "12600",
+          "11528"
+        ],
+        "numeric_min": 314.0,
+        "numeric_max": 51395.0
+      },
+      {
+        "column": "flowercover.pooled",
+        "nonmissing": 32,
+        "unique": 31,
+        "examples": [
+          "64.8",
+          "59.5",
+          "102.4",
+          "122.7",
+          "87.8",
+          "83.9",
+          "40",
+          "70.4"
+        ],
+        "numeric_min": 30.3,
+        "numeric_max": 122.7
+      },
+      {
+        "column": "flowerover.mean",
+        "nonmissing": 32,
+        "unique": 30,
+        "examples": [
+          "10.8",
+          "9.9",
+          "17.1",
+          "20.5",
+          "14.6",
+          "14",
+          "6.7",
+          "11.7"
+        ],
+        "numeric_min": 5.0,
+        "numeric_max": 20.5
+      },
+      {
+        "column": "flowerdiv",
+        "nonmissing": 32,
+        "unique": 20,
+        "examples": [
+          "29",
+          "54",
+          "55",
+          "38",
+          "56",
+          "34",
+          "51",
+          "40"
+        ],
+        "numeric_min": 24.0,
+        "numeric_max": 56.0
+      },
+      {
+        "column": "hanski.connectivity",
+        "nonmissing": 32,
+        "unique": 32,
+        "examples": [
+          "43895.3",
+          "85978.5",
+          "13505.4",
+          "25911.2",
+          "18429.8",
+          "5017.3",
+          "14259.4",
+          "16703.6"
+        ],
+        "numeric_min": 2051.2,
+        "numeric_max": 85978.5
+      },
+      {
+        "column": "nn.distance",
+        "nonmissing": 32,
+        "unique": 30,
+        "examples": [
+          "61",
+          "55",
+          "337",
+          "1143",
+          "663",
+          "1300",
+          "774",
+          "394"
+        ],
+        "numeric_min": 55.0,
+        "numeric_max": 1894.0
+      },
+      {
+        "column": "Sh250",
+        "nonmissing": 32,
+        "unique": 27,
+        "examples": [
+          "1.21",
+          "1.35",
+          "1.43",
+          "1.01",
+          "1.02",
+          "1.06",
+          "1.16",
+          "1.38"
+        ],
+        "numeric_min": 0.09,
+        "numeric_max": 1.56
+      },
+      {
+        "column": "Sh500",
+        "nonmissing": 32,
+        "unique": 28,
+        "examples": [
+          "1.17",
+          "1.37",
+          "1.28",
+          "1.03",
+          "0.88",
+          "0.89",
+          "0.98",
+          "1.27"
+        ],
+        "numeric_min": 0.06,
+        "numeric_max": 1.65
+      },
+      {
+        "column": "nat250",
+        "nonmissing": 32,
+        "unique": 24,
+        "examples": [
+          "0.53",
+          "0.32",
+          "0.52",
+          "0.33",
+          "0.24",
+          "0.1",
+          "0.21",
+          "0.41"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 0.58
+      },
+      {
+        "column": "nat500",
+        "nonmissing": 32,
+        "unique": 23,
+        "examples": [
+          "0.52",
+          "0.38",
+          "0.19",
+          "0.17",
+          "0.06",
+          "0.05",
+          "0.11",
+          "0.32"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 0.55
+      },
+      {
+        "column": "forest250",
+        "nonmissing": 32,
+        "unique": 22,
+        "examples": [
+          "0.01",
+          "0.22",
+          "0.2",
+          "0.02",
+          "0.23",
+          "0.5",
+          "0.16",
+          "0.42"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 0.55
+      },
+      {
+        "column": "forest500",
+        "nonmissing": 32,
+        "unique": 28,
+        "examples": [
+          "0.02",
+          "0.28",
+          "0.4",
+          "0.09",
+          "0.43",
+          "0.55",
+          "0.59",
+          "0.05"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 0.59
+      },
+      {
+        "column": "arable250",
+        "nonmissing": 32,
+        "unique": 29,
+        "examples": [
+          "0.41",
+          "0.46",
+          "0.28",
+          "0.64",
+          "0.53",
+          "0.4",
+          "0.29",
+          "0.39"
+        ],
+        "numeric_min": 0.08,
+        "numeric_max": 0.99
+      },
+      {
+        "column": "arable500",
+        "nonmissing": 32,
+        "unique": 23,
+        "examples": [
+          "0.43",
+          "0.34",
+          "0.4",
+          "0.71",
+          "0.51",
+          "0.41",
+          "0.3",
+          "0.52"
+        ],
+        "numeric_min": 0.21,
+        "numeric_max": 0.99
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Gottin\\raw-data\\host_para_all_interactions.csv",
+    "rows": 3535,
+    "columns": [
+      {
+        "column": "Site",
+        "nonmissing": 3534,
+        "unique": 32,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 32.0
+      },
+      {
+        "column": "spec_ID",
+        "nonmissing": 3535,
+        "unique": 3459,
+        "examples": [
+          "900",
+          "903",
+          "796",
+          "762",
+          "861",
+          "932",
+          "38",
+          "57"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3478.0
+      },
+      {
+        "column": "nest_ID",
+        "nonmissing": 3534,
+        "unique": 12,
+        "examples": [
+          "5",
+          "3",
+          "9",
+          "11",
+          "4",
+          "1",
+          "6",
+          "10"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 12.0
+      },
+      {
+        "column": "Taxon",
+        "nonmissing": 3535,
+        "unique": 2,
+        "examples": [
+          "wasp",
+          "bee"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Genus.Species",
+        "nonmissing": 3535,
+        "unique": 58,
+        "examples": [
+          "Agenioideus.cinctellus",
+          "Ancistrocerus.antilope",
+          "Ancistrocerus.nigricornis",
+          "Chelostoma.spec",
+          "Dipogon.subintermedius",
+          "Eumenidae.spec",
+          "Heriades.truncorum",
+          "Hylaeus.communis"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "cells",
+        "nonmissing": 3535,
+        "unique": 17,
+        "examples": [
+          "1",
+          "4",
+          "13",
+          "7",
+          "2",
+          "3",
+          "6",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 18.0
+      },
+      {
+        "column": "cells.para",
+        "nonmissing": 911,
+        "unique": 13,
+        "examples": [
+          "9",
+          "4",
+          "2",
+          "1",
+          "5",
+          "6",
+          "3",
+          "8"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 14.0
+      },
+      {
+        "column": "P1.Species.Genus",
+        "nonmissing": 904,
+        "unique": 21,
+        "examples": [
+          "Chrysis.ignita.agg.",
+          "Melittobia.spec",
+          "Encyrtidae.spec",
+          "Gasteruption.spec",
+          "Omalus.aeneus",
+          "Cacoxenus.indagator",
+          "mites",
+          "Monodontomerus.spec"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "P1.cells",
+        "nonmissing": 927,
+        "unique": 11,
+        "examples": [
+          "9",
+          "4",
+          "2",
+          "1",
+          "5",
+          "6",
+          "3",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 14.0
+      },
+      {
+        "column": "P2.Species.Genus",
+        "nonmissing": 64,
+        "unique": 9,
+        "examples": [
+          "Melittobia.spec",
+          "Ichneumonidae.spec",
+          "Monodontomerus.spec",
+          "indet",
+          "Chrysis.ignita.agg.",
+          "Gasteruption.spec",
+          "Cacoxenus.indagator",
+          "Trichrysis.cyanea"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "P2.cells",
+        "nonmissing": 65,
+        "unique": 7,
+        "examples": [
+          "5",
+          "1",
+          "2",
+          " ",
+          "4",
+          "7",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 7.0
+      },
+      {
+        "column": "P3.Species.Genus",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "Monodontomerus.spec"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "P3.cells",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Gottin\\raw-data\\plant_poll_all_interactions.csv",
+    "rows": 7498,
+    "columns": [
+      {
+        "column": "Site",
+        "nonmissing": 7498,
+        "unique": 32,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 32.0
+      },
+      {
+        "column": "Transect",
+        "nonmissing": 7498,
+        "unique": 12,
+        "examples": [
+          "1",
+          "9",
+          "3",
+          "6",
+          "8",
+          "10",
+          "4",
+          "7"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 12.0
+      },
+      {
+        "column": "T_section",
+        "nonmissing": 7498,
+        "unique": 6,
+        "examples": [
+          "D",
+          "B",
+          "E",
+          "A",
+          "C",
+          "F"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Family",
+        "nonmissing": 7498,
+        "unique": 7,
+        "examples": [
+          "Andrenidae",
+          "Apidae",
+          "Colletidae",
+          "Halictidae",
+          "Megachilidae",
+          "Syrphidae",
+          "Melittidae"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Genus.Species",
+        "nonmissing": 7498,
+        "unique": 183,
+        "examples": [
+          "Andrena.flavipes",
+          "Andrena.fucata",
+          "Andrena.fulvago",
+          "Andrena.humilis",
+          "Andrena.minutula",
+          "Andrena.minutuloides",
+          "Andrena.nigroaenea",
+          "Andrena.proxima"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "P.Genus.Species",
+        "nonmissing": 5553,
+        "unique": 101,
+        "examples": [
+          "Hieracium.pilosella",
+          "Pimpinella.saxifraga",
+          "Potentilla.reptans",
+          "Daucus.carota",
+          "Centaurea.jacea",
+          "Campanula.rotundifolia",
+          "Cirsium.acaule",
+          "Hippocrepis.comosa"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "logArea",
+        "nonmissing": 7498,
+        "unique": 32,
+        "examples": [
+          "4.71092087",
+          "4.588563007",
+          "4.554561839",
+          "4.46834733",
+          "4.288696261",
+          "4.204119983",
+          "4.100370545",
+          "4.061753968"
+        ],
+        "numeric_min": 2.496929648,
+        "numeric_max": 4.71092087
+      },
+      {
+        "column": "logIsolation",
+        "nonmissing": 7498,
+        "unique": 32,
+        "examples": [
+          "4.642417808",
+          "4.934389808",
+          "4.130508319",
+          "4.413488191",
+          "4.265520264",
+          "3.700473137",
+          "4.154099664",
+          "4.222810439"
+        ],
+        "numeric_min": 3.312009251,
+        "numeric_max": 4.934389808
+      },
+      {
+        "column": "Sh250",
+        "nonmissing": 7498,
+        "unique": 32,
+        "examples": [
+          "1.209917451",
+          "1.345591142",
+          "1.427003387",
+          "1.011118846",
+          "1.022163935",
+          "1.062495467",
+          "1.164930975",
+          "1.384387557"
+        ],
+        "numeric_min": 0.085501325,
+        "numeric_max": 1.557053712
+      },
+      {
+        "column": "Flowercover",
+        "nonmissing": 7498,
+        "unique": 31,
+        "examples": [
+          "64.80833333",
+          "59.50833333",
+          "102.425",
+          "122.7083333",
+          "87.85",
+          "83.89166667",
+          "39.95",
+          "70.40833333"
+        ],
+        "numeric_min": 30.275,
+        "numeric_max": 122.7083333
+      },
+      {
+        "column": "Flowerdiv",
+        "nonmissing": 7498,
+        "unique": 20,
+        "examples": [
+          "29",
+          "54",
+          "55",
+          "38",
+          "56",
+          "34",
+          "51",
+          "40"
+        ],
+        "numeric_min": 24.0,
+        "numeric_max": 56.0
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_ag_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 94.0,
+    "positive_cells": 43,
+    "values_gt1": 30
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_cl_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 110.0,
+    "positive_cells": 45,
+    "values_gt1": 32
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_ll_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 146.0,
+    "positive_cells": 42,
+    "values_gt1": 24
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_mh_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 73.0,
+    "positive_cells": 36,
+    "values_gt1": 20
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_mnh_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 123.0,
+    "positive_cells": 51,
+    "values_gt1": 38
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_qh_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 150.0,
+    "positive_cells": 47,
+    "values_gt1": 30
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_qnh_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 404.0,
+    "positive_cells": 31,
+    "values_gt1": 17
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Nahuel\\raw-data\\vaz_s_matr_f.txt",
+    "rows": 90,
+    "cols": 14,
+    "numeric_max": 673.0,
+    "positive_cells": 39,
+    "values_gt1": 27
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Quercus\\metadata.csv",
+    "rows": 4334,
+    "columns": [
+      {
+        "column": "Tree",
+        "nonmissing": 22,
+        "unique": 22,
+        "examples": [
+          "1",
+          "200",
+          "536",
+          "649",
+          "654",
+          "690",
+          "714",
+          "726"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1798.0
+      },
+      {
+        "column": "East",
+        "nonmissing": 22,
+        "unique": 22,
+        "examples": [
+          "3202116",
+          "3202297",
+          "3202978",
+          "3203004",
+          "3202992",
+          "3203218",
+          "3202609",
+          "3202368"
+        ],
+        "numeric_min": 3201532.0,
+        "numeric_max": 3203218.0
+      },
+      {
+        "column": "North",
+        "nonmissing": 22,
+        "unique": 22,
+        "examples": [
+          "6687515",
+          "6687552",
+          "6687264",
+          "6687579",
+          "6687466",
+          "6687681",
+          "6687275",
+          "6687263"
+        ],
+        "numeric_min": 6687224.0,
+        "numeric_max": 6688782.0
+      },
+      {
+        "column": "Connectivity",
+        "nonmissing": 22,
+        "unique": 22,
+        "examples": [
+          "24.7522",
+          "41.3476",
+          "13.6920",
+          "12.1334",
+          "14.0064",
+          "5.6986",
+          "16.7182",
+          "16.9291"
+        ],
+        "numeric_min": 2.4953,
+        "numeric_max": 63.2947
+      },
+      {
+        "column": "Unnamed: 4",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 5",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 6",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 7",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 8",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 9",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 10",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 11",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 12",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 13",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 14",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 15",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 16",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 17",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 18",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 19",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 20",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 21",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 22",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 23",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 24",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 25",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 26",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 27",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 28",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 29",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 30",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 31",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 32",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 33",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 34",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 35",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 36",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 37",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 38",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 39",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 40",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 41",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 42",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 43",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 44",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 45",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 46",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 47",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 48",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 49",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 50",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 51",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 52",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 53",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 54",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 55",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 56",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 57",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 58",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 59",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 60",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 61",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 62",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 63",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 64",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 65",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 66",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 67",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 68",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 69",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 70",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 71",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 72",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 73",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 74",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 75",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 76",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 77",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 78",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 79",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 80",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 81",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 82",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 83",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 84",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 85",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 86",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 87",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 88",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 89",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 90",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 91",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 92",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 93",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 94",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 95",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 96",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 97",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 98",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 99",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 100",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 101",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 102",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 103",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 104",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 105",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 106",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 107",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 108",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 109",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 110",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 111",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 112",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 113",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 114",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 115",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 116",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 117",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 118",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 119",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 120",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 121",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 122",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 123",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 124",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 125",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 126",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 127",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 128",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 129",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 130",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 131",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 132",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 133",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 134",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 135",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 136",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 137",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 138",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 139",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 140",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 141",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 142",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 143",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 144",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 145",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 146",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 147",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 148",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 149",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 150",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 151",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 152",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 153",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 154",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 155",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 156",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 157",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 158",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 159",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 160",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 161",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 162",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 163",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 164",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 165",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 166",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 167",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 168",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 169",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 170",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 171",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 172",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 173",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 174",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 175",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 176",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 177",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 178",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 179",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 180",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 181",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 182",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 183",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 184",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 185",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 186",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 187",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 188",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 189",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 190",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 191",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 192",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 193",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 194",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 195",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 196",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 197",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 198",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 199",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 200",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 201",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 202",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 203",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 204",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 205",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 206",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 207",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 208",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 209",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 210",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 211",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 212",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 213",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 214",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 215",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 216",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 217",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 218",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 219",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 220",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 221",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 222",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 223",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 224",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 225",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 226",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 227",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 228",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 229",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 230",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 231",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 232",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 233",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 234",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 235",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 236",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 237",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 238",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 239",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 240",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 241",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 242",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 243",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 244",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 245",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 246",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 247",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 248",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "Unnamed: 249",
+        "nonmissing": 0,
+        "unique": 0,
+        "examples": [],
+        "numeric_min": null,
+        "numeric_max": null
+      }
+    ]
+  },
+  {
+    "path": "C:\\Users\\MM-1\\OneDrive\\PhD\\GitHub\\InteractionExtinctionDebt\\Salix\\raw-data\\Salix_webs.csv",
+    "rows": 2029,
+    "columns": [
+      {
+        "column": "1:Year of coll",
+        "nonmissing": 2029,
+        "unique": 29,
+        "examples": [
+          "1987",
+          "1986",
+          "1990",
+          "1991",
+          "1992",
+          "1988",
+          "1989",
+          "1993"
+        ],
+        "numeric_min": 1982.0,
+        "numeric_max": 2010.0
+      },
+      {
+        "column": "2:Rearing number",
+        "nonmissing": 2029,
+        "unique": 2029,
+        "examples": [
+          "198714E1-J1Oelaea",
+          "198714L1-V1Obridg",
+          "198715A1-V1Ovaria",
+          "198715A-VOobscu",
+          "198714A-C1Okriec",
+          "198716A-C1Onigri",
+          "198716E1-V1Ovaria",
+          "198717A-P1Ofoeti"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "3:leg",
+        "nonmissing": 2029,
+        "unique": 527,
+        "examples": [
+          "20.07.87",
+          "22.07.87",
+          "23.07.87",
+          "17.07.86",
+          "18.07.86",
+          "20.07.86",
+          "22.07.86",
+          "26.07.86"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "4:country",
+        "nonmissing": 2029,
+        "unique": 13,
+        "examples": [
+          "Austria",
+          "Germany",
+          "Denmark",
+          "Norway",
+          "Switzerland",
+          "Poland",
+          "Finland",
+          "Sweden"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "5:region",
+        "nonmissing": 2029,
+        "unique": 53,
+        "examples": [
+          "Tirol",
+          "Schleswig-Holstein",
+          "Jylland",
+          "Niedersachsen",
+          "S.-Trondelag",
+          "Oppland",
+          "Buskerud",
+          "Hessen"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "6:site",
+        "nonmissing": 2029,
+        "unique": 374,
+        "examples": [
+          "Gern-Alm",
+          "Zillertal, Hintertux/ Weitental",
+          "Rofan Gebirge, Erfurter Hütte",
+          "Zillertal, Lanersbach",
+          "Ötztal, Vent/ Gample",
+          "Kiel, Dietrichsdorf",
+          "Katinger Watt",
+          "Hennestrand"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "7:Ndecdeg",
+        "nonmissing": 2029,
+        "unique": 271,
+        "examples": [
+          "47,45",
+          "47,1",
+          "47,4333333333",
+          "47,15",
+          "46,8666666667",
+          "54,3333333333",
+          "54,3166666667",
+          "55,7333333333"
+        ],
+        "numeric_min": 39.0,
+        "numeric_max": 61.0
+      },
+      {
+        "column": "8:Edecdeg",
+        "nonmissing": 2029,
+        "unique": 275,
+        "examples": [
+          "11,6166666667",
+          "11,65",
+          "11,75",
+          "11,7666666667",
+          "10,9166666667",
+          "10,1833333333",
+          "10,6666666667",
+          "8,1666666667"
+        ],
+        "numeric_min": 9.0,
+        "numeric_max": 22.0
+      },
+      {
+        "column": "9:Elevation",
+        "nonmissing": 2029,
+        "unique": 281,
+        "examples": [
+          "1253",
+          "1769",
+          "1875",
+          "1553",
+          "1833",
+          "34",
+          "4",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2505.0
+      },
+      {
+        "column": "10:Salix",
+        "nonmissing": 2029,
+        "unique": 52,
+        "examples": [
+          "elaeagnos",
+          "appendiculata",
+          "myrsinifolia",
+          "foetida",
+          "hastata",
+          "daphnoides",
+          "helvetica",
+          "glaucosericea"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "11:Salix author",
+        "nonmissing": 2029,
+        "unique": 17,
+        "examples": [
+          "Scop. 1772",
+          "Villars 1789",
+          "Salisbury 1796",
+          "Schleich. 1805",
+          "Linnaeus 1753",
+          "Floderus 1943",
+          "Sauter 1849",
+          "Willd. 1806"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "12:genus",
+        "nonmissing": 2029,
+        "unique": 3,
+        "examples": [
+          "Pontania",
+          "Euura",
+          "Phyllocolpa"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "13:species",
+        "nonmissing": 2029,
+        "unique": 93,
+        "examples": [
+          "elaeagnocola",
+          "bridgmanii",
+          "varia",
+          "obscura",
+          "kriechbaumeri",
+          "nigricantis",
+          "foetidae",
+          "hastatae"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "14:Genus species",
+        "nonmissing": 2029,
+        "unique": 96,
+        "examples": [
+          "Pontania elaeagnocola",
+          "Pontania bridgmanii",
+          "Pontania varia",
+          "Pontania obscura",
+          "Pontania kriechbaumeri",
+          "Pontania nigricantis",
+          "Pontania foetidae",
+          "Pontania hastatae"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "15:Rgaller",
+        "nonmissing": 2029,
+        "unique": 96,
+        "examples": [
+          "Oelaea",
+          "Obridg",
+          "Ovaria",
+          "Oobscu",
+          "Okriec",
+          "Onigri",
+          "Ofoeti",
+          "Ohasta"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "16:author",
+        "nonmissing": 2029,
+        "unique": 43,
+        "examples": [
+          "Kopelke 1994",
+          "(Cameron 1883)",
+          "Kopelke 1991",
+          "Kopelke 2005",
+          "Konow 1901",
+          "Kopelke 1986",
+          "Kopelke 1989",
+          "Vikberg 1970"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "17:code galltype",
+        "nonmissing": 2029,
+        "unique": 14,
+        "examples": [
+          "RK1",
+          "RK3",
+          "RK4",
+          "RK2",
+          "Knospe",
+          "Sproß",
+          "Blattfalte einfach",
+          "Blattrolle verdrillt"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "18:code galltype simplified",
+        "nonmissing": 2029,
+        "unique": 12,
+        "examples": [
+          "Leaf blade sausage gall",
+          "Leaf blade bean gall",
+          "Leaf midrib pea gall",
+          "Leaf midrib bean gall",
+          "Bud gall",
+          "Shoot gall",
+          "Leaf fold",
+          "Leaf roll"
+        ],
+        "numeric_min": null,
+        "numeric_max": null
+      },
+      {
+        "column": "19:n galls",
+        "nonmissing": 2029,
+        "unique": 304,
+        "examples": [
+          "22",
+          "32",
+          "66",
+          "91",
+          "92",
+          "54",
+          "125",
+          "129"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 768.0
+      },
+      {
+        "column": "20:n clean galls",
+        "nonmissing": 2029,
+        "unique": 94,
+        "examples": [
+          "0",
+          "7",
+          "14",
+          "8",
+          "12",
+          "5",
+          "24",
+          "6"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 286.0
+      },
+      {
+        "column": "21:n real galls",
+        "nonmissing": 2029,
+        "unique": 290,
+        "examples": [
+          "22",
+          "25",
+          "66",
+          "52",
+          "91",
+          "84",
+          "46",
+          "125"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 734.0
+      },
+      {
+        "column": "22:parasitised galls",
+        "nonmissing": 2029,
+        "unique": 154,
+        "examples": [
+          "20",
+          "15",
+          "30",
+          "34",
+          "78",
+          "27",
+          "24",
+          "8"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 540.0
+      },
+      {
+        "column": "23:unparasitised galls",
+        "nonmissing": 2029,
+        "unique": 246,
+        "examples": [
+          "2",
+          "10",
+          "36",
+          "18",
+          "13",
+          "57",
+          "22",
+          "117"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 532.0
+      },
+      {
+        "column": "24:total parasitism rate",
+        "nonmissing": 2029,
+        "unique": 971,
+        "examples": [
+          "0,9090909091",
+          "0,6",
+          "0,4545454545",
+          "0,6538461538",
+          "0,8571428571",
+          "0,3214285714",
+          "0,5217391304",
+          "0,064"
+        ],
+        "numeric_min": 0.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "25:Anaprostocetus acuminatus (Ratzeburg 1848)",
+        "nonmissing": 37,
+        "unique": 11,
+        "examples": [
+          "5",
+          "15",
+          "3",
+          "4",
+          "1",
+          "17",
+          "2",
+          "13"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 22.0
+      },
+      {
+        "column": "26:Aprostocetus alveatus Graham 1961",
+        "nonmissing": 5,
+        "unique": 2,
+        "examples": [
+          "1",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "27:Aprostocetus tymber (Walker 1839)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "28:Aprostocetus sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "29:Chrysocharis elongata (Thomson 1878)",
+        "nonmissing": 269,
+        "unique": 34,
+        "examples": [
+          "1",
+          "3",
+          "16",
+          "66",
+          "26",
+          "9",
+          "47",
+          "37"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 99.0
+      },
+      {
+        "column": "30:Cirrospilus vittatus Walker 1838",
+        "nonmissing": 6,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "31:Closterocerus trifasciatus Westwood 1833",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "1",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "32:Dicladocerus westwoodi Westwood 1832",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "4"
+        ],
+        "numeric_min": 4.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "33:Entedon heyeri (Ratzeburg 1848)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "11"
+        ],
+        "numeric_min": 11.0,
+        "numeric_max": 11.0
+      },
+      {
+        "column": "34:Euderus albitarsis (Zetterstedt 1838)",
+        "nonmissing": 15,
+        "unique": 5,
+        "examples": [
+          "1",
+          "4",
+          "3",
+          "8",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 8.0
+      },
+      {
+        "column": "35:Pediobius saulius (Walker 1839)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "36:Pnigalio nemati (Westwood 1838)",
+        "nonmissing": 26,
+        "unique": 10,
+        "examples": [
+          "12",
+          "1",
+          "7",
+          "5",
+          "9",
+          "2",
+          "4",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 12.0
+      },
+      {
+        "column": "37:Pnigalio pectinicornis (Linnaeus 1758)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "38:Pnigalio soemius (Walker 1839)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "39:Tetrastichus sp.1",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "40:Tetrastichus sp.2",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "41:Tetrastichus sp.3",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "5"
+        ],
+        "numeric_min": 5.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "42:Tetrastichus sp.4",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "43:Tetrastichus sp.5",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "1",
+          "10"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 10.0
+      },
+      {
+        "column": "44:Tetrastichus sp.6",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "45:Tetrastichus sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "12"
+        ],
+        "numeric_min": 12.0,
+        "numeric_max": 12.0
+      },
+      {
+        "column": "46:Eurytoma aciculata Ratzeburg 1848",
+        "nonmissing": 278,
+        "unique": 50,
+        "examples": [
+          "2",
+          "1",
+          "4",
+          "6",
+          "3",
+          "121",
+          "26",
+          "18"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 273.0
+      },
+      {
+        "column": "47:Eurytoma nobbei Mayr 1878",
+        "nonmissing": 51,
+        "unique": 17,
+        "examples": [
+          "27",
+          "2",
+          "4",
+          "16",
+          "11",
+          "25",
+          "1",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 38.0
+      },
+      {
+        "column": "48:Eurytoma salicis Walker 1834",
+        "nonmissing": 52,
+        "unique": 25,
+        "examples": [
+          "19",
+          "69",
+          "51",
+          "14",
+          "11",
+          "1",
+          "8",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 139.0
+      },
+      {
+        "column": "49:Eurytoma sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "3"
+        ],
+        "numeric_min": 3.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "50:Mymaridae gen. sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "51:Eulonchetron torymoides (Thomson 1878)",
+        "nonmissing": 186,
+        "unique": 36,
+        "examples": [
+          "4",
+          "1",
+          "6",
+          "18",
+          "2",
+          "31",
+          "7",
+          "17"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 104.0
+      },
+      {
+        "column": "52:Eupelmus urozonus Dalman 1820",
+        "nonmissing": 10,
+        "unique": 5,
+        "examples": [
+          "1",
+          "2",
+          "5",
+          "3",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "53:Macroneura vesicularis (Retzius 1783)",
+        "nonmissing": 7,
+        "unique": 5,
+        "examples": [
+          "5",
+          "1",
+          "2",
+          "4",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 8.0
+      },
+      {
+        "column": "54:Mesopolobus ?longicollis Graham 1969",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "55:Pteromalus cyniphidis (Linnaeus 1758)",
+        "nonmissing": 26,
+        "unique": 11,
+        "examples": [
+          "1",
+          "4",
+          "15",
+          "2",
+          "5",
+          "14",
+          "3",
+          "16"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 92.0
+      },
+      {
+        "column": "56:Pteromalus dolichurus (Thomson 1878)",
+        "nonmissing": 356,
+        "unique": 36,
+        "examples": [
+          "9",
+          "1",
+          "3",
+          "2",
+          "8",
+          "16",
+          "33",
+          "38"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 135.0
+      },
+      {
+        "column": "57:Pteromalus euurae Askew 1995",
+        "nonmissing": 78,
+        "unique": 22,
+        "examples": [
+          "4",
+          "1",
+          "20",
+          "2",
+          "11",
+          "28",
+          "6",
+          "9"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 62.0
+      },
+      {
+        "column": "58:Pteromalus pontaniae Askew 1985",
+        "nonmissing": 108,
+        "unique": 27,
+        "examples": [
+          "45",
+          "3",
+          "1",
+          "2",
+          "38",
+          "4",
+          "17",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 137.0
+      },
+      {
+        "column": "59:Pteromalus sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "60:Sympiesis ?alcalle (Walker 1848)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "61:Torymus sp.",
+        "nonmissing": 4,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "62:Chalcidoidea indet.",
+        "nonmissing": 944,
+        "unique": 89,
+        "examples": [
+          "3",
+          "7",
+          "27",
+          "34",
+          "64",
+          "23",
+          "19",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 353.0
+      },
+      {
+        "column": "63:Apanteles ?morrisi Mason 1974",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "64:Apanteles xanthostigma (Haliday 1834)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "65:Apanteles sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "66:Bracon breviusculus (Wesmael 1838)",
+        "nonmissing": 12,
+        "unique": 7,
+        "examples": [
+          "4",
+          "9",
+          "2",
+          "1",
+          "7",
+          "5",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 9.0
+      },
+      {
+        "column": "67:Bracon conjugellae Bengtsson 1924",
+        "nonmissing": 5,
+        "unique": 4,
+        "examples": [
+          "20",
+          "3",
+          "4",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 20.0
+      },
+      {
+        "column": "68:Bracon discoideus (Wesmael 1838)",
+        "nonmissing": 27,
+        "unique": 9,
+        "examples": [
+          "1",
+          "30",
+          "12",
+          "9",
+          "5",
+          "4",
+          "2",
+          "6"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 30.0
+      },
+      {
+        "column": "69:Bracon epitriptus Marshall 1885",
+        "nonmissing": 14,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "70:Bracon immutator Nees 1834",
+        "nonmissing": 8,
+        "unique": 3,
+        "examples": [
+          "1",
+          "2",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "71:Bracon intercessor Nees 1834",
+        "nonmissing": 15,
+        "unique": 6,
+        "examples": [
+          "1",
+          "2",
+          "5",
+          "9",
+          "3",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 9.0
+      },
+      {
+        "column": "72:Bracon kopelkei Papp 2000",
+        "nonmissing": 24,
+        "unique": 6,
+        "examples": [
+          "2",
+          "1",
+          "3",
+          "4",
+          "6",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 6.0
+      },
+      {
+        "column": "73:Bracon lividus Telenga 1936",
+        "nonmissing": 2,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "74:Bracon obscurator Nees 1811",
+        "nonmissing": 3,
+        "unique": 3,
+        "examples": [
+          "13",
+          "3",
+          "5"
+        ],
+        "numeric_min": 3.0,
+        "numeric_max": 13.0
+      },
+      {
+        "column": "75:Bracon picticornis (Wesmael 1838)",
+        "nonmissing": 10,
+        "unique": 4,
+        "examples": [
+          "3",
+          "1",
+          "5",
+          "7"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 7.0
+      },
+      {
+        "column": "76:Bracon pulcher Bengtsson 1924",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "5",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "77:Bracon romani Fahringer 1927",
+        "nonmissing": 184,
+        "unique": 27,
+        "examples": [
+          "1",
+          "4",
+          "5",
+          "3",
+          "11",
+          "10",
+          "2",
+          "9"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 82.0
+      },
+      {
+        "column": "78:Bracon sp.",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "3",
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "79:Colastes flavitarsis (Thomson 1892)",
+        "nonmissing": 4,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "80:Colastes gracilis Papp 1975",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "81:Colastes ?incertus (Wesmael 1838)",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "1",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "82:Colastes laevis (Thomson 1892)",
+        "nonmissing": 20,
+        "unique": 8,
+        "examples": [
+          "5",
+          "6",
+          "2",
+          "1",
+          "4",
+          "13",
+          "23",
+          "10"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 23.0
+      },
+      {
+        "column": "83:Colastes nr. subquadratus Achterberg",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "14",
+          "11"
+        ],
+        "numeric_min": 11.0,
+        "numeric_max": 14.0
+      },
+      {
+        "column": "84:Dolichogenidea coleophorae (Wilkinson 1938)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "85:Dolichogenidea longicauda (Wesmael 1837)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "86:Ichneutes brevis Wesmael 1835",
+        "nonmissing": 8,
+        "unique": 4,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "87:Ichneutes lapponicus Thomson 1895",
+        "nonmissing": 43,
+        "unique": 11,
+        "examples": [
+          "39",
+          "4",
+          "11",
+          "3",
+          "1",
+          "2",
+          "6",
+          "14"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 39.0
+      },
+      {
+        "column": "88:Ichneutes reunitor Nees 1816",
+        "nonmissing": 7,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "89:Ichneutes sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "3"
+        ],
+        "numeric_min": 3.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "90:Lissogaster subcompleta (Nees v. Esenbeck 1834)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "91:Shawiana lapponica (Thomson 1892)",
+        "nonmissing": 35,
+        "unique": 12,
+        "examples": [
+          "2",
+          "5",
+          "1",
+          "3",
+          "4",
+          "12",
+          "16",
+          "15"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 39.0
+      },
+      {
+        "column": "92:Braconidae indet.",
+        "nonmissing": 103,
+        "unique": 12,
+        "examples": [
+          "2",
+          "1",
+          "5",
+          "3",
+          "6",
+          "4",
+          "17",
+          "28"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 28.0
+      },
+      {
+        "column": "93:Adelognathus cubiceps Roman 1925",
+        "nonmissing": 33,
+        "unique": 15,
+        "examples": [
+          "4",
+          "6",
+          "17",
+          "5",
+          "8",
+          "1",
+          "12",
+          "11"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 111.0
+      },
+      {
+        "column": "94:Adelognathus pusillus Holmgren 1857",
+        "nonmissing": 65,
+        "unique": 10,
+        "examples": [
+          "14",
+          "1",
+          "6",
+          "4",
+          "3",
+          "2",
+          "5",
+          "12"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 14.0
+      },
+      {
+        "column": "95:Adelognathus trochanteratus Kasparyan 1986",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "5",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "96:Adelognathus sp.",
+        "nonmissing": 68,
+        "unique": 13,
+        "examples": [
+          "2",
+          "1",
+          "3",
+          "6",
+          "5",
+          "4",
+          "7",
+          "19"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 19.0
+      },
+      {
+        "column": "97:Anoncus gallicola Kasparyan & Kopelke 2009",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "1",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "98:Aptesis nigrocincta (Gravenhorst 1815)",
+        "nonmissing": 12,
+        "unique": 3,
+        "examples": [
+          "4",
+          "2",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "99:Campodorus variegatus Jurine 1807",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "100:Campoplex sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "101:Cteniscus dorsalis Cresson 1864",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "102:Ctenochira ?oreophila (Schmiedeknecht 1912)",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "1",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "103:Ctenochira romani (Pfankuch 1925)",
+        "nonmissing": 4,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "104:Ctenochira",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "105:Diaparsis stramineipes (Brischke 1880)",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "3",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "106:Eclytus sp.",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "5"
+        ],
+        "numeric_min": 5.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "107:Eridolius frontator  Kasparyan 1985",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "3"
+        ],
+        "numeric_min": 3.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "108:Eridolius pygmaeus (Holmgren 1857)",
+        "nonmissing": 19,
+        "unique": 11,
+        "examples": [
+          "1",
+          "2",
+          "4",
+          "3",
+          "38",
+          "22",
+          "11",
+          "6"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 38.0
+      },
+      {
+        "column": "109:Eridolius taigensis Kasparyan 1985",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "110:Eridolius sp.",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "3",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "111:Erromenus analis Brischke 1871",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "112:Exochus sp. 1",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "5"
+        ],
+        "numeric_min": 5.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "113:Exyston calcaratus Thomson 1883",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "114:Gambrus ornatus (Gravenhorst 1829)",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "3",
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "115:Gelis sp.",
+        "nonmissing": 2,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "116:Itoplectis alternans (Gravenhorst 1829)",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "117:Lathrostizus alpicola Horstmann 2004",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "8",
+          "6"
+        ],
+        "numeric_min": 6.0,
+        "numeric_max": 8.0
+      },
+      {
+        "column": "118:Lathrostizus alpinus Horstmann 1971",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "119:Lathrostizus flexicauda (Holmgren 1860)",
+        "nonmissing": 20,
+        "unique": 12,
+        "examples": [
+          "3",
+          "2",
+          "6",
+          "40",
+          "65",
+          "11",
+          "31",
+          "29"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 65.0
+      },
+      {
+        "column": "120:Lathrostizus forticauda  (Thomson 1887)",
+        "nonmissing": 7,
+        "unique": 4,
+        "examples": [
+          "1",
+          "6",
+          "2",
+          "15"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 15.0
+      },
+      {
+        "column": "121:Lathrostizus lapponicus Horstmann 2004",
+        "nonmissing": 3,
+        "unique": 3,
+        "examples": [
+          "2",
+          "3",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "122:Lathrostizus lugens (Gravenhorst 1829)",
+        "nonmissing": 49,
+        "unique": 19,
+        "examples": [
+          "1",
+          "12",
+          "2",
+          "4",
+          "3",
+          "39",
+          "6",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 42.0
+      },
+      {
+        "column": "123:Lathrostizus punctipes  (Thomson 1887)",
+        "nonmissing": 9,
+        "unique": 6,
+        "examples": [
+          "4",
+          "1",
+          "7",
+          "2",
+          "3",
+          "6"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 7.0
+      },
+      {
+        "column": "124:Lissonota ?alpinistor Aubert 1969",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "3",
+          "4"
+        ],
+        "numeric_min": 3.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "125:Mesochorus sp.1",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "126:Mesoleius sp.",
+        "nonmissing": 11,
+        "unique": 6,
+        "examples": [
+          "1",
+          "2",
+          "46",
+          "6",
+          "3",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 46.0
+      },
+      {
+        "column": "127:Olesicampe sp.",
+        "nonmissing": 5,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "128:Polyblastus pumilus Holmgren 1855",
+        "nonmissing": 3,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "129:Polyblastus sp.?",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "130:Probles clavicornis Horstmann 1971",
+        "nonmissing": 2,
+        "unique": 1,
+        "examples": [
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 1.0
+      },
+      {
+        "column": "131:Rhinotorus brachycerus Kasparyan & Kopelke 2009",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "5",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 5.0
+      },
+      {
+        "column": "132:Saotis alpinator Kasparyan & Kopelke 2009",
+        "nonmissing": 1,
+        "unique": 1,
+        "examples": [
+          "2"
+        ],
+        "numeric_min": 2.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "133:Saotis boreator Kasparyan & Kopelke 2010",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "2",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "134:Saotis granulator Kasparyan & Kopelke 2010",
+        "nonmissing": 10,
+        "unique": 7,
+        "examples": [
+          "17",
+          "1",
+          "13",
+          "10",
+          "26",
+          "36",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 36.0
+      },
+      {
+        "column": "135:Saotis morleyi Fitton 1976",
+        "nonmissing": 15,
+        "unique": 5,
+        "examples": [
+          "1",
+          "5",
+          "3",
+          "2",
+          "9"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 9.0
+      },
+      {
+        "column": "136:Saotis nigriscuta (Thomson, 1883)",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "1",
+          "10"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 10.0
+      },
+      {
+        "column": "137:Saotis pygidiator pygidiator Kasparyan & Kopelke 2009",
+        "nonmissing": 7,
+        "unique": 5,
+        "examples": [
+          "7",
+          "2",
+          "1",
+          "4",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 7.0
+      },
+      {
+        "column": "138:Saotis renovata (Morley, 1911)",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "2",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "139:Saotis subarctor Kasparyan & Kopelke 2010",
+        "nonmissing": 6,
+        "unique": 2,
+        "examples": [
+          "1",
+          "2"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 2.0
+      },
+      {
+        "column": "140:Saotis tricolor (Thomson 1883)",
+        "nonmissing": 18,
+        "unique": 6,
+        "examples": [
+          "1",
+          "2",
+          "8",
+          "5",
+          "3",
+          "4"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 8.0
+      },
+      {
+        "column": "141:Saotis sp.",
+        "nonmissing": 3,
+        "unique": 2,
+        "examples": [
+          "1",
+          "3"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 3.0
+      },
+      {
+        "column": "142:Scambus vesicarius (Ratzeburg 1844)",
+        "nonmissing": 313,
+        "unique": 35,
+        "examples": [
+          "2",
+          "44",
+          "1",
+          "6",
+          "4",
+          "12",
+          "3",
+          "8"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 79.0
+      },
+      {
+        "column": "143:Theroscopus hemipteron (Riche 1791) insignipennis (Schmiedeknecht 1905)",
+        "nonmissing": 2,
+        "unique": 2,
+        "examples": [
+          "9",
+          "3"
+        ],
+        "numeric_min": 3.0,
+        "numeric_max": 9.0
+      },
+      {
+        "column": "144:Lathrostizus/Olesicampe sp.",
+        "nonmissing": 3,
+        "unique": 3,
+        "examples": [
+          "2",
+          "4",
+          "1"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 4.0
+      },
+      {
+        "column": "145:Ichneumonidae indet.",
+        "nonmissing": 117,
+        "unique": 12,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "25",
+          "9",
+          "4",
+          "12",
+          "11"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 25.0
+      },
+      {
+        "column": "146:Apion minimum Herbst 1797",
+        "nonmissing": 42,
+        "unique": 16,
+        "examples": [
+          "54",
+          "32",
+          "2",
+          "1",
+          "3",
+          "14",
+          "4",
+          "6"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 55.0
+      },
+      {
+        "column": "147:Curculio crux Fabricius 1776",
+        "nonmissing": 235,
+        "unique": 53,
+        "examples": [
+          "5",
+          "8",
+          "10",
+          "1",
+          "84",
+          "142",
+          "15",
+          "16"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 290.0
+      },
+      {
+        "column": "148:Curculio salicivorus Paykull 1792",
+        "nonmissing": 4,
+        "unique": 3,
+        "examples": [
+          "4",
+          "6",
+          "5"
+        ],
+        "numeric_min": 4.0,
+        "numeric_max": 6.0
+      },
+      {
+        "column": "149:Euphranta toxoneura (Loew 1846)",
+        "nonmissing": 49,
+        "unique": 24,
+        "examples": [
+          "10",
+          "18",
+          "1",
+          "2",
+          "17",
+          "3",
+          "4",
+          "5"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 273.0
+      },
+      {
+        "column": "150:Hydriomena ruberata Freyer 1831",
+        "nonmissing": 156,
+        "unique": 13,
+        "examples": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "6",
+          "5",
+          "8",
+          "9"
+        ],
+        "numeric_min": 1.0,
+        "numeric_max": 22.0
+      }
+    ]
+  }
+]
