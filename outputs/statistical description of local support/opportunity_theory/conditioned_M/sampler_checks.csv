@@ -1,4 +1,0 @@
-check,error,tolerance,passed
-Site exact enumeration: gap_pp,0.023384694872168765,0.06957356648236222,true
-Site exact enumeration: singleton_fraction,0.0021046225384965256,0.0062707209834126,true
-Pair exact marginals and Common-null equivalence,1.1102230246251565e-16,1.0e-10,true

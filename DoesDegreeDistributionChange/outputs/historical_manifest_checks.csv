@@ -1,0 +1,28 @@
+path,required_input,present,hash_matches
+outputs\support_prediction_zero\confirmed\inputs\Quercus_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Nahuel_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Salix_Galpar_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Gottin_HP_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Gottin_PP_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Garraf_HP_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Garraf_PP_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Garraf_PP2_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Olot_occupancy.csv,true,true,true
+outputs\support_prediction_zero\confirmed\inputs\Montseny_occupancy.csv,true,true,true
+outputs\statistical description of local support\link_support.csv,false,false,false
+outputs\statistical description of local support\site_universe.csv,false,false,false
+outputs\statistical description of local support\two_parameter_fit\fit_summary.csv,false,false,false
+outputs\statistical description of local support\parameter_transfer\curves.csv,false,true,true
+outputs\statistical description of local support\parameter_transfer\summary.csv,false,true,true
+outputs\support_prediction_zero\presence_record_provenance.csv,false,false,false
+outputs\support_prediction_zero\source_checksums.csv,false,false,false
+data\processed\Quercus_interactions.csv,true,true,true
+data\processed\Nahuel_interactions.csv,true,true,true
+data\processed\Salix_Galpar_interactions.csv,true,true,true
+data\processed\Gottin_HP_interactions.csv,true,true,true
+data\processed\Gottin_PP_interactions.csv,true,true,true
+data\processed\Garraf_HP_interactions.csv,true,true,true
+data\processed\Garraf_PP_interactions.csv,true,true,true
+data\processed\Garraf_PP2_interactions.csv,true,true,true
+data\processed\Olot_interactions.csv,true,true,true
+data\processed\Montseny_interactions.csv,true,true,true
