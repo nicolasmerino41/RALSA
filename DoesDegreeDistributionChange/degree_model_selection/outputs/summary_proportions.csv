@@ -1,0 +1,13 @@
+removal,model,communities,percentage
+0.0,Power law,2,20
+0.0,Truncated power law,5,50
+0.0,Log-normal,1,10
+0.0,Exponential,2,20
+0.4,Power law,2,20
+0.4,Truncated power law,5,50
+0.4,Log-normal,1,10
+0.4,Exponential,2,20
+0.8,Power law,0,0
+0.8,Truncated power law,3,30
+0.8,Log-normal,0,0
+0.8,Exponential,7,70

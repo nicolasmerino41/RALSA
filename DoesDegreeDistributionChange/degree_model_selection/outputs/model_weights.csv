@@ -1,0 +1,121 @@
+community,dataset,removal,model,mean_AIC_weight,replicate_win_fraction
+C1,Quercus,0.0,Power law,0.04686384148896928,0.0
+C1,Quercus,0.0,Truncated power law,0.3724225388760289,0.0
+C1,Quercus,0.0,Log-normal,0.17835466219481091,0.0
+C1,Quercus,0.0,Exponential,0.402358957440191,1.0
+C1,Quercus,0.4,Power law,0.0878517053467473,0.0
+C1,Quercus,0.4,Truncated power law,0.31836856429047417,0.32
+C1,Quercus,0.4,Log-normal,0.1721338582614222,0.0
+C1,Quercus,0.4,Exponential,0.4216458721013563,0.68
+C1,Quercus,0.8,Power law,0.09813355569731563,0.08
+C1,Quercus,0.8,Truncated power law,0.22004519006159676,0.01
+C1,Quercus,0.8,Log-normal,0.17801802038324602,0.0
+C1,Quercus,0.8,Exponential,0.5038032338578416,0.91
+C2,Nahuel,0.0,Power law,0.21391989183998072,0.0
+C2,Nahuel,0.0,Truncated power law,0.3873056217578851,1.0
+C2,Nahuel,0.0,Log-normal,0.30378700439365625,0.0
+C2,Nahuel,0.0,Exponential,0.09498748200847788,0.0
+C2,Nahuel,0.4,Power law,0.17524205496817694,0.09
+C2,Nahuel,0.4,Truncated power law,0.31063426916998543,0.58
+C2,Nahuel,0.4,Log-normal,0.2632373901564692,0.07
+C2,Nahuel,0.4,Exponential,0.25088628570536853,0.26
+C2,Nahuel,0.8,Power law,0.14947064882166294,0.26
+C2,Nahuel,0.8,Truncated power law,0.21860534678413376,0.0
+C2,Nahuel,0.8,Log-normal,0.2002220113045365,0.0
+C2,Nahuel,0.8,Exponential,0.43170199308966667,0.74
+C3,Salix_Galpar,0.0,Power law,0.44290215995766347,1.0
+C3,Salix_Galpar,0.0,Truncated power law,0.31241953471482176,0.0
+C3,Salix_Galpar,0.0,Log-normal,0.24467830532751483,0.0
+C3,Salix_Galpar,0.0,Exponential,4.421320322785517e-19,0.0
+C3,Salix_Galpar,0.4,Power law,0.39621436156288714,0.62
+C3,Salix_Galpar,0.4,Truncated power law,0.3455219762388338,0.32
+C3,Salix_Galpar,0.4,Log-normal,0.2582636621851891,0.06
+C3,Salix_Galpar,0.4,Exponential,1.3089693342350915e-11,0.0
+C3,Salix_Galpar,0.8,Power law,0.3054576125150886,0.25
+C3,Salix_Galpar,0.8,Truncated power law,0.43582862005870376,0.73
+C3,Salix_Galpar,0.8,Log-normal,0.2586478142087756,0.02
+C3,Salix_Galpar,0.8,Exponential,6.595321743205645e-5,0.0
+C4,Gottin_HP,0.0,Power law,0.5485730467359663,1.0
+C4,Gottin_HP,0.0,Truncated power law,0.2243441700830187,0.0
+C4,Gottin_HP,0.0,Log-normal,0.20198897947667319,0.0
+C4,Gottin_HP,0.0,Exponential,0.025093803704341822,0.0
+C4,Gottin_HP,0.4,Power law,0.4104017933628086,0.92
+C4,Gottin_HP,0.4,Truncated power law,0.25001231143397323,0.0
+C4,Gottin_HP,0.4,Log-normal,0.19851907652097897,0.0
+C4,Gottin_HP,0.4,Exponential,0.14106681868223936,0.08
+C4,Gottin_HP,0.8,Power law,0.23159896940180494,0.34
+C4,Gottin_HP,0.8,Truncated power law,0.2082563035912114,0.0
+C4,Gottin_HP,0.8,Log-normal,0.19212236682917738,0.02
+C4,Gottin_HP,0.8,Exponential,0.3680223601778064,0.64
+C5,Gottin_PP,0.0,Power law,0.03113252535874538,0.0
+C5,Gottin_PP,0.0,Truncated power law,0.6851167835544902,1.0
+C5,Gottin_PP,0.0,Log-normal,0.2837506910862247,0.0
+C5,Gottin_PP,0.0,Exponential,5.396057935037773e-13,0.0
+C5,Gottin_PP,0.4,Power law,0.04653587862602535,0.0
+C5,Gottin_PP,0.4,Truncated power law,0.6653280115897704,1.0
+C5,Gottin_PP,0.4,Log-normal,0.2881360932893766,0.0
+C5,Gottin_PP,0.4,Exponential,1.6494827472755125e-8,0.0
+C5,Gottin_PP,0.8,Power law,0.10417422731655225,0.03
+C5,Gottin_PP,0.8,Truncated power law,0.5586662213132711,0.9
+C5,Gottin_PP,0.8,Log-normal,0.33066486426781,0.07
+C5,Gottin_PP,0.8,Exponential,0.006494687102366705,0.0
+C6,Garraf_HP,0.0,Power law,0.05865544039809074,0.0
+C6,Garraf_HP,0.0,Truncated power law,0.28060028203370535,0.0
+C6,Garraf_HP,0.0,Log-normal,0.18177051617862655,0.0
+C6,Garraf_HP,0.0,Exponential,0.4789737613895774,1.0
+C6,Garraf_HP,0.4,Power law,0.07834155769961598,0.05
+C6,Garraf_HP,0.4,Truncated power law,0.23085328438031782,0.01
+C6,Garraf_HP,0.4,Log-normal,0.18022209707666703,0.0
+C6,Garraf_HP,0.4,Exponential,0.5105830608433991,0.94
+C6,Garraf_HP,0.8,Power law,0.18550024826295505,0.18
+C6,Garraf_HP,0.8,Truncated power law,0.18181179104940093,0.0
+C6,Garraf_HP,0.8,Log-normal,0.20325993804458012,0.03
+C6,Garraf_HP,0.8,Exponential,0.42942802264306396,0.79
+C7,Garraf_PP,0.0,Power law,0.02587348605051734,0.0
+C7,Garraf_PP,0.0,Truncated power law,0.7010656935217623,1.0
+C7,Garraf_PP,0.0,Log-normal,0.26944255595678757,0.0
+C7,Garraf_PP,0.0,Exponential,0.0036182644709327476,0.0
+C7,Garraf_PP,0.4,Power law,0.042329822277311004,0.0
+C7,Garraf_PP,0.4,Truncated power law,0.5451048061204428,0.96
+C7,Garraf_PP,0.4,Log-normal,0.2840291134862803,0.01
+C7,Garraf_PP,0.4,Exponential,0.12853625811596595,0.03
+C7,Garraf_PP,0.8,Power law,0.08303621695939156,0.08
+C7,Garraf_PP,0.8,Truncated power law,0.2570043321833349,0.13
+C7,Garraf_PP,0.8,Log-normal,0.1994416188352216,0.02
+C7,Garraf_PP,0.8,Exponential,0.4605178320220521,0.77
+C8,Garraf_PP2,0.0,Power law,0.003277667869343578,0.0
+C8,Garraf_PP2,0.0,Truncated power law,0.6849259853265568,1.0
+C8,Garraf_PP2,0.0,Log-normal,0.3076125183555202,0.0
+C8,Garraf_PP2,0.0,Exponential,0.004183828448579324,0.0
+C8,Garraf_PP2,0.4,Power law,0.0016623028686087054,0.0
+C8,Garraf_PP2,0.4,Truncated power law,0.721903640066814,1.0
+C8,Garraf_PP2,0.4,Log-normal,0.17669264125195258,0.0
+C8,Garraf_PP2,0.4,Exponential,0.09974141581262491,0.0
+C8,Garraf_PP2,0.8,Power law,5.357566920392967e-5,0.0
+C8,Garraf_PP2,0.8,Truncated power law,0.3053893802544934,0.05
+C8,Garraf_PP2,0.8,Log-normal,0.03822278087215472,0.0
+C8,Garraf_PP2,0.8,Exponential,0.6563342632041479,0.95
+C9,Olot,0.0,Power law,0.19922996133878623,0.0
+C9,Olot,0.0,Truncated power law,0.18373077885998174,0.0
+C9,Olot,0.0,Log-normal,0.3742029052346753,1.0
+C9,Olot,0.0,Exponential,0.2428363545665567,0.0
+C9,Olot,0.4,Power law,0.22097635220838874,0.3
+C9,Olot,0.4,Truncated power law,0.20065795259549157,0.0
+C9,Olot,0.4,Log-normal,0.29970629526173215,0.38
+C9,Olot,0.4,Exponential,0.27865939993438743,0.32
+C9,Olot,0.8,Power law,0.15850373211575594,0.13
+C9,Olot,0.8,Truncated power law,0.19506771786398758,0.0
+C9,Olot,0.8,Log-normal,0.22068759384185538,0.01
+C9,Olot,0.8,Exponential,0.425740956178401,0.86
+C10,Montseny,0.0,Power law,8.816228001400413e-7,0.0
+C10,Montseny,0.0,Truncated power law,0.7920968953119606,1.0
+C10,Montseny,0.0,Log-normal,0.20713814016459184,0.0
+C10,Montseny,0.0,Exponential,0.0007640829006474105,0.0
+C10,Montseny,0.4,Power law,1.715605888737785e-5,0.0
+C10,Montseny,0.4,Truncated power law,0.6376839166202698,0.9
+C10,Montseny,0.4,Log-normal,0.2838349856457915,0.08
+C10,Montseny,0.4,Exponential,0.0784639416750514,0.02
+C10,Montseny,0.8,Power law,0.004992045370233644,0.0
+C10,Montseny,0.8,Truncated power law,0.3858720462268446,0.39
+C10,Montseny,0.8,Log-normal,0.2665249205418223,0.09
+C10,Montseny,0.8,Exponential,0.34261098786109945,0.52
