@@ -1,0 +1,11 @@
+dataset,N,pairs,total_opportunities,M,L,all_pairs_verified,known_support_verified,all_draws_M_L_fixed
+Quercus,22,1192,5161,430,133,true,true,true
+Nahuel,8,938,1992,334,163,true,true,true
+Salix_Galpar,341,3168,10328,3104,939,true,true,true
+Gottin_HP,32,837,3728,357,108,true,true,true
+Gottin_PP,32,6437,19463,1987,781,true,true,true
+Garraf_HP,25,622,1079,159,89,true,true,true
+Garraf_PP,40,1355,2925,747,325,true,true,true
+Garraf_PP2,21,3671,12553,4288,967,true,true,true
+Olot,14,558,1511,253,92,true,true,true
+Montseny,18,3831,7472,1451,707,true,true,true
